@@ -1,0 +1,3 @@
+#!/bin/bash
+# (this should be run from the root of the repo: util/sync)
+git subtree pull --prefix places/gardens/flancian https://github.com/flancian/garden master --squash
