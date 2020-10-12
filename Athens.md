@@ -1,0 +1,4 @@
+# Athens
+- [[tangjeff0]]
+- [ ] https://www.notion.so/Why-you-should-learn-Clojure-my-first-month-as-a-Clojurian-87e265099b1140d5b64ea503efab861c
+- In Athens there is an Agora too, it seems!

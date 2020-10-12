@@ -1,0 +1,7 @@
+# GPT 3
+- The succesor to [[GPT-2]]. As of the time of writing [[July 20th, 2020]], I have only seen samples but not read in depth about the changes.
+- Should read the paper.
+- Should read [[gwern]]'s take: https://www.gwern.net/GPT-3
+- https://twitter.com/flancian/status/1286236400262709249
+- 
+- 
