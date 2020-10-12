@@ -1,3 +1,0 @@
-# April 22nd, 2020
-- Organized my desk and felt good about it.
-- [[ErikAllberg]] provided a pointer to https://en.wikipedia.org/wiki/Argument_map. Looks very relevant for [[Agora]].

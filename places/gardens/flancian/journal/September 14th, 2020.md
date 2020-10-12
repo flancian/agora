@@ -1,6 +1,0 @@
-# September 14th, 2020
-- [[tyler alterman]] wants to buy a castle (?): https://twitter.com/TylerAlterman/status/1303492867311230976
-- Opened [[daily]]
-- Chatted with [[harveykrishna]] on Twitter DMs. Weird I didn't have a node on him/her already!
-- [[unknownquant]] recommended https://ia803108.us.archive.org/5/items/ThatWhichIsTattvarthaSutraNathaMalaTatia/That%20Which%20is%20Tattvartha%20Sutra%20Natha%20Mala%20Tatia.pdf as a starting point to understand [[Jainism]].
-- [[hyperanomalous]]

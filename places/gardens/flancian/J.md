@@ -1,2 +1,0 @@
-# J
-An old [[friend]].

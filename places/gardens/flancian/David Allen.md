@@ -1,2 +1,0 @@
-# David Allen
-- Wrote [[GTD]].
