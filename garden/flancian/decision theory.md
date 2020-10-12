@@ -1,0 +1,3 @@
+# Decision Theory
+- https://en.wikipedia.org/wiki/Decision_theory
+- **Decision theory** (or the **theory of choice** not to be confused with [choice theory](https://en.wikipedia.org/wiki/Rational_choice_theory)) is the study of an [agent's](https://en.wikipedia.org/wiki/Agent_(economics)) choices.[[1]](https://en.wikipedia.org/wiki/Decision_theory#cite_note-1) Decision theory can be broken into two branches: [normative](https://en.wikipedia.org/wiki/Norm_(philosophy)) decision theory, which analyzes the outcomes of decisions or determines the [optimal decisions](https://en.wikipedia.org/wiki/Optimal_decision) given constraints and assumptions, and descriptive decision theory, which analyzes __how__ agents actually make the decisions they do.

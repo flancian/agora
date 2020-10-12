@@ -1,0 +1,4 @@
+# Jumpsuit Chic
+- I've been meaning to write this short story for so long, but never got to it. When should I?
+- See my old notes doc for the plot: [[Ficciones]]
+- Adding a man and a dog as characters could be a funny reference.
