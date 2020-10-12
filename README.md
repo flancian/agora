@@ -1,5 +1,5 @@
 # Welcome to the Agora v0.5
-This is v0.5 of the Agora (flancia.org/agora). You can find the v0 online (but currently unmaintained) at anagora.org; the Agora v0.5 is expected to replace it eventually.
+This is v0.5 of the [Agora](flancia.org/agora). You can find the v0 online (but currently unmaintained) at <anagora.org>; the Agora v0.5 is expected to replace it eventually.
 
 # What's an Agora?
 
