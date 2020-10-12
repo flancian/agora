@@ -1,0 +1,13 @@
+# August 8th, 2020
+- Today I'd like to:
+    - Write/edit Caramel City
+    - {[x]}} Clean up my [[TODO]]
+- TIL Cabbage, Brussels sprouts, broccoli, cauliflower, all come from [[brassica oleracea]]
+- [[AbstractFairy]] told me about [[microsolidarity]]
+- [[ikesharpless]] told me about [[Zhuangzi]]
+    - "Recommended on Twitter in [[twitter-zhuangzi]]. "https://twitter.com/ikesharpless/status/1292154202672644097"" 
+- Interacted with [[Eric Linus Kaplan]], [[trotto]], [[conaw]]
+- [[doikayt]] told me about [[new games]]: https://twitter.com/doikayt/status/1292203493512511488 
+- I grokked [[thewiseturtle]]'s model.
+- Thought about [[Roam Go Links]], [[Twitter Go Links]].
+- Quality time.

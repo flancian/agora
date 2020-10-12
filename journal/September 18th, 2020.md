@@ -1,0 +1,13 @@
+# September 18th, 2020
+- [[Quick Capture]]
+    - https://twitter.com/dmdohan/status/1306819256307179520?s=09
+
+
+    - https://twitter.com/hyperanomalous/status/1306740848848252934?s=09
+
+
+    - The Peacock Room
+
+[[washington]] https://en.wikipedia.org/wiki/The_Peacock_Room?wprov=sfla1
+
+

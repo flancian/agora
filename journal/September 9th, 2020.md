@@ -1,0 +1,12 @@
+# September 9th, 2020
+- [[Quick Capture]]
+    - Ruark Audio MR-1 MK2 (1 pair, 20W, Rich Walnut) - digitec
+
+https://www.digitec.ch/en/s1/product/ruark-audio-mr-1-mk2-1-pair-20w-rich-walnut-hi-fi-home-cinema-speakers-6979914
+
+
+    - Marxism and Buddhism | Aeon
+
+https://aeon.co/essays/how-marxism-and-buddhism-complement-each-other
+
+

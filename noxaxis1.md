@@ -1,0 +1,5 @@
+# Noxaxis1
+- A [[person]] on [[twitter]]:  https://twitter.com/noxaxis1
+- Interested in the [[Agora]] (at least has compatible goals).
+- Anti-centrist because they identify centrism with mediocrity/status quo. Yet, in my opinion, their positions are likely to be ultimately compatible with my views on "middle way" thought.
+- I liked https://medium.com/@noxaxis/the-disavowal-of-the-axis-32a95950d349. Anti tribalism, pro high dimensional identities.

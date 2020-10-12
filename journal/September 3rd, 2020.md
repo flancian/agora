@@ -1,0 +1,9 @@
+# September 3rd, 2020
+- Likely interesting post about Roam: https://www.nateliason.com/blog/roam
+- [ ] Check out [[conaw]]'s pinned thread: https://twitter.com/adam_keesling/status/1196864424725774336
+- Should read my [[TODO]]
+- Should check my [[Twitter todo]]
+- Should finish perf!
+- Sounds of the dawn 30 apr 2016 [[nts]] nice guitar
+- LONGFORM EDITIONS, 19 FEB 2019 [[nts]] 
+- [[peternlindberg]] founded [[thestoa.ca]]
