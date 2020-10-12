@@ -14,7 +14,7 @@ The *Agoreans* build the Agora.
 Anybody can become an Agorean: you just need to be interested in building or maintaining an Agora, and willing to uphold and preserve its Contract.
 
 ## Contract
-Please refer to [contract.md]. ***While you contribute to an Agora you are assumed to be in agreement with its Contract.*** 
+Please refer to CONTRACT.md. ***While you contribute to an Agora you are assumed to be in agreement with its Contract.*** 
 
 If you disagree with any item in the Contract, or would like to improve it, please send a PR. You can also, of course, fork the Agora anytime for any reason. In this way you gain full control over its Contract, although not over its users and existing places: you are creating a new Agora.
 
