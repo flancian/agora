@@ -3,9 +3,11 @@ This is v0.5 of the [Agora](flancia.org/agora). You can find the v0 online (but 
 
 # What's an Agora?
 
-An [Agora](https://anagora.org/wiki/Agora) is a distributed, goal-oriented social network based on a cooperatively built and maintained knowledge graph -- a collection of digital gardens.
+An [Agora](https://anagora.org/wiki/Agora) is a distributed, goal-oriented social network centered around a cooperatively built and maintained knowledge graph. The implementation you are currently looking at tries to assemble such a graph out of a collection of [digital gardens](https://joelhooks.com/digital-garden).
 
-The Agora comes with a default narrative: the Agora is a virtual place assembled from fragments of our internet. This repository points to many such places.
+![Agora](agora.gif)
+
+The Agora is also a narrative: the Agora is a virtual place assembled from fragments of our internet. This repository points to many such places.
 
 ## Who builds the Agora?
 
