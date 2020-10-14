@@ -19,7 +19,7 @@
 [Peter Singer]: peter-singer "Peter Singer"
 [The Life you can Save]: the-life-you-can-save "The Life You Can Save"
 [Doing Good Better]: doing-good-better "Doing Good Better"
-[William MacAskill]: william-macaskill "William Macaskill"
+[William MacAskill]: william-macaskill "William MacAskill"
 [The Effective Altruism Handbook]: the-effective-altruism-handbook "The Effective Altruism Handbook"
 [Antisocial]: antisocial "Antisocial"
 [Andrew Marantz]: andrew-marantz "Andrew Marantz"
