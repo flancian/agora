@@ -1,2 +1,0 @@
-# Onboarding to the Agora
-
