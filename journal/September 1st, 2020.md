@@ -13,7 +13,7 @@
 [twitter]: ../twitter "Twitter"
 [doikayt]: ../doikayt "Doikayt"
 [Codex]: ../codex "Codex"
-[Piero della Francesca]: ../piero-della-francesca "piero-della-francesca"
+[Piero della Francesca]: ../piero-della-francesca "Piero Della Francesca"
 [Christopher Alexander]: ../christopher-alexander "Christopher Alexander"
 [forshaper]: ../forshaper "Forshaper"
 [mwiik]: ../mwiik "mwiik"

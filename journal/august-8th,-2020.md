@@ -24,7 +24,7 @@
 [trotto]: ../trotto "Trotto"
 [conaw]: ../conaw "conaw"
 [doikayt]: ../doikayt "Doikayt"
-[new games]: ../new-games "new-games"
+[new games]: ../new-games "New Games"
 [thewiseturtle]: ../thewiseturtle "Thewiseturtle"
 [Roam Go Links]: ../roam-go-links "Roam Go Links"
 [Twitter Go Links]: ../twitter-go-links "Twitter Go Links"
