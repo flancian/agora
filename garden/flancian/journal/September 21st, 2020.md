@@ -32,7 +32,7 @@
 [Ikko Tanaka]: ../ikko-tanaka "Ikko Tanaka"
 [SP]: ../sp "Sp"
 [QAnon]: ../qanon "QAnon"
-[idea]: ../idea "idea"
+[idea]: ../idea "Idea"
 [TODO]: ../todo "Todo"
 [read]: ../read "read"
 [buy]: ../buy "buy"
