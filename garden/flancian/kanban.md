@@ -1,5 +1,5 @@
 # Kanban
-- {{kanban}}
+- kanban
     - Not started
         - 
     - Working
