@@ -25,7 +25,7 @@
 [Browser extensions]: ../browser-extensions "Browser Extensions"
 [Stoa]: ../stoa "Stoa"
 [Bird Feeder]: ../bird-feeder "Bird Feeder"
-[meta]: ../meta "meta"
+[meta]: ../meta "Meta"
 [Fight procrastination]: ../fight-procrastination "Fight Procrastination"
 [Luminosity]: ../luminosity "Luminosity"
 [Quick Capture]: ../quick-capture "Quick Capture"
