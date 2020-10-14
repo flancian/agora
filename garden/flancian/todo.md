@@ -36,17 +36,17 @@ In other words: Why can't we get it done by the end of today (GMT)?"
 - Write a sci fi short story about [[orthodox jews that wear 80s clothing]]
 - Write [[Twitter report]]
     - Or adopt suggestions in thread if any?
-- {[x]}} Add items to work todo:
+- [x] Add items to work todo:
     - mikael
     - perf?
     - partitioning meetings with b. c.
     - yikes, there was something else? look through notes/calendar.
 - Do this: https://twitter.com/flancian/status/1297295559133462529
 - 
-- {[x]}} Get back to this guy: https://twitter.com/dpovey1/status/1296681168142655490
-- {[x]}} Read [[ribbonfarm]] as recommended by [[AbstractFairy]]
+- [x] Get back to this guy: https://twitter.com/dpovey1/status/1296681168142655490
+- [x] Read [[ribbonfarm]] as recommended by [[AbstractFairy]]
 - Finish reading the original (?) blog post about [[digital garden]]
-- {[x]}} Respond to email from [[social.coop]]
+- [x] Respond to email from [[social.coop]]
 - [x] Investigate social.coop, set up donation.
 - Write [[Agora for EA]].
 - Read [[Zhuangzi]] as recommended by [[ikesharpless]]
