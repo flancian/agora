@@ -16,7 +16,7 @@ The *Agoreans* build the Agora.
 Anybody can become an Agorean: you just need to be interested in building or maintaining an Agora, and willing to uphold and preserve its Contract.
 
 ## Contract
-Please refer to [CONTRACT](CONTRACT.md). 
+Please refer to [[CONTRACT]].
 
 ***If you contribute directly to an Agora you are assumed to be in agreement with its then current Contract.*** 
 
@@ -25,5 +25,5 @@ If you disagree with any item in the Contract, or would like to improve it, plea
 # Places in this Agora
 
  - [Gardens](garden/): here you'll find a collection of [digital gardens](https://joelhooks.com/digital-garden), or personal knowledge bases, from around the internet (currently being built, starting with those of the Agoreans).
-   - [garden/flancian](garden/flancian/README.md)
+   - [flancian's digital garden](garden/flancian/README).
  - [Stoas](stoa/): subspaces built by groups of Agoreans in which participating users actively seek to engage in meaningful, constructive, civil, charitable discussion (planned).
