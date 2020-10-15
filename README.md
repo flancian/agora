@@ -1,5 +1,5 @@
 # Welcome to the Agora v0.5
-This is v0.5 of the [Agora](flancia.org/agora). You can find the v0 online (but currently unmaintained) at https://anagora.org; this Agora v0.5 is expected to replace it eventually.
+This is v0.5 of the [Agora](flancia.org/agora). You can find the v0 online (but currently in maintenance mode only) at https://anagora.org/wiki; this Agora v0.5 repository is expected to replace it eventually.
 
 # What's an Agora?
 
@@ -7,7 +7,7 @@ An [Agora](https://anagora.org/wiki/Agora) is a distributed, goal-oriented socia
 
 ![Agora](agora.gif)
 
-The Agora is also a narrative: the Agora is a virtual place assembled from fragments of our internet. This repository points to many such places.
+The Agora is also a narrative: the Agora is a virtual place assembled from intereting fragments of our internet. This repository points to many such places. Feel free to explore and have fun!
 
 ## Who builds the Agora?
 
@@ -24,5 +24,6 @@ If you disagree with any item in the Contract, or would like to improve it, plea
 
 # Places in this Agora
 
- - Garden: in it you'll find a collection of [digital gardens](https://joelhooks.com/digital-garden) from around the internet (currently being built, starting with those of the Agoreans).
- - Stoa: a place in which to engage in meaningful, constructive, civil, charitable discussion (planned).
+ - [Gardens](garden/): here you'll find a collection of [digital gardens](https://joelhooks.com/digital-garden), or personal knowledge bases, from around the internet (currently being built, starting with those of the Agoreans).
+   - [garden/flancian](garden/flancian/README.md)
+ - [Stoas](stoa/): subspaces built by groups of Agoreans in which participating users actively seek to engage in meaningful, constructive, civil, charitable discussion (planned).
