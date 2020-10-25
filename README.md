@@ -7,7 +7,7 @@ An [Agora](https://anagora.org/wiki/Agora) is a distributed, goal-oriented socia
 
 ![Agora](agora.gif)
 
-The Agora is also a narrative: the Agora is a virtual place assembled from intereting fragments of our internet. This repository points to many such places. Feel free to explore and have fun!
+The Agora is also a narrative: the Agora is a virtual place assembled from interesting fragments of our internet. This repository points to many such places. Feel free to explore and have fun!
 
 ## Who builds the Agora?
 
