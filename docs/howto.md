@@ -1,7 +1,7 @@
 # How to use this Agora
 
 ## To browse it
-The simplest way to read this Agora is to browse it online in https://anagora.org. If you browse it directly on github, you'll find many links are broken (this will be fixed eventually).
+The simplest way to read this Agora is to browse it online in https://anagora.org. If you browse it directly on [Github](https://flancia.org/go/agora-git), you'll find many links are broken (this will be fixed eventually).
 
 ## To contribute to it
 The Agora is by design a distributed system. The easiest way to contribute to it is to:
@@ -47,7 +47,7 @@ $ GARDEN=https://github.com/$USERNAME/garden  # replace garden with the name of 
 First up, clone the Agora hub repository:
 
 ```
-git clone git@github.com:flancian/agora.git
+git clone git@github.com/flancian/agora.git
 ```
 
 Then, create a branch and add your own garden as a subtree in the Agora repository:
