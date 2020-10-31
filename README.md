@@ -17,7 +17,7 @@ The *Agoreans* build the Agora.
 Anybody can become an Agorean: you just need to be interested in building or maintaining an Agora, and willing to uphold and preserve its Contract.
 
 ## Contract
-Please refer to [[CONTRACT]].
+Please refer to [CONTRACT](https://flancia.org/go/agora/CONTRACT.md).
 
 ***If you contribute directly to an Agora you are assumed to be in agreement with its then current Contract.*** 
 
