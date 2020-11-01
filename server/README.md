@@ -9,7 +9,7 @@ Then Flask inside a virtual environment in this directory:
 ```
 python3 -m venv venv
 . venv/bin/activate
-pip install Flask
+pip install -r requirements.txt
 ```
 
 Then run the development server:
@@ -34,4 +34,6 @@ git config --global alias.f "reset --hard HEAD"
 As you might have inferred from the above, this project is based on [Flask](https://flask.palletsprojects.com). ```/app``` hosts the Flask app. In it:
 
 ```/templates``` are Jinja2 templates.
-(...)
+```__init__.py``` has the high level Flask setup.
+```agora.py``` does rendering (url maps, views).
+```db.py``` has logic to read/process notes. The db is actually the filesystem :)
