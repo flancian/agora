@@ -43,5 +43,3 @@ def create_app(test_config=None):
          return bleach.linkify(s)
 
     return app
-
-

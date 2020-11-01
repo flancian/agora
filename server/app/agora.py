@@ -5,7 +5,7 @@ bp = Blueprint('agora', __name__)
 
 @bp.route('/')
 def index():
-    return render_template('index.html', help=url_for('agora.help'))
+    return render_template('index.html', help=url_for('agora.help'), notes=url_for('agora.notes'))
 
 @bp.route('/help')
 def help():
@@ -32,4 +32,4 @@ def note(note):
 
 @bp.route('/wikilink/<wikilink>')
 def wikilink(wikilink):
-    return render_template('notes_rendered.html', notes=db.notes_by_wikilink(wikilink))
+    return render_template('notes_rendered.html', wikilink=wikilink, notes=db.notes_by_wikilink(wikilink))
