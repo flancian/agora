@@ -28,5 +28,8 @@ def garden(garden):
 
 @bp.route('/note/<note>')
 def note(note):
-    current_app.logger.warning('Not implemented.')
-    return 'If I had implemented reading notes already, here you would see the note named "%s".' % escape(note)
+    return render_template('note.html', note=note)
+
+@bp.route('/wikilink/<wikilink>')
+def wikilink(wikilink):
+    return render_template('notes_rendered.html', notes=db.notes_by_wikilink(wikilink))
