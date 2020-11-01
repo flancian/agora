@@ -36,7 +36,7 @@ def create_app(test_config=None):
     app.add_url_rule('/', endpoint='index')
 
     # Jinja2 extensions.
-    Markdown(app, extensions=[WikiLinkExtension(build_url=wikilink_to_url)])
+    Markdown(app, tab_length=2, extensions=["sane_lists", WikiLinkExtension(build_url=wikilink_to_url)])
  
     @app.template_filter('linkify')
     def linkify(s):
