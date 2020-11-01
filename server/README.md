@@ -28,4 +28,10 @@ git config --global alias.st status
 git config --global alias.ci commit
 git config --global alias.co checkout
 git config --global alias.f "reset --hard HEAD"
-``
+```
+
+## About the project
+As you might have inferred from the above, this project is based on [Flask](https://flask.palletsprojects.com). ```/app``` hosts the Flask app. In it:
+
+```/templates``` are Jinja2 templates.
+(...)
