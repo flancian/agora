@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+<h1> Notes </h1>
+{% block content %}
+{% for note in notes %}
+{{ note.dir }}: <a href="{{note.url}}">{{note.wikilink}}</a><br />
+{% endfor %}
+{% endblock %}
