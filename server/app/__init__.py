@@ -7,7 +7,7 @@ from markdown.extensions.wikilinks import WikiLinkExtension
 def wikilink_to_url(label, base, end):
     label = label.lower()
     label = label.replace(' ', '-')
-    url = '/wikilink/' + label
+    url = '/node/' + label
     return url
 
 def create_app(test_config=None):

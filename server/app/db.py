@@ -9,7 +9,7 @@ class Node:
     def __init__(self, path):
         self.dir = path_to_url(path)
         self.wikilink = path_to_wikilink(path)
-        self.url = '/wikilink/' + self.wikilink
+        self.url = '/node/' + self.wikilink
         with open(path) as f:
             self.content = f.read()
 
