@@ -34,8 +34,12 @@ def garden(garden):
 @bp.route('/node/<node>')
 @bp.route('/wikilink/<node>') # alias for now
 def wikilink(node):
-    return render_template('nodes_rendered.html', wikilink=node, nodes=db.nodes_by_wikilink(node))
+    return render_template('nodes_rendered.html', wikilink=node, nodes=db.nodes_by_wikilink(node), backlinks=db.nodes_by_outlink(node))
 
 @bp.route('/raw/<node>')
 def raw(node):
-    return Response("\n\n".join([n.content for n in db.nodes_by_wikilink(node)]), mimetype="text/plain")
+    return Response("\n\n".join([str(n.outlinks) for n in db.nodes_by_wikilink(node)]), mimetype="text/plain")
+
+@bp.route('/backlinks/<node>')
+def backlinks(node):
+    return render_template('nodes.html', nodes=db.nodes_by_outlink(node))

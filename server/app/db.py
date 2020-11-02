@@ -1,9 +1,10 @@
 import glob
-import markdown
+import re
 import os
 from operator import attrgetter
 
-BASE='../../agora/'
+BASE = '../../agora/'
+RE_WIKILINKS = re.compile('\[\[(.*?)\]\]')
 
 class Node:
     def __init__(self, path):
@@ -21,7 +22,12 @@ def path_to_wikilink(path):
     return os.path.splitext(os.path.basename(path))[0]
 
 def content_to_outlinks(content):
-    return []
+    # hack hack.
+    match = RE_WIKILINKS.findall(content)
+    if match:
+        return [m.lower().replace(' ', '-') for m in match]
+    else:
+        return []
 
 def all_nodes():
     l = sorted([f for f in glob.glob(BASE + '**/*.md', recursive=True)])
@@ -36,6 +42,6 @@ def nodes_by_wikilink(wikilink):
     nodes = [node for node in all_nodes() if node.wikilink == wikilink]
     return nodes
 
-def nodes_by_outlinks(wikilink):
+def nodes_by_outlink(wikilink):
     nodes = [node for node in all_nodes() if wikilink in node.outlinks]
     return nodes

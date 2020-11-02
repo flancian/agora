@@ -1,5 +1,4 @@
 {% extends "base.html" %}
-<h1> Nodes </h1>
 {% block content %}
 {% if not nodes %}
 No nodes found for '{{wikilink}}'. 
@@ -13,6 +12,10 @@ Go back to <a href="/nodes">/nodes</a>?
 {{ node.dir }}: <a href="{{node.url}}">{{node.wikilink}}</a><br />
 {{ node.content|markdown|linkify|safe }}
 <hr />
+{% endfor %}
+<em>Backlinks:</em><br />
+{% for node in backlinks %}
+{{ node.dir }}: <a href="{{node.url}}">{{node.wikilink}}</a><br />
 {% endfor %}
 
 {% endblock %}
