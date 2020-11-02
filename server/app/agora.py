@@ -1,4 +1,4 @@
-from flask import Blueprint, url_for, render_template, current_app
+from flask import Blueprint, url_for, render_template, current_app, Response
 from markupsafe import escape
 from . import db
 bp = Blueprint('agora', __name__)
@@ -35,3 +35,7 @@ def garden(garden):
 @bp.route('/wikilink/<node>') # alias for now
 def wikilink(node):
     return render_template('nodes_rendered.html', wikilink=node, nodes=db.nodes_by_wikilink(node))
+
+@bp.route('/raw/<node>')
+def raw(node):
+    return Response("\n\n".join([n.content for n in db.nodes_by_wikilink(node)]), mimetype="text/plain")
