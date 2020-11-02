@@ -5,16 +5,21 @@ bp = Blueprint('agora', __name__)
 
 @bp.route('/')
 def index():
-    return render_template('index.html', help=url_for('agora.help'), notes=url_for('agora.notes'))
+    return render_template('index.html', help=url_for('agora.help'), nodes=url_for('agora.nodes'), journals=url_for('agora.journals'))
 
 @bp.route('/help')
 def help():
     current_app.logger.warning('Not implemented.')
     return 'If I had implemented help already, here you\'d see documentation on all URL endpoints. For now, please refer to the <a href="https://flancia.org/go/agora">code</a>.'
 
-@bp.route('/notes')
-def notes():
-    return render_template('notes.html', notes=db.all_notes())
+@bp.route('/notes') # alias for now
+@bp.route('/nodes')
+def nodes():
+    return render_template('nodes.html', nodes=db.all_nodes())
+
+@bp.route('/journals')
+def journals():
+    return render_template('nodes.html', nodes=db.all_journals())
 
 @bp.route('/user/<username>')
 def user(username):
@@ -26,10 +31,7 @@ def garden(garden):
     current_app.logger.warning('Not implemented.')
     return 'If I had implemented rendering gardens already, here you would see garden named "%s".' % escape(garden)
 
-@bp.route('/note/<note>')
-def note(note):
-    return render_template('note.html', note=note)
-
-@bp.route('/wikilink/<wikilink>')
-def wikilink(wikilink):
-    return render_template('notes_rendered.html', wikilink=wikilink, notes=db.notes_by_wikilink(wikilink))
+@bp.route('/node/<node>')
+@bp.route('/wikilink/<node>') # alias for now
+def wikilink(node):
+    return render_template('nodes_rendered.html', wikilink=node, nodes=db.nodes_by_wikilink(node))

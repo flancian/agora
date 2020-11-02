@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+<h1> Nodes </h1>
+{% block content %}
+{% if not nodes %}
+No nodes found for '{{wikilink}}'. 
+<br /><br />
+If you <a href="https://flancia.org/go/agora">contributed a node</a> named '{{wikilink}}' to the Agora, here is where your node would be :)
+<br /><br />
+Go back to <a href="/nodes">/nodes</a>?
+{% endif %}
+
+{% for node in nodes %}
+{{ node.dir }}: <a href="{{node.url}}">{{node.wikilink}}</a><br />
+{{ node.content|markdown|linkify|safe }}
+<hr />
+{% endfor %}
+
+{% endblock %}
