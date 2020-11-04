@@ -1,4 +1,5 @@
-from flask import Blueprint, url_for, render_template, current_app, Response
+import datetime
+from flask import Blueprint, url_for, render_template, current_app, Response, redirect
 from markupsafe import escape
 from . import db
 bp = Blueprint('agora', __name__)
@@ -21,6 +22,12 @@ def nodes():
 def journals():
     return render_template('nodes.html', nodes=db.all_journals())
 
+@bp.route('/today')
+def today():
+    today = datetime.datetime.now().date()
+    return redirect("https://anagora.org/node/%s" % today.strftime("%Y-%m-%d"))
+
+@bp.route('/u/<username>')
 @bp.route('/user/<username>')
 def user(username):
     current_app.logger.warning('Not implemented.')
