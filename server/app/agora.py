@@ -45,7 +45,11 @@ def wikilink(node):
 
 @bp.route('/raw/<node>')
 def raw(node):
+    # hack hack
+    # outlinks
     return Response("\n\n".join([str(n.outlinks) for n in db.nodes_by_wikilink(node)]), mimetype="text/plain")
+    # content
+    # return Response("\n\n".join([n.content for n in db.nodes_by_wikilink(node)]), mimetype="text/plain")
 
 @bp.route('/backlinks/<node>')
 def backlinks(node):

@@ -25,7 +25,7 @@ def content_to_outlinks(content):
     # hack hack.
     match = RE_WIKILINKS.findall(content)
     if match:
-        return [m.lower().replace(' ', '-') for m in match]
+        return [m.lower().replace(' ', '-').replace('\'', '').replace(',', '') for m in match]
     else:
         return []
 
