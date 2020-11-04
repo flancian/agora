@@ -1,4 +1,4 @@
-# Bed Wars
+# Bedwars
 
 - A [[Minecraft]] minigame.
 - Most popular on the [[Hypixel]] network.
