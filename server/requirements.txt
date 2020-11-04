@@ -1,0 +1,17 @@
+bleach==3.2.1
+click==7.1.2
+Flask==1.1.2
+Flask-Markdown==0.3
+importlib-metadata==2.0.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+Markdown==3.3.3
+MarkupSafe==1.1.1
+packaging==20.4
+pkg-resources==0.0.0
+pyparsing==2.4.7
+six==1.15.0
+uWSGI==2.0.19.1
+webencodings==0.5.1
+Werkzeug==1.0.1
+zipp==3.4.0
