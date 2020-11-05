@@ -1,7 +1,0 @@
-{% extends "base.html" %}
-<h1> Nodes </h1>
-{% block content %}
-{% for node in nodes %}
-{{ node.dir }}: <a href="{{node.url}}">{{node.wikilink}}</a><br />
-{% endfor %}
-{% endblock %}
