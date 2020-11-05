@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# agora-server will be in a different repo
+server
+
 # C extensions
 *.so
 
