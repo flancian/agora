@@ -1,5 +1,5 @@
 #!/bin/bash
 # (this should be run from the root of the repo: util/sync)
 # Before pulling, you need to run add once (same command line but with add).
-git subtree pull --prefix garden/flancian https://github.com/flancian/garden master --squash -m "sync garden/flancian"
+git subtree pull --prefix garden/flancian https://github.com/flancian/garden.git master --squash -m "sync garden/flancian"
 git subtree pull --prefix garden/s5bug https://gitdab.com/s/garden.git master --squash -m "sync garden/s5bug"
