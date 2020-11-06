@@ -19,7 +19,7 @@
 - social networks are user content plus an algorithm
 - twitter: more than one network. many.
 - norman: "when I go into twitter, I want to be <blank>". I have an intention.
-- but then I might get triggered by something. the algorithm seems to work 70% well, sometimes I also do not respect 
+- but then I might get triggered by something. the algorithm seems to work 70% well, sometimes I also do not respect my own intentions. 
 - topics:
   - increasing polarization -> algorithms
 
