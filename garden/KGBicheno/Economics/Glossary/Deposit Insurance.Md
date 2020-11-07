@@ -1,0 +1,15 @@
+# Deposit insurance
+
+Go back to the [[Economic_Glossary]]
+
+
+Protection for your SAVINGS, in case your BANK goes Bust. Arrangements vary around the world, but in most countries deposit insurance is required by the GOVERNMENT and paid for by banks (and, ultimately, their customers), which contribute a small slice of their ASSETS to a central, usually government-run, insurance fund. If a bank defaults, this fund guarantees its customers' deposits, at least up to a certain amount. By reassuring banks' customers that their cash is protected, deposit insurance aims to prevent them from panicking and causing a bank run, and thereby reduces SYSTEMIC RISK. The United States introduced it in 1933, after a massive bank panic led to widespread BANKRUPTCY, deepening its DEPRESSION.
+
+The downside of deposit insurance is that it creates a MORAL HAZARD. By insulating depositors from defaults, deposit insurance reduces their incentive to monitor banks closely. Also banks can take greater risks, safe in the knowledge that there is a state-financed safety net to catch them if they fall.
+
+There are no easy solutions to this moral hazard. One approach is to monitor what banks do very closely. This is easier said than done, not least because of the high cost. Another is to ensure CAPITAL adequacy by requiring banks to set aside, just in case, specified amounts of capital when they take on different amounts of RISK.
+
+Alternatively, the state safety net could be shrunk, by splitting banks into two types: super-safe, government-insured'narrow banks' that stick to traditional business and invest only in secure assets; and uninsured institutions, 'broad banks', that could range more widely under a much lighter regulatory system. Savers who invested in a broad bank would probably earn much higher RETURNS because it could invest in riskier assets; but they would also lose their shirts if it went bust.
+
+Yet another possible answer is to require every bank to finance a small proportion of its assets by selling subordinated DEBT to other institutions, with the stipulation that the YIELD on this debt must not be more than so many (say 50) basis points higher than the rate on a corresponding risk-free instrument. Subordinated debt (uninsured certificates of deposit) is simply junior debt. Its holders are at the back of the queue for their MONEY if the bank gets into trouble and they have no safety net. Investors will buy subordinated debt at a yield quite close to the risk-free INTEREST RATE only if they are sure the bank is low risk. To sell its debt, the bank will have to persuade informed investors of this. If it cannot convince them it cannot operate. This exploits the fact that bankers know more about banking than do their supervisors. It asks banks not to be good citizens but to look only to their profits. Unlike the present regime, it exploits all the available INFORMATION and properly aligns everybody's incentives. This ingenious idea was first tried in Argentina, where it became a victim of the country's economic, banking and political crisis of 2001-02 before it really had a chance to prove itself.
+

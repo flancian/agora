@@ -1,0 +1,15 @@
+# Depression
+
+Go back to the [[Economic_Glossary]]
+
+
+A bad, depressingly prolonged RECESSION in economic activity. The textbook definition of a recession is two consecutive quarters of declining OUTPUT. A slump is where output falls by at least 10%; a depression is an even deeper and more prolonged slump.
+
+The most famous example is the Great Depression of the 1930s. After growing strongly during the 'roaring 20s', the American economy (among others) went into prolonged recession. Output fell by 30%. UNEMPLOYMENT soared and stayed high: in 1939 the jobless rate was still 17% of the workforce. Roughly half of the 25,000 BANKS in the United States failed. An attempt to stimulate growth, the New Deal, was the most far-reaching example of active FISCAL POLICY then seen and greatly extended the role of the state in the American economy. However, the depression only ended with the onset of preparations to enter the second world war.
+
+Why did the Great Depression happen? It is not entirely clear, but forget the popular explanation: that it all went wrong with the Wall Street stockmarket crash of October 1929; that the slump persisted because policymakers just sat there; and that it took the New Deal to put things right. As early as 1928 the Federal Reserve, worried about financial SPECULATION and inflated STOCK PRICES, began raising interest rates. In the spring of 1929, industrial production started to slow; the recession started in the summer, well before the stockmarket lost half of its value between October 24th and mid-November. Coming on top of a recession that had already begun, the crash set the scene for a severe contraction but not for the decade-long slump that ensued.
+
+So why did a bad downturn keep getting worse, year after year, not just in the United States but also around the globe? In 1929 most of the world was on the GOLD STANDARD, which should have helped stabilise the American economy. As DEMAND in the United States slowed its IMPORTS fell, its BALANCE OF PAYMENTS moved further into surplus and gold should have flowed into the country, expanding the MONEY SUPPLY and boosting the economy. But the Fed, which was still worried about easy CREDIT and speculation, dampened the impact of this adjustment mechanism, and instead the money supply got tighter. Governments everywhere, hit by falling demand, tried to reduce imports through TARIFFS, causing international trade to collapse. Then American banks started to fail, and the Fed let them. As the crisis of confidence spread more banks failed, and as people rushed to turn bank deposits into cash the money supply collapsed.
+
+Bad MONETARY POLICY was abetted by bad fiscal policy. Taxes were raised in 1932 to help balance the budget and restore confidence. The New Deal brought DEPOSIT INSURANCE and boosted GOVERNMENT spending, but it also piled taxes on business and sought to prevent excessive COMPETITION. Price controls were brought in, along with other anti-business regulations. None of this stopped - and indeed may well have contributed to - the economy falling into recession again in 1937-38, after a brief recovery starting in 1935.
+
