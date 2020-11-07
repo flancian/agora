@@ -7,13 +7,15 @@ Note the server-side aspect of https://anagora.org (which is only a particular i
 
 An [Agora](https://anagora.org/wiki/Agora) is a distributed, goal-oriented social network centered around a cooperatively built and maintained knowledge graph. The implementation you are currently looking at tries to assemble such a graph out of a collection of [digital gardens](https://joelhooks.com/digital-garden).
 
-Join the Agora now: <https://flancia.org/go/agora-join>.
+You can view the Agora at https://anagora.org. For the specifics of how to write to it, please refer to the [how to](docs/howto.md). On a high level it entails taking notes using a personal knowledge management tool and then making them available somewhere on the internet for the Agora to pull them and integrate them.
 
 ![Agora](agora.png)
 
+Join the Agora now: <https://flancia.org/go/agora-join>.
+
 This is how the Agora will eventually work: <https://threadreaderapp.com/thread/1322619094563258370.html>.
 
-The Agora is also a narrative: the Agora is a virtual place assembled from interesting fragments of our internet. This repository points to many such places. Feel free to explore and have fun!
+You can think of the Agora as a virtual place assembled from interesting fragments of our internet. It is a repository of many such places, interlinked. Feel free to explore and have fun!
 
 ## Who builds the Agora?
 The *Agoreans* build the Agora. 
