@@ -1,5 +1,7 @@
 # Welcome to the Agora v0.5
-This is v0.5 of the [Agora](flancia.org/agora). You can find the v0 online (but currently in maintenance mode only) at https://anagora.org/wiki; this Agora v0.5 repository is expected to replace it eventually at https://anagora.org/v1.
+This is the [Agora](flancia.org/agora). You can find it live at https://anagora.org/.
+
+Note the server-side aspect of https://anagora.org (which is only a particular implementation; the Agora is an [open protocol](https://flancia.org/go/agora-protocol)) is not in this repository. For that, please check [agora-server](https://github.com/flancian/agora-server).
 
 # What's an Agora?
 
