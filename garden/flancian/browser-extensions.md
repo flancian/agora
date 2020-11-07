@@ -1,2 +1,2 @@
 # Browser Extensions
-- A promising ecosystem.
+- See [[browser extension]].
