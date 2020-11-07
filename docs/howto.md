@@ -37,7 +37,7 @@ Same as per the above, although I expect to prioritize direct Athens support as 
 If you followed step one above, you should have a git repository of your own hosted in a place like Github. Its address should look like this: <https://github.com/username/repository>. 
 
 ### Option 1: send me your digital garden information
-Once you have your garden published *somewhere* on the internet, please send an email to signup@anagora.org with the URL and I'll integrate it into the Agora. Feel free to reach out to me also via [Twitter)(https://twitter.com/flancian).
+Once you have your garden published *somewhere* on the internet, ***please send an email to signup@anagora.org with the URL of your repository and your desired username*** and I'll integrate it into the Agora. Feel free to reach out to me also via [Twitter](https://twitter.com/flancian).
 
 Currently the Agora can integrate a variety of Markdown-based gardens. If you have one in a different format, *please still reach out to me* so I can prioritize supporting new formats and sources :)
 
