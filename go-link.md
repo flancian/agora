@@ -1,6 +1,6 @@
 # Go Link
 
-- Used to be [[go links]].
+- See also [[go links]].
 - See also: [[agora go links integration]]
 - [[go]] flancia.org/mine/go-links
 
