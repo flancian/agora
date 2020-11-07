@@ -5,7 +5,7 @@ Note the server-side aspect of https://anagora.org (which is only a particular i
 
 # What's an Agora?
 
-An [Agora](https://anagora.org/wiki/Agora) is a distributed, goal-oriented social network centered around a cooperatively built and maintained knowledge graph. The implementation you are currently looking at tries to assemble such a graph out of a collection of [digital gardens](https://joelhooks.com/digital-garden).
+An [Agora](https://anagora.org/wiki/Agora) is a distributed, goal-oriented social network centered around a cooperatively built and maintained knowledge graph. The implementation you are currently looking at tries to assemble such a graph out of a collection of [digital gardens](flancia.org/go/garden).
 
 You can view the Agora at https://anagora.org. For the specifics of how to write to it, please refer to the [how to](docs/howto.md). On a high level it entails taking notes using a personal knowledge management tool and then making them available somewhere on the internet for the Agora to pull them and integrate them.
 
