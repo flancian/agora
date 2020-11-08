@@ -33,7 +33,7 @@ If you disagree with any item in the Contract, or would like to improve it, plea
 
  - [Gardens](garden/): here you'll find a collection of [digital gardens](https://joelhooks.com/digital-garden), or personal knowledge bases, from around the internet (starting with those volunteered by the Agoreans).
    - The Agora interlinks all gardens into one distributed knowledge graph: <https://anagora.org/nodes>.
- - [Stoas](stoa/): subspaces built by groups of Agoreans in which participating users actively seek to engage in constructive, honest, charitable discussion about interesting topics, like their common objectives.
+ - ***Stoas***: subspaces built by groups of Agoreans in which participating users actively seek to engage in constructive, honest, charitable discussion about interesting topics, like their common objectives.
    - To be implemented.
 
 
