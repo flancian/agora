@@ -1,6 +1,6 @@
 # Agora Protocol
 - [[go]] https://flancia.org/agora-protocol
-- The Agora you're likely reading this on is just one possible implementation of this protocol. 
+- The [[Agora]] you're likely reading this on is just one possible implementation of this protocol. 
 
 ## Next
    - [[todo]] get back to [[gyuri lajos]] w.r.t. [[TrailMarks]].
