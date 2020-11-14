@@ -1,5 +1,6 @@
 # EduneV
-- 
+
+- Creator of [[sensagora]].
 - Met him in [[Athens]].
 - "A la combinación de intervención activa y prudencia pasiva le llamo "estrategias poéticas" y creo que esa idea condensa mucho de mi filosofía personal."
 - [[Ken Wilber]], [[Bart Kosko]]
