@@ -1,0 +1,9 @@
+# Monetarism
+
+Go back to the [[Economic_Glossary]]
+
+
+Control the MONEY SUPPLY, and the rest of the economy will take care of itself. A school of economic thought that developed in opposition to post-1945 KEYNESIAN policies of DEMAND management, echoing earlier debates between MERCANTILISM and CLASSICAL ECONOMICS. Monetarism is based on the belief that INFLATION has its roots in the GOVERNMENT printing too much MONEY. It is closely associated with Milton MILTON FRIEDMAN, who argued, based on the QUANTITY THEORY OF MONEY, that government should keep the MONEY SUPPLY fairly steady, expanding it slightly each year mainly to allow for the natural GROWTH of the economy. If it did this, MARKET FORCES would efficiently solve the problems of INFLATION, UNEMPLOYMENT and RECESSION. Monetarism had its heyday in the early 1980s, when economists, governments and investors pounced eagerly on every new money-supply statistic, particularly in the United States and the UK.
+
+Many CENTRAL BANKS had set formal targets for money-supply growth, so every wiggle in the data was scrutinised for clues to the next move in the rate of INTEREST. Since then, the notion that faster money-supply growth automatically causes higher inflation has fallen out of favour. The money supply is useful as a policy target only if the relationship between money and nominal GDP, and hence inflation, is stable and predictable. The way the money supply affects PRICES and OUTPUT depends on how fast it circulates through the economy. The trouble is that its VELOCITY OF CIRCULATION can suddenly change. During the 1980s, the link between different measures of the money supply and inflation proved to be less clear than monetarist theories had suggested, and most central banks stopped setting binding monetary targets. Instead, many have adopted explicit inflation targets.
+

@@ -1,0 +1,7 @@
+# Development economics
+
+Go back to the [[Economic_Glossary]]
+
+
+Spawned by the end of the colonial era in the 1950s and 1960s, a whole branch of economic theory grew up around the question of how to promote economic development in poor countries. The proposition on which development economics was built was that poor countries were intrinsically different from rich ones and so needed their own set of economic models. Some development economists argued, for instance, that the self-interested, rational individual (HOMO ECONOMICUS) did not exist in traditional tribal societies. They claimed that because many poor countries had large agricultural populations and were often dependent on a few COMMODITY EXPORTS for foreign exchange earnings, economic policies that suited rich countries would not work for them. With hindsight, much of this was misguided, and policies based on it had disastrous effects. Development economists believed that the state had to play a big role in fostering modernisation. Instead, the result was huge, inefficient ­bureaucracies riddled with CORRUPTION, massive BUDGET deficits and rampant INFLATION. During the 1990s, most governments of DEVELOPING COUNTRIES started to reverse these policies and undo the damage they had done by introducing policies based on similar economic models to those that had worked in rich countries. However, the sequencing of these new policies seemed to make a big difference to how well they worked. Doing the right things in the right order is crucial.
+
