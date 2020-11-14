@@ -4,7 +4,7 @@
 
 # Clases en Youtube
 
-## Escenas de la novela argentina
+## Escenas de la novela argentina: 2012-09-01
 
 - https://www.youtube.com/watch?v=mK0ENCrDB0Q
 - https://www.youtube.com/watch?v=_R5GiE24UhQ
@@ -78,7 +78,7 @@ Pero la ciudad de Buenos Aires también fue fundada por los escritores. La Diago
 
 El Facundo de Amalia es el personaje de Daniel Bello. Es unitario con los unitarios y federal con los federales.
 
-## 08-09-12
+## Escenas de la novela argentina: 2012-09-08
 
 - https://www.youtube.com/watch?v=mMcBd1O5HVI&list=PLM2azdA0sTU-7-1oYgcyWM-SSE8cSdRrH&index=4
 
@@ -115,3 +115,7 @@ Martín Fierro: aparece el narrador y aclara que la historia de Martín Fierro e
 Quién es el primer novelista? [[Cambaceres]] se lo propone, aunque la primera novela es [[Amalia]]. [[Cané]] dice que sólo va a poder ser feliz cuando pueda escribir novelas; [[Cambaceres]] deja su cargo de diputado para escribir [[Potpurrí]].
 
 [[Cambaceres]] trabaja con una oralidad nueva, de forma irónica; agresiva. [[Bioy Casares]] hace lo mismo: tiene un uso del lenguaje que se distancia de las lenguas marginales e ironiza sobre eso. [[Cortázar]] hace lo mismo en [[Los Premios]].
+
+[[Juan Moreira]], mito popular literario y gran éxito de folletín, está escrito en cambio en lengua elaborada. [[Eduardo Gutiérrez]] se gana la vida escribiendo folletines.
+
+Piglia: lo que más me gusta de Moreira es que no se arrepiente; no es como Fierro. Moreira muere peleando; no se convierte en un converso (alguien que ha sido rebelde pero eventualmente acepta la realidad).
