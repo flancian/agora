@@ -1,4 +1,3 @@
 #!/bin/bash
-[[ ! -f  CONTRACT.md ]] && echo "Please run this from the root of the Agora." && exit 42
-echo "syncing gardens -> agora"
-git pull && util/sync && git push
+INTERVAL=20
+while true; do ./pull; sleep $INTERVAL; done
