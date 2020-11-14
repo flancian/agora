@@ -15,5 +15,19 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "multiCommand.commands": [
+    {
+        "command": "multiCommand.syncAllFiles",
+        "sequence": [
+            "workbench.action.files.saveAll",
+            {
+                "command": "workbench.action.terminal.sendSequence",
+                "args": {
+                    "text": "git add . && git commit -a -m 'automatic update on save.' && git push\u000D"
+                }
+            }
+        ]
+    }
+    ]
 }
