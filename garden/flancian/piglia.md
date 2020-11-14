@@ -6,6 +6,10 @@
 
 ## Escenas de la novela argentina
 
+- https://www.youtube.com/watch?v=mK0ENCrDB0Q
+- https://www.youtube.com/watch?v=_R5GiE24UhQ
+- https://www.youtube.com/watch?v=0A_ApGDPG68
+
 Carteles: Mr. Charles contra los hombres que se atrevían a enfrentarlo. Los diarios publicaron la lista de los hombres que se habían atrevido a enfrentarlo. Aparece la nacionalidad. Un hombre de una nacionalidad desconocida que peleó enmascarado. Esto es en 1856; una escena popular que nos hace pensar inmediatamente que nos hace pensar en los sistemas de entretenimiento en esa época.
 
 Dice Sarmiento: hay 1200 varones que van al teatro que van a participar de este espectáculo de todas las clases sociales. El jurado es interesante: Martínez de Hoz (José Toribio), el Jefe de Policía y Sarmiento. Escribe un artículo que asocia el evento con la sociedad griega. Un espectáculo popular pero legitimado por las figuras que participan.
@@ -73,3 +77,41 @@ Pero la ciudad de Buenos Aires también fue fundada por los escritores. La Diago
 (Preguntas.)
 
 El Facundo de Amalia es el personaje de Daniel Bello. Es unitario con los unitarios y federal con los federales.
+
+## 08-09-12
+
+- https://www.youtube.com/watch?v=mMcBd1O5HVI&list=PLM2azdA0sTU-7-1oYgcyWM-SSE8cSdRrH&index=4
+
+- https://www.youtube.com/watch?v=W6YWeSGTPps
+
+- https://www.youtube.com/watch?v=Lu1IgF8xFik
+
+Sobre [[Juan Moreira]].
+
+[[Eduardo Wilde]] viaja por [[Estados Unidos]] y ve una exposición con las invenciones de [[Edison]]. "El fonógrafo detiene la vida y perpetua los fugitivos momentos. Con ella no hay pasado para la palabra hablada." "Muchos de los muertos enterrados en el cementerio de Brooklyn continuarán hablando por [ellos]."
+
+Piglia: una reacción frente a una renovación técnica. El espiritismo y las máquinas: muy presente en la narrativa de fines de siglo XIX. Las máquinas encierran un sentido metafísico.
+
+[[Eduardo Holmberg]], [[Leopoldo Lugones]], ambos tienen cuentos fantásticos con máquinas. La invención de Morel de [[Casares]].
+
+Aparición de los primeros libros de [[Oscar Lewis]]. Testimonios de sectores que no tenían acceso a la palabra.
+
+[[Manuel Puig]] empieza un experimento narrativo después de sus dos primeras novelas; narradores mixtos y grabadores.
+
+[[Sergio Raimondi]]: el grabador propone el desafío de leer nuevas voces; inflexiones de la lengua, escrituras que trabajan con los efectos de la oralidad. [[Bordieu]] en "La Miseria del Mundo" se pregunta por qué no leemos las palabras del obrero metalúrgico.
+
+Piglia: [[Nuevo periodismo]]. A Sangre Fría; [[Capote]] insiste en que no usa grabador sino que toma notas; revaloriza las viejas técnicas. [[Walsh]] usa el grabador por primera vez en "Quién Mató a Rosendo".
+
+Piglia: Ahora los personajes se mandan emails en vez de cartas, pero todavía no he visto la forma en la que los nuevos medios afectan la narrativa. En el caso del grabador tenemos suficiente distancia para analizarlo.
+
+Piglia: si tuviéramos un mecanismo para conocer todos los relatos, todas las historias que nos contamos, en un día dado, conoceríamos la realidad de una forma nueva. No sólo los eventos, sino cómo los representamos. El grabador parece prometer eso.
+
+Era bastante normal que el autor realista tuviera algo de periodista; ahora este nicho fue tomado por el periodismo de investigación. El periodismo tomó un campo que antes pertenecía a la novela.  La novela, de esta forma, queda quizás libre -- de representar la realidad en una época, de lo testimonial.
+
+Piglia: la oralidad popular. Lo que dice [[Mansilla]] cuando cuenta la historia del gaucho perseguido: "hablaré como él habló." Gardel hace algo parecido: declara los cambios de narrador (aclara, por ejemplo, que va a tomar la palabra una mujer).
+
+Martín Fierro: aparece el narrador y aclara que la historia de Martín Fierro está siendo contada por él.
+
+Quién es el primer novelista? [[Cambaceres]] se lo propone, aunque la primera novela es [[Amalia]]. [[Cané]] dice que sólo va a poder ser feliz cuando pueda escribir novelas; [[Cambaceres]] deja su cargo de diputado para escribir [[Potpurrí]].
+
+[[Cambaceres]] trabaja con una oralidad nueva, de forma irónica; agresiva. [[Bioy Casares]] hace lo mismo: tiene un uso del lenguaje que se distancia de las lenguas marginales e ironiza sobre eso. [[Cortázar]] hace lo mismo en [[Los Premios]].
