@@ -2,43 +2,53 @@
 
 I'll use this as a sort of inline project page for the [[agora]] implementation you're likely reading this in now: [[anagora]].org. This'll be a place to centrally track lightly sorted TODOs, to begin with :)
 
+As you might know by now, an Agora is a beast with multiple legs:
+
+ - A knowledge garden. This is the heart of the [[Agora]]. It is kept in the <https://flancia.org/go/agora> repo.
+ - A web renderer, which I run on anagora.org. This is [[Agora Server]]. It is kept in the <https://flancia.org/go/agora-server> repo.
+
+This page is about both, although it's probably going to be [[Agora Server]] heavy as I'm currently focused on developing features for it.
+
 ## Latest
 - Moved prod (uwsgi) serving off my user into 'agora'.
 - dev environment is now available (when up) at http://dev.anagora.org.
 - Moved both dev and prod to separate 'agora' and 'agora-server' repos.
 
 ### Signups
- - [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
+ - [x] [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
+ - [ ] likely [[arghzero]]
+ - [ ] likely [[solomon naim]]
 
 ## Feature requests
-- [[titushora]] [[FR]]: make the [[Agora]] look like this: https://twitter.com/TitusHora/status/1325147589197484036
+- [ ] [[titushora]] [[FR]]: make the [[Agora]] look like this: https://twitter.com/TitusHora/status/1325147589197484036
 
 ## Next
-- Add user handler: /u
+- [x] Add user handler: /u
   - /u/flancian -> all nodes by flancian
   - /node/flancia/u/flancian -> flancia by flancian
+  - Also added @flancian. Shorter is better, and it's a common convention.
   - perhaps /g/ for groups later? or /s/ for stoa.
-- Add support for media serving (useful for pictures of [[ocell]]).
+- [ ] Add support for media serving (useful for pictures of [[ocell]]).
   - assets/foo end up at node/assets/foo; just adding a handler for node/assets/ seems like it could be enough.
   - It would conflict with a node named 'assets' though, so perhaps it's not ideal.
   - Perhaps it'd be better to just serve images/media as subnodes?
-- User profiles: perhaps just note [[flancian]] as written by user [[flancian]]? Unsure.
+- [ ] User profiles: perhaps just note [[flancian]] as written by user [[flancian]]? Unsure.
   - [[s5bug]] suggested using [[README]] in gardens for this. Makes sense.
-- Add 'link to this note'.
-  - What's the best term for a node-user combination? Is it just 'note'? Entry?
-  - subnode.
-- Improve backlinks: show snippets as well as just the link.
-- Improve pull loop.
-- Multi user improvements:
+- [ ] Add 'link to this note'.
+  - Now called subnode.
+  - Subnode rendering is ready, just need to add links.
+- [ ] Improve backlinks: show snippets as well as just the link.
+- [ ] Improve pull loop to also support arbitrary hooks, like that needed to implement [[agora go links integration]].
+- [ ] Multi user improvements:
   - Better sorting (right now all my notes show up at the top, doesn't make sense).
   - Ability to "zoom into" a user, to navigate just their garden for a while.
-  - Perhaps ability to "uprank" users, pinning their notes to the top of any sorting order.
-- Add 'dark mode' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
-- Implement search (full text).
-- Add config.py file with things such as paths.
-- Add monitoring/alerting.
-- Make the index be just another note [[ding-levery]].
-- Clean up stale journal pages which don't follow [[iso 8601]].
+  - [ ] Perhaps ability to "uprank" users, pinning their notes to the top of any sorting order.
+- [ ] Add 'dark mode' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
+- [ ] Implement search (full text).
+- [x] Add config.py file with things such as paths.
+- [ ] Add monitoring/alerting.
+- [ ] Make the index be just another note [[ding-levery]].
+- [ ] Clean up stale journal pages which don't follow [[iso 8601]].
 
 ## Some day:
 - Support [[Roam]], [[Athens]], [[org-roam]] digital gardens.
@@ -54,6 +64,7 @@ I'll use this as a sort of inline project page for the [[agora]] implementation 
 [agora]: agora "Agora"
 [anagora]: anagora "Anagora"
 [pen-coded]: pen-coded "Pen Coded"
+[arghzero]: arghzero "Arghzero"
 [titushora]: titushora "Titushora"
 [ocell]: ocell "Ocell"
 [flancian]: flancian "Flancian"
