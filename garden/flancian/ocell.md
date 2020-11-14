@@ -5,7 +5,7 @@
 - The picture below is from shortly after we met her. We picked her up in Brugg on [[2020-11-07]].
 - A Spanish shelter cat. We adopted her when she was one year old.
 - Technically her name is masculine (it means "bird" in Catalan) but I don't think she cares about grammatical gender.
-- ![A photo of Ocell the cat](https://imgur.com/a/OwruNCW)
+- ![A photo of Ocell the cat](https://i.imgur.com/szKP7jB.jpg)
 
 
 
