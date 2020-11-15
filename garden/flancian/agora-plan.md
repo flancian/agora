@@ -22,7 +22,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 
 ## Next
 - [ ] better css
-  - [ ] Add 'dark mode' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
+  - [x] Add '[[dark mode]]' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
+  - [x] added switching by button
 - [ ] add some search support -- a simple textbox + post should work
 - [ ] add fuzzy matching -- probably good complement to search
   - [ ] could help with disambiguation and acronym expansion
