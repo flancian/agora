@@ -5,7 +5,6 @@
 - "There's this idea in social media called the fluff principle (Paul Graham wrote an essay on it). The idea is that if you base a social media website on voting, then emotional content and easy to process content will float to the surface"
 - [x] Recommended https://www.ribbonfarm.com/series/predictable-identities/ [[ribbonfarm]]
     - Really enjoyed it.
-- https://web.telegram.org/#/im?p=@KarimCookie
 - On language levels:
     - I love the idea of having clearly defined language. One clear example of this is the word productivity. I think its a muddled word
     - Lvl 0 Generative: things that actually produce results
