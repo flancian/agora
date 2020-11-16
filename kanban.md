@@ -1,7 +1,6 @@
 # Kanban
 - kanban
     - Not started
-        - 
     - Working
         - Write Agora Protocol v1
     - Blocked
