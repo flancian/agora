@@ -64,12 +64,13 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - perhaps /g/ for groups later? or /s/ for stoa.
 
 ## Some day:
+- When you update a node on a [[person]], said person gets a notification (they can opt out).
 - Support [[Roam]], [[Athens]], [[org-roam]] digital gardens.
-- Twitter integration
+- Twitter integration -> [[agora twitter integration]]
    - Ask [[ding levery]].
-- Automatic [[actions]]
+- Automatic [[actions]] -> [[agora action]]s -> [[agora action]]
   - [[tweet]] block tweets the block (exactly once, etc.).
-- [[go links]] integration
+- [[go links]] integration -> [[agora go links integration]]
   - If the first block of [[foo]] is a URL, anagora.org/go/foo just redirect there.
   - Could also work as an action: [[go]] target URL.
 
@@ -91,6 +92,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [ding-levery]: ding-levery "Ding Levery"
 [ocell]: ocell "Ocell"
 [iso 8601]: iso-8601 "Iso 8601"
+[person]: person "Person"
 [org-roam]: org-roam "Org Roam"
 [tweet]: tweet "Tweet"
 [go links]: go-links "Go Links"
