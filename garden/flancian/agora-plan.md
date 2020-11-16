@@ -33,7 +33,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - Probably not worth fixing that right now as it only triggers for nodes that are not canonical, perhaps better to just redirect to a canonical node.
   - [ ] could help with disambiguation and acronym expansion
 - [ ] Fix markdown list formatting issue with different tab widths.
-- [ ] add some search support -- a simple textbox + post should work
+- [ ] add some search support -- a simple textbox + GET?
+  - Probably want to use [[flask-wtf]] for this: https://hackersandslackers.com/flask-wtforms-forms/
 - Implement preview-on-hover?
 - Implement "around the Agora".
 - [ ] better css
