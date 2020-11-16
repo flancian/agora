@@ -10,7 +10,8 @@ As you might know by now, an Agora is a beast with multiple legs:
 This page is about both, although it's probably going to be [[Agora Server]] heavy as I'm currently focused on developing features for it.
 
 ## Latest
-- On [[2020-11-15]] I released [[agora 0.5.1]].
+- On [[2020-11-15]] I implemented dark mode (press on 'theme' on the top right corner to switch dark <-> light).
+- On [[2020-11-14]] I released [[agora 0.5.1]].
 - Previously:
   - dev environment is now available (when up) at http://dev.anagora.org.
   - Moved dev/prod to separate '<https://flancia.org/go/agora>' and '<https://flancia.org/go/agora-server>' repos.
@@ -78,6 +79,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora]: agora "Agora"
 [anagora]: anagora "Anagora"
 [2020-11-15]: journal/2020-11-15 "2020-11-15"
+[2020-11-14]: journal/2020-11-14 "2020-11-14"
 [pen-coded]: pen-coded "Pen Coded"
 [arghzero]: arghzero "Arghzero"
 [agora-go-links-integration]: agora-go-links-integration "Agora Go Links Integration"
