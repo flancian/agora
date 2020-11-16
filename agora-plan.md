@@ -28,6 +28,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 
 ## Next
 - Implement [[agora fuzzy matching]].
+- Implement preview-on-hover?
 - [ ] better css
   - [x] Add '[[dark mode]]' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
   - [x] added switching by button

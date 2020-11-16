@@ -1,6 +1,8 @@
 # Agora Fuzzy Matching
 
 - The Agora will make use of [[fuzzy matching]] to maximize the chances to surface relevant content.
+  - Perhaps using [[levenshtein distance]]?
+  - Some library?
 - All of the following should be surfaced in unison whenever one of them is surfaced, likely:
   - [[wikilink]]
   - [[wikilinks]]
