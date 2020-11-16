@@ -2,7 +2,7 @@
 - A [[person]] on [[twitter]]: https://twitter.com/AbstractFairy.
 - A [[friend]].
 - [[hypothes.is]]: https://hypothes.is/groups/nxaLPD9r/abstractfairy
-- Oh, interesting that they weren't in the system until June 21st. They are very interesting.
+- Oh, interesting that they weren't in the system until June 21st. I'm very inconsistent sometimes.
 - Lives in Egypt. Is economically stable. In late undergrad studies (Finance).
 - Told me about [[Thomas Szasz]]
 - "There's this idea in social media called the fluff principle (Paul Graham wrote an essay on it). The idea is that if you base a social media website on voting, then emotional content and easy to process content will float to the surface"
