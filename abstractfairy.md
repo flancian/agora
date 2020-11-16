@@ -1,5 +1,6 @@
 # AbstractFairy
 - A [[person]] on [[twitter]]: https://twitter.com/AbstractFairy
+- [[hypothes.is]]: https://hypothes.is/groups/nxaLPD9r/abstractfairy
 - Oh, interesting that they weren't in the system until June 21st. They are very interesting.
 - Lives in Egypt. Is economically stable. In late undergrad studies (Finance).
 - Told me about [[Thomas Szasz]]
