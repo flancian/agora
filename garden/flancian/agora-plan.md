@@ -20,6 +20,11 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
  - [ ] likely [[arghzero]]
  - [ ] likely [[solomon naim]]
 
+## Integrations
+- [[agora-go-links-integration]]
+- [[agora twitter integration]]
+- [[roam2agora]]
+
 ## Next
 - [ ] better css
   - [x] Add '[[dark mode]]' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
@@ -74,6 +79,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [2020-11-15]: journal/2020-11-15 "2020-11-15"
 [pen-coded]: pen-coded "Pen Coded"
 [arghzero]: arghzero "Arghzero"
+[agora-go-links-integration]: agora-go-links-integration "Agora Go Links Integration"
+[roam2agora]: roam2agora "Roam2agora"
 [flancian]: flancian "Flancian"
 [s5bug]: s5bug "S5bug"
 [README]: README "Flancian's digital garden"
