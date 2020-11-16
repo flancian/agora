@@ -27,14 +27,19 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[roam2agora]]
 
 ## Next
-- Implement [[agora fuzzy matching]].
+- [x] Implement [[agora fuzzy matching]].
+  - Done
+  - [ ] but backlinks don't work in some cases, like <http://dev.anagora.org/node/abstract%20fairy>.
+  - Probably not worth fixing that right now as it only triggers for nodes that are not canonical, perhaps better to just redirect to a canonical node.
+  - [ ] could help with disambiguation and acronym expansion
+- Fix markdown list formatting issue with different tab widths.
+- [ ] add some search support -- a simple textbox + post should work
 - Implement preview-on-hover?
+- Implement "around the Agora".
 - [ ] better css
   - [x] Add '[[dark mode]]' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
   - [x] added switching by button
-- [ ] add some search support -- a simple textbox + post should work
-- [ ] add fuzzy matching -- probably good complement to search
-  - [ ] could help with disambiguation and acronym expansion
+  - Make subnodes/notes look like notes instead of using clunky ```<hr />``` everywhere.
 - [ ] add /latest or some other chronological view
 - [ ] User profiles: perhaps just note [[flancian]] as written by user [[flancian]]? Unsure.
   - [[s5bug]] suggested using [[README]] in gardens for this. Makes sense.
