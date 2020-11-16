@@ -55,7 +55,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - It would conflict with a node named 'assets' though, so perhaps it's not ideal.
   - Perhaps it'd be better to just serve images/media as subnodes?
 - [ ] Add monitoring/alerting.
-- [ ] Clean up stale journal pages which don't follow [[iso 8601]].
+- [x] Clean up stale journal pages which don't follow [[iso 8601]].
 - [x] Add config.py file with things such as paths.
 - [x] Add user handler: /u
   - /u/flancian -> all nodes by flancian
