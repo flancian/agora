@@ -10,7 +10,6 @@
     - Beekeeping as an analogy. Industrial hives are made regular, segregated.
     - p3 [[Chandigarth]]
     - 
-    - 
 - Chapter one
     - On forestry as a model for the analysis of schemes that it proposes.
 - 
