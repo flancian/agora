@@ -41,7 +41,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [ ] better css
   - [x] Add '[[dark mode]]' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
   - [x] added switching by button
-  - Make subnodes/notes look like notes instead of using clunky ```<hr />``` everywhere.
+  - Make subnodes/notes look like notes instead of using clunky ```<hr />``` everywhere. Move to divs, etc.
 - [ ] add /latest or some other chronological view
 - [ ] User profiles: perhaps just note [[flancian]] as written by user [[flancian]]? Unsure.
   - [[s5bug]] suggested using [[README]] in gardens for this. Makes sense.
@@ -56,6 +56,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - Better sorting (right now all my notes show up at the top, doesn't make sense).
   - Ability to "zoom into" a user, to navigate just their garden for a while.
   - [ ] Perhaps ability to "uprank" users, pinning their notes to the top of any sorting order.
+  - [ ] Perhaps sort+uprank can be integrated?
+  - [ ] usernames could have a 'pin' emoji that upranks all their posts?
 - [ ] Implement search (full text).
 - [ ] Add support for media serving (useful for pictures of [[ocell]]).
   - assets/foo end up at node/assets/foo; just adding a handler for node/assets/ seems like it could be enough.
