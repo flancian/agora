@@ -1,8 +1,8 @@
-Nordbrücke
+# Nordbrücke
 
 - talked about 
     - [[a pattern language]]
-    - [[category theory]]
+    - [[category theory]]  
     - [[utopoi]]
     - [[mfo park]]
     - [[architecture]]
