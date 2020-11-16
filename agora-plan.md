@@ -32,7 +32,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - [ ] but backlinks don't work in some cases, like <http://dev.anagora.org/node/abstract%20fairy>.
   - Probably not worth fixing that right now as it only triggers for nodes that are not canonical, perhaps better to just redirect to a canonical node.
   - [ ] could help with disambiguation and acronym expansion
-- Fix markdown list formatting issue with different tab widths.
+- [ ] Fix markdown list formatting issue with different tab widths.
 - [ ] add some search support -- a simple textbox + post should work
 - Implement preview-on-hover?
 - Implement "around the Agora".
