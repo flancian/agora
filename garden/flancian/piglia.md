@@ -169,8 +169,7 @@ Pasa como con el Martín Fierro: las grandes discusiones sobre el Martín Fierro
 
 El Moreira de Favio tiene que ver con las lecturas del Martín Fierro de los hermanos Lamborghini. La vuelta de Martín Fierro tiene algo de peronismo; es como una tercera posición.
 
----
-Escenas de la novela argentina - 15-09-12 (3 de 3)
+## Escenas de la novela argentina - 15-09-12 (3 de 3)
  
 https://www.youtube.com/watch?v=fpTjlSG4Pso 
   
