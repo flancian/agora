@@ -10,7 +10,7 @@ As you might know by now, an Agora is a beast with multiple legs:
 This page is about both, although it's probably going to be [[Agora Server]] heavy as I'm currently focused on developing features for it.
 
 ## Latest
-- On [[2020-11-17]] I implemented [[latest]].
+- On [[2020-11-17]] implemented [[latest]].
 - On [[2020-11-16]] I implemented [[agora fuzzy matching]] and full text search, adopted a div based layout, improved the CSS, improved user pages.
 - On [[2020-11-15]] I implemented dark mode (press on 'theme' on the top right corner to switch dark <-> light).
 - On [[2020-11-14]] I released [[agora 0.5.1]].
@@ -29,6 +29,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[roam2agora]]
 
 ## Next
+- [ ] Make the site header be marked as an actual header (div with a class, etc.); Google seems to think it's part of the site text (it's showing up in results).
 - [x] Implement [[agora fuzzy matching]].
   - Done
   - [ ] but backlinks don't work in some cases, like <http://dev.anagora.org/node/abstract%20fairy>.
@@ -92,6 +93,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora]: agora "Agora"
 [anagora]: anagora "Anagora"
 [2020-11-17]: journal/2020-11-17 "2020-11-17"
+[latest]: latest "Latest"
 [2020-11-16]: journal/2020-11-16 "2020-11-16"
 [2020-11-15]: journal/2020-11-15 "2020-11-15"
 [2020-11-14]: journal/2020-11-14 "2020-11-14"
