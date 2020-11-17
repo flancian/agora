@@ -8,6 +8,7 @@
 # Ideas de [[L.]]
 
 Tema: cómo Piglia representa la tecnología en sus novelas.
+
 - El grabador.
 - La computadora, que es una especie de oráculo, en [[Encuentro en Saint-Nazaire].
 - La computadora, que es el instrumento de los detectives (los detectives ya no salen de casa; la experiencia mediada, como en la novela), en [[El Camino de Ida]].
