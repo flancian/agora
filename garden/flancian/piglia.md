@@ -1,6 +1,9 @@
 # Ricardo Piglia
 
 - A [[person]], a [[writer]], [[Argentinian]]. [[Deceased]].
+- Nombre completo: Ricardo Emilio Piglia Renzi.
+- Tomó su segundo nombre y su segundo apellido para construir a su alter ego: [[Emilio Renzi]].
+  - Robando, mi pseudónimo podría ser [[A. C.]].
 
 # Clases en Youtube
 
@@ -119,3 +122,25 @@ Quién es el primer novelista? [[Cambaceres]] se lo propone, aunque la primera n
 [[Juan Moreira]], mito popular literario y gran éxito de folletín, está escrito en cambio en lengua elaborada. [[Eduardo Gutiérrez]] se gana la vida escribiendo folletines.
 
 Piglia: lo que más me gusta de Moreira es que no se arrepiente; no es como Fierro. Moreira muere peleando; no se convierte en un converso (alguien que ha sido rebelde pero eventualmente acepta la realidad).
+
+---
+
+"Se hace el Moreira" era una expresión común cuando se hablaba de delincuentes.
+
+[[Juan Sasturain]]: todo está explicado en Juan Moreira, hay una elección de orientación al público urbano. 
+
+Piglia: el folletín era un tipo de publicación de las novelas; serialización, también usada en Europa. Frecuentemente las entregas terminan en un suspenso.
+
+Sasturain: lo leés y notás las costuras. Amalia y Facundo se publicaron en diarios; pero Juan Moreira además de publicarse en un diario es un folletín. Tiene elementos adicionales, como la pretensión de veracidad.
+
+Piglia: cierta pretensión pedagógica, como con Verne y Salgari. Como si el relato solo no alcanzara.
+
+Sasturain: contexto y explicación. Hay una historia política también: autonomistas contra nacionales. Algunos críticos han señalado la forma en la que Gutiérrez se despega de su propia experiencia política. 
+
+(...)
+
+Piglia: es un extraordinario éxito; logra un impacto en el imaginario social. Sasturain: construyó el mito. Piglia: y pasa al teatro.
+
+Sasturain: es el primer héroe moderno construido por los medios. Pasó el personaje al teatro con pantomima, después al teatro con texto, al circo. Eventualmente al radioteatro, a la historieta (Fontanarrosa). Finalmente la película de Favio.
+
+---
