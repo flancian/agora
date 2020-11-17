@@ -13,4 +13,5 @@
       - using the notion of resemblance and similarities
         - only works by comparing two or more things
         - not based on discourse, but rather based on senses...
-        - 
+    - alchemical / medicinal knowledge
+      - bringing things to gether again, but that creates a certain force / energy that is able to influence the world
