@@ -5,6 +5,14 @@
 - Tomó su segundo nombre y su segundo apellido para construir a su alter ego: [[Emilio Renzi]].
   - Robando, mi pseudónimo podría ser [[A. C.]].
 
+# Ideas de [[L.]]
+
+Tema: cómo Piglia representa la tecnología en sus novelas.
+- El grabador.
+- La computadora, que es una especie de oráculo, en [[Encuentro en Saint-Nazaire].
+- La computadora, que es el instrumento de los detectives (los detectives ya no salen de casa; la experiencia mediada, como en la novela), en [[El Camino de Ida]].
+- En [[La Ciudad Ausente]], una máquina que guarda la consciencia de la mujer.
+ 
 # Clases en Youtube
 
 ## Escenas de la novela argentina: 2012-09-01
@@ -144,3 +152,29 @@ Piglia: es un extraordinario éxito; logra un impacto en el imaginario social. S
 Sasturain: es el primer héroe moderno construido por los medios. Pasó el personaje al teatro con pantomima, después al teatro con texto, al circo. Eventualmente al radioteatro, a la historieta (Fontanarrosa). Finalmente la película de Favio.
 
 ---
+
+Piglia: [[Borges]] en [[La Noche de los Dones]] reescribe el modo en el que Moreira muere, en un prostíbulo.
+
+(Preguntas.)
+
+Tensión entre narración e información; la narración nos permite ordenar la información. Por otra parte, cómo uno participa en la narración (como lector), mientras que la información parece siempre ajena. Pero este es un tema abierto.
+
+(Pregunta meta sobre el formato televisivo.)
+
+Piglia: me parecía importante poder crear, en el interio de un medio de mases, la forma de la clase. Esta es una forma de transmisión de saber y experiencia de larga tradición pero mala prensa en los medios masivos. Tiene algo teatral; una cuestión de improvisación. Son elementos que tienen que ver con una relación con la experiencia; esa es la aspiración.
+
+(Pregunta sobre la película y el clima político en la que fue lanzada.)
+
+Pasa como con el Martín Fierro: las grandes discusiones sobre el Martín Fierro se dan en un contexto político interesante, sobre las masas. Lugones rescata al Martín Fierro en una apología del campo frente a la nueva barbarie urbana, la de los nuevos inmigrantes.
+
+El Moreira de Favio tiene que ver con las lecturas del Martín Fierro de los hermanos Lamborghini. La vuelta de Martín Fierro tiene algo de peronismo; es como una tercera posición.
+
+---
+Escenas de la novela argentina - 15-09-12 (3 de 3)
+ 
+https://www.youtube.com/watch?v=fpTjlSG4Pso 
+  
+https://www.youtube.com/watch?v=F1tC4NhGqg8 
+   
+https://www.youtube.com/watch?v=Lu1IgF8xFik&list=PLM2azdA0sTU-7-1oYgcyWM-SSE8cSdRrH&index=6 
+   
