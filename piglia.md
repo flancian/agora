@@ -173,8 +173,34 @@ El Moreira de Favio tiene que ver con las lecturas del Martín Fierro de los her
 ## Escenas de la novela argentina - 15-09-12 (3 de 3)
  
 https://www.youtube.com/watch?v=fpTjlSG4Pso 
+
+Piglia: 1931, el final de Los Lanzallamas de [[Arlt]]; el final de una de las más grandes novelas argentinas. En una redacción de un diario se informa sobre el suicidio de Erdosain y se ilustra la manipulación periodística. El lector, que acompañó al personaje por toda su historia, se enfrenta con la simplificación del titular.
+
+[[Erdosain]] pasa tres días encerrado con el "comentador" (narrador?); la narrativa de la novela resulta del relato que toma lugar en ese tiempo. Hay una relación entre un conjunto de experiencias complejas y una simplificación periodística.
+
+[[Rodolfo Walsh]] hace el recorrido contrario: parte de titulares y los expande.
+
+"La literature nos otorga el privilegio de juzgar, y revela significado sin decirlo." Arlt no dice que el periodismo arruina las experiencias: lo muestra con una escena. La tensión entre hacer ver y decir es la tensión entre dos modos de construir una imagen de la realidad.
+
+La construcción de la experiencia. "Sólo los ricos pueden sobrevivir siendo inexpertos", dice Brecht. En la circulación excesiva de la información, el sujeto no está implicado sino que asiste. Leemos novelas porque estamos indefensos frente a la proliferación de información.
+
+Tensión entre Arlt y Walsh. Aguafuertes Porteñas: el secretario de redacción corta las notas de Arlt porque "es demasiado genial". Arlt tomaba noticias y las ampliaba.
+
+La relación de Walsh con la prensa fue tumultuosa. [[Operación Masacre]] no fue publicada por ningún diario. Trabajó para prensa menor, para el diario de la CGT, para el diario de [[Montoneros]]. Eventualmente montó una agencia clandestina de noticias: [[Ancla]].
   
 https://www.youtube.com/watch?v=F1tC4NhGqg8 
+
+(La adaptación al teatro de Arlt.)
+
+La idea del complot en el discurso del astrólogo.
+
+Piglia: dos novelas paralelas. La de Erdosain, que malversó dinero, y la del Astrólogo, que tiene planes superiores; un complot. Quieren controlar una parte de la ciudad; tomar Plaza de Mayo.
+
+Ricardo Bartis: "Siempre es idiota la circulación del dinero." Y quién narra? 
+
+Piglia: la novela viene en tercera persona, pero aparecen notas al pie que soportan otra versión de los hechos.
+
+Piglia: el jopo de Arlt fue una contingencia al sacarse la foto.
    
 https://www.youtube.com/watch?v=Lu1IgF8xFik&list=PLM2azdA0sTU-7-1oYgcyWM-SSE8cSdRrH&index=6 
    
