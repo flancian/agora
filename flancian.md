@@ -7,7 +7,7 @@
 - [[email]] 0 (that's a zero) on email in my personal domain as listed below.
 - [[twitter]] https://twitter.com/flancian
 - [[mastodon]] https://flancia.org/go/mastodon
-- [[garden]] https://github.com/flancian/garde
+- [[garden]] https://github.com/flancian/garden
 - [[matrix]] @flancian@matrix.org
 - [[telegram]] @Flancian
 - [[urbit]] danfen-socsum on Urbit (currently unavailable due to technical issues).
