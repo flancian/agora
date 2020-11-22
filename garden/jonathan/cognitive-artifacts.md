@@ -1,4 +1,4 @@
-Cognitive artifacts
+# Cognitive artifacts
 
 - The following is quoted copy-paste from https://flancia.org/mine/go-links/ :   
   - Cognitive artifacts are “artificial devices that maintain, display, or operate upon information in order to serve a representational function and that affect human cognitive performance”1. They are objects “made by humans for the purpose of aiding, enhancing, or improving cognition”2. Some examples are calendars, to-do lists, computers — and, with the latter, many of their abstractions.
