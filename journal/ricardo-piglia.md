@@ -26,14 +26,13 @@
   - Tango novelado: anarquismo, desdichas sociales, cultura baja
   - locura y ficción: forma de utopía popular, ilusión de salir de la miseria
     
-  - dinero: 
-      
-      - no se trata de ganarlo, sino de hacerlo. falsificación y estafa/magia y alquimia. 
-      - Transformar la miseria en dinero: entre los ricos y los pobres están los flasificadores.
-      - para Arlt el trabajo solo produce miseria, no hay ficcióon posible en este mundo. 
-      - Para ganar expresividad el dinero tiene que estar relacionado con el delito. 
-       - Misterio en el mundo de la riqueza: quien tiene dinero esconde un crimen, el enriquecimiento es siempre ilegal.
-       -  el poder del dinero, de tenerlo todo y hacer todo, es como el poder de la ficción.
+  - dinero:       
+    - no se trata de ganarlo, sino de hacerlo. falsificación y estafa/magia y alquimia.
+    - Transformar la miseria en dinero: entre los ricos y los pobres están los flasificadores.
+    - para Arlt el trabajo solo produce miseria, no hay ficcióon posible en este mundo. 
+    - Para ganar expresividad el dinero tiene que estar relacionado con el delito.
+    - Misterio en el mundo de la riqueza: quien tiene dinero esconde un crimen, el enriquecimiento es siempre ilegal.
+    - el poder del dinero, de tenerlo todo y hacer todo, es como el poder de la ficción.
 
 ## Una trama de relatos
 - La sociedad es una trama de relatos:
@@ -55,7 +54,13 @@
 - Propuesta de Piglia de biblioteca para leer la realidad argentina y desentrañar sus leyes:
   
   - Facundo: mirada extralocal, lo real es falso, pone en el desierto lo que quiere ver. Lo hace uniendo diferentes géneros.
-  - hace pasar juicios de valor por juicios de hecho. nos da realidad atravesada por su juicio. 
+  - hace pasar juicios de valor por juicios de hecho. 
+  - Define la tradición de los vencedores.
+  - La clave está en lo que no dice: la oposición entre civilización y barbarie no es tan clara. (muere en manos de su protegido)
+  - Urquiza descifra y cumple el oráculo del Facundo
+
+"La línea Mayo-Caseros tiene más
+que ver con un hipotético recorrido de subte que con la historia argentina"
      
 
 
