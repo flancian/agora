@@ -16,3 +16,9 @@
 - Relación contradictoria con el público:
   - demanda del público satisfecha en las [[Aguafuertes porteñas]]
   - lleva al público al extremo en sus novelas, difícil de encasillar entre el realismo social (demasiado excéntrico) y el esteticismo (demasido realista).
+    - Ejemplo: [[Los siete locos]]: dos novelas: la de Erdosain y la del Astrólogo, una sobre el deseo de escaparse, otra sobre los mundos posibles.
+- La ficción según Arlt:
+  - La posibilidad de hacer creer.
+  - a menudo se la identifica con la estafa.
+  - Bovarismo (la ficción puede cambiarnos la vida).
+  - 
