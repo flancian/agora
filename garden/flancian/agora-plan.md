@@ -24,6 +24,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 
 ### Signups
  - [x] [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
+ - [x] [[luciana]]: https://github.com/malfattti/garden
+ - [ ] [[enkiv2]]: http://lord-enki.net/medium-backup/
  - [ ] likely [[arghzero]]
  - [ ] likely [[solomon naim]]
  - [ ] what about all of the ones licensed appropriately listed in [[kasper zutterman]]'s [[second brain]] list? https://github.com/KasperZutterman/Second-Brain
@@ -108,6 +110,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [2020-11-15]: journal/2020-11-15 "2020-11-15"
 [2020-11-14]: journal/2020-11-14 "2020-11-14"
 [pen-coded]: pen-coded "Pen Coded"
+[luciana]: luciana "Luciana"
+[enkiv2]: enkiv2 "Enkiv2"
 [arghzero]: arghzero "Arghzero"
 [solomon-naim]: solomon-naim "Solomon Naim"
 [second-brain]: second-brain "Second Brain"
