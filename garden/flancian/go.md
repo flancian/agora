@@ -2,7 +2,7 @@
 
 - See [[go link]].
 - See [[agora-go-links-integration]].
-- [[go]] flancia.org/mine/go-links.
+- [[go]] flancia.org/mine/go-links
 - [[twitter]] https://twitter.com/flancian/status/1330572022146019328.
 
 
