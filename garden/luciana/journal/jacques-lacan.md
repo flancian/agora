@@ -3,7 +3,17 @@
 ![lacan](https://www.thebookoflife.org/wp-content/uploads/2016/03/image04.png)
 
 ## Starting points
-[[Sigmund Freud]], whom he criticizes and radicalizes with the tools of [[structuralism]].
+- [[Sigmund Freud]], whom he criticizes and radicalizes with the tools of [[structuralism]].
+- [[Roman Jakobson]]'s concepts of syntagmatic and paradigmatic relationships in language. According to Jakobson, poetic language uses the principle of equivalence not only at the paradigmatic level (choices between words with the same function - vertical - diachrony) but at the syntagmatic level (how words are put together in a sentence - horizontal - synchrony). The way the words relate with each other in a verse or group of verses (through rhyme, alliteration, etc.) matters as much as the meaning of the original choice of words (plain meaning). How words are put together separates poetic from normal language.
+
+## Greatest contribution to psychoanalysis
+4 Theses:
+- The "I" develops through the mirror stage.
+- The unconscious is structured like a language
+- The subject desires an object created through a perpetual lack, it is forever delayed and never fulfilled.
+- The human psyche is structured along the triad of the imaginary, the symbolic and the real.
+## The mirror stage
+- When the child is between 6 and 18 months old, it notices in the mirror that it is a whole subject, although it perceives itself to be a disconnected ensemble of parts.
 
 
 
