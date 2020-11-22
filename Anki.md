@@ -1,0 +1,5 @@
+- Resources
+    - Manual https://docs.ankiweb.net/#/
+- Notes
+    - Been reading more of the manual / watching the videos. Anki is so cool! It uses html and css for styling, so I already know a bit of how to customize the cards... 
+    - I ran into this minor issue: when Mac OS is in dark mode (as mine always is), then Anki automatically gets forced into "night mode", which means all cards appear as white text on black background. colors are not visible. Apparently there is a solution by installing a new beta version, but I think i'll simply wait for now with using colors, and focus simply on building my decks for the time being. 
