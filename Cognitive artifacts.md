@@ -1,6 +1,6 @@
 Cognitive artifacts
 
-- The following is quoted copy-paste from https://flancia.org/mine/go-links/: 
+- The following is quoted copy-paste from https://flancia.org/mine/go-links/ :   
   - Cognitive artifacts are “artificial devices that maintain, display, or operate upon information in order to serve a representational function and that affect human cognitive performance”1. They are objects “made by humans for the purpose of aiding, enhancing, or improving cognition”2. Some examples are calendars, to-do lists, computers — and, with the latter, many of their abstractions.
 
   - David Krakauer from the Santa Fe Institute volunteers some further useful definitions surrounding cognitive artifacts: they can be competitive or complementary. Complementary cognitive artifacts have an interesting property: as you use them, you become better at the same or a related cognitive task, even in the absence of the artifact. A common example is the abacus: as it’s widely known, people that become proficient at using the abacus for performing arithmetic become better at these tasks even in the absence of an abacus. To some extent, they are able to internalize the abacus. Compare, of course, to the use electronic calculator; lose your calculator and you’re back to square one, or perhaps worse off than if you didn’t ever have it in the first place. Another example: maps are complementary for most people, whereas step-by-step GPS directions are competitive.
