@@ -49,7 +49,7 @@
     - la política ocupa el lugar del destino, amenaza que se forma en centro oculto y se impone a la realidad.
     - versión de la realidad de los golpistas: teoría del cuerpo extraÑo que había penetrado el tejido social y que deía ser extirpado (hace público lo que se le iba a hacer  en secreto al cuerpo de las víctimas)
     - las otras historias: son anuladas. Pero siempre hay una versión de los vencidos que resiste (historia de alguien que cuenta que alguien ve pasar un tren al sur lleno de ataúdes).
-- Arlt: visionario y anticipador del destruction    
+- Arlt: visionario y anticipador del destino    
   - profundiza tradición de ficción y política en la novela argentina
   - momentos de gran condensación: tensiones secretas se hacen visibles, puntos de fuga del imaginario social.
 - Propuesta de Piglia de biblioteca para leer la realidad argentina y desentrañar sus leyes:
