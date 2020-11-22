@@ -1,5 +1,7 @@
 # Jacques Lacan
 
+![lacan](https://www.thebookoflife.org/wp-content/uploads/2016/03/image04.png)
+
 ## Starting points
 [[Sigmund Freud]], whom he criticizes and radicalizes with the tools of [[structuralism]].
 
