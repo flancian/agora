@@ -14,6 +14,10 @@
 - The human psyche is structured along the triad of the imaginary, the symbolic and the real.
 ## The mirror stage
 - When the child is between 6 and 18 months old, it notices in the mirror that it is a whole subject, although it perceives itself to be a disconnected ensemble of parts.
+- [[Paul Fry]] here adds that the child then sees itself as the object of their mother's desire.
+- Results:
+  - the child identifies the ego or "Grössen-ich", but this whole and coordinated self has not yet been attained and never will be. One is never completely independent of their environment.
+  - 
 
 
 
