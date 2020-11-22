@@ -25,7 +25,6 @@
   - Política y ficción
   - Tango novelado: anarquismo, desdichas sociales, cultura baja
   - locura y ficción: forma de utopía popular, ilusión de salir de la miseria
-    
   - dinero:       
     - no se trata de ganarlo, sino de hacerlo. falsificación y estafa/magia y alquimia.
     - Transformar la miseria en dinero: entre los ricos y los pobres están los flasificadores.
