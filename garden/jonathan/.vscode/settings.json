@@ -3,9 +3,8 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "workbench.colorTheme": "Monokai Dimmed",
   "[markdown]": {
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": false
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
@@ -15,5 +14,9 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "workbench.iconTheme": "vs-minimal",
+  "workbench.colorTheme": "Gray Matter Light",
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false
 }
