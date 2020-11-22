@@ -5,6 +5,7 @@
 ## Crítica y Ficción
 ### Sobre [[Roberto Arlt]]
 ![Arlt](https://www.wagenbach.de//images/verlag/autoren/print/arlt-roberto-707.jpg)
+
 - No es un clásico, o en todo caso un clásico sin legitimidad (contrasentido), su estilo lo ha salvado de la canonización porque se opone a la hipercorrección.
   - Estilo: mezclado, hecho con restos ([[bricoleur]]). Tiene la marca de un gran escritor que es el tratamiento de la lengua materna con distancia y extrañeza ([[Conrad]], [[Hudson]]). Apellido mismo.
   - Acceso delicitivo a la cultura.
