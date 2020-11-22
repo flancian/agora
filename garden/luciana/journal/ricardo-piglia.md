@@ -10,7 +10,7 @@
   - Acceso delicitivo a la cultura.
   - Cambios luego de su muerte sí, pero la ilegitimidad queda.
 - Sí es actual:
-  - Es profético, No es coyuntural. Leyes de funcionamiento de la sociedad, núcleos básicos que se convierten en fundamentos de la ficción.
+  - Es profético, no es coyuntural. Leyes de funcionamiento de la sociedad, núcleos básicos que se convierten en fundamentos de la ficción (un [[estructuralista]]???).
   - Utopías negativas que siempre se renuevan, especulación y paranoia ([[Philip K. Dick]]).
 - Relación contradictoria con el público:
   - demanda del público satisfecha en las [[Aguafuertes porteñas]]
@@ -27,6 +27,7 @@
   - locura y ficción: forma de utopía popular, ilusión de salir de la miseria
     
   - dinero: 
+      
       - no se trata de ganarlo, sino de hacerlo. falsificación y estafa/magia y alquimia. 
       - Transformar la miseria en dinero: entre los ricos y los pobres están los flasificadores.
       - para Arlt el trabajo solo produce miseria, no hay ficcióon posible en este mundo. 
@@ -39,8 +40,8 @@
   - Lo personal/privado de la narración
   - La voz pública
   
-- El estado centraliza esas historias. cuando se impone el poder político eseimpone una manera de contar la realidad. 
-- trama de relatos siempre se construyen desde una posición concreta. expresa relaciones de fuerza. También anticipan lo que va a venir.
+- El estado centraliza esas historias. cuando se impone el poder político se impone una manera de contar la realidad. 
+- trama de relatos siempre se construyen desde una posición concreta. Expresa relaciones de fuerza. También anticipan lo que va a venir.
 - Historias de 1984 en Argentina?
   - el complot, la conspiración
     - un relato verdadero (el poder funciona así)
