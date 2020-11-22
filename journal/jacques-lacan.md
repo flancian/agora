@@ -16,8 +16,35 @@
 - When the child is between 6 and 18 months old, it notices in the mirror that it is a whole subject, although it perceives itself to be a disconnected ensemble of parts.
 - [[Paul Fry]] here adds that the child then sees itself as the object of their mother's desire.
 - Results:
-  - the child identifies the ego or "Grössen-ich", but this whole and coordinated self has not yet been attained and never will be. One is never completely independent of their environment.
-  - 
+  - narcissistic identification of the the ego or "Grössen-ich", but this whole and coordinated self has not yet been attained (the child is still uncoordinated and dependent)) and never will be. One is never completely independent of their environment.
+  - There is thus a discrepancy between the identification with an imaginary picture (the imaginary) and the experience of incoordination and fragmentation.
+  - allows the child to see itself the way other people may see it. (mother: as an object of desire).
+  -   The former symbiotic relationship to a nurturing environment is severed and there is a desire to return to it.
+- The outside constitutes the symbolic order:
+ 
+  - The symbolic order has a set of rules, one of them being that one cannot return to the pre-symbolic stage. 
+    - has several other rules: everything from language to the economy of exchange and other social norms.
+  - It designs the order that will control the desires and drives of child once it grows up.
+  - turning away from the mother leads to socialization at a cost, which is a forever unfulfilled desire.
+  - it will also impede the achievement of the imaginary "I" (restriction of omnipotence fantasies)
+  - instead the desire for the mother is replaced with other desires.
+- The real:
+  - What remains when the drives cannot be sublimated
+  - The unconscious cannot be made present, if it could be made present then it would be conscious (critic of Freud)
+  - Constitutes horror or trauma of disconnection from mother (1st object of desire) but also the residues remaining from unsuccessful operations of sublimations of drives. 
+  - In contrast with jouissance, the real is something rather negative, remains in the dark, exerts influence through traces but ultimately inaccessible.
+## The unconscious is structured like a language 
+  
+  - The Real or unconscious is not representable (unrepresentable?) because the human psyche works like a language.
+  - Freud says that dreams are an attempt to make the conscious readable but in a metaphorically or metonimically (figural moments: condensation and displacement) distorted way.
+  - To this, Lacan says that to transfer the real into the symbolic is practically impossible:
+    - They relate as the signified to the signifier.
+    - The bar between them is the human psyche which tries to put into signifiers a signified which it cannot reach. We never have direct access to the unconscious. The signified cannot be put one to one with a signifier.
+    - The Real is not a transcendental signified, it cannot be transferred into the realm of signification. 
+    - There are signifiers that refer to a signified but there is no logical or clear relationship between the two.
+
+
+  
 
 
 
