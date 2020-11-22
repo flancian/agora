@@ -29,6 +29,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora twitter integration]]
 - [[agora-youtube-integration]]
 - [[roam2agora]]
+- [[agora vscode]]
 
 ## Next
 - [ ] Make the site header be marked as an actual header (div with a class, etc.); Google seems to think it's part of the site text (it's showing up in results).
