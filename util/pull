@@ -1,3 +1,3 @@
 #!/bin/bash
-INTERVAL=20
+INTERVAL=1
 while true; do ./sync; sleep $INTERVAL; done
