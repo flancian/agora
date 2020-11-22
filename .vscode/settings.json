@@ -17,5 +17,14 @@
     "**/node_modules": true
   },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "spellright.language": [
+    "de",
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ]
 }
