@@ -6,4 +6,5 @@ cd $HOME/agora
 git subtree pull --prefix garden/flancian https://github.com/flancian/garden.git master --squash -m "sync garden/flancian"
 git subtree pull --prefix garden/s5bug https://gitdab.com/s/garden.git master --squash -m "sync garden/s5bug"
 git subtree pull --prefix garden/jonathan https://github.com/JonathanLorand/AgoraGarden master --squash -m "sync garden/jonathan"                                                                                                               
+git subtree pull --prefix garden/luciana https://github.com/malfattti/garden.git master --squash -m "sync garden/luciana"
 
