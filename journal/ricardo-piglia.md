@@ -36,9 +36,8 @@
 
 ## Una trama de relatos
 - La sociedad es una trama de relatos:
-  - Lo personal/privado de la narración
-  - La voz pública
-  
+  - Lo personal/privado de la narración.
+  - La voz pública.
 - El estado centraliza esas historias. cuando se impone el poder político se impone una manera de contar la realidad. 
 - trama de relatos siempre se construyen desde una posición concreta. Expresa relaciones de fuerza. También anticipan lo que va a venir.
 - Historias de 1984 en Argentina?
