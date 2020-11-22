@@ -37,13 +37,13 @@
   
 ## The unconscious is structured like a language 
   
-  - The Real or unconscious is not representable (unrepresentable?) because the human psyche works like a language.
-  - Freud says that dreams are an attempt to make the conscious readable but in a metaphorically or metonimically (figural moments: condensation and displacement) distorted way.
-  - To this, Lacan says that to transfer the real into the symbolic is practically impossible:
-    - They relate as the signified to the signifier.
-    - The bar between them is the human psyche which tries to put into signifiers a signified which it cannot reach. We never have direct access to the unconscious. The signified cannot be put one to one with a signifier.
-    - The Real is not a transcendental signified, it cannot be transferred into the realm of signification. 
-    - There are signifiers that refer to a signified but there is no logical or clear relationship between the two.
+- The Real or unconscious is not representable (unrepresentable?) because the human psyche works like a language.
+- Freud says that dreams are an attempt to make the conscious readable but in a metaphorically or metonimically (figural moments: condensation and displacement) distorted way.
+- To this, Lacan says that to transfer the real into the symbolic is practically impossible:
+  - They relate as the signified to the signifier.
+  - The bar between them is the human psyche which tries to put into signifiers a signified which it cannot reach. We never have direct access to the unconscious. The signified cannot be put one to one with a signifier.
+  - The Real is not a transcendental signified, it cannot be transferred into the realm of signification. 
+  - There are signifiers that refer to a signified but there is no logical or clear relationship between the two.
 
 
   
