@@ -6,11 +6,11 @@
   - Write in it whatever you would like all your commit messages to default to; you can just press enter and get whatever you have in this file.
   - Run this in that directory: ```git config --local commit.template commit.txt```
     - In VSCode, you can press ctrl-shift-c and get a terminal in which you should be able to paste that command. Presumably :) Let me know if this doesn't work for you!
-  - Optional: bind a key combination to "commit all". I use ctrl-alt-a.
+  - Optional: bind a key combination to "commit all". I use ctrl-shift-a.
     - Press ctrl-k ctrl-s (this means to hold control and press k and s in succession).
     - Type 'commit all' to find the matching command.
-    - Double click on it, press ctrl-alt-a, enter.
-    - Now you can press ctrl-alt-a and all files will be saved and then submitted to your git repo, and from there to the Agora.
+    - Double click on it, press ctrl-shift-a, enter.
+    - Now you can press ctrl-shift-a and all files will be saved and then submitted to your git repo, and from there to the Agora.
     - A is for Agora :)
 
 
