@@ -10,6 +10,10 @@ As you might know by now, an Agora is a beast with multiple legs:
 This page is about both, although it's probably going to be [[Agora Server]] heavy as I'm currently focused on developing features for it.
 
 ## Latest
+- On [[2020-11-22]] implemented count of subnodes in user pages.
+  - Want to:
+    - Add *some amount* of go links support.
+    - Add better backlinks, showing some context.
 - On [[2020-11-17]] implemented [[latest]].
 - On [[2020-11-16]] I implemented [[agora fuzzy matching]] and full text search, adopted a div based layout, improved the CSS, improved user pages.
 - On [[2020-11-15]] I implemented dark mode (press on 'theme' on the top right corner to switch dark <-> light).
@@ -96,6 +100,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora]: agora "Agora"
 [anagora]: anagora "Anagora"
 [agora-server]: agora-server "Agora Server"
+[2020-11-22]: journal/2020-11-22 "2020-11-22"
 [2020-11-17]: journal/2020-11-17 "2020-11-17"
 [latest]: latest "Latest"
 [2020-11-16]: journal/2020-11-16 "2020-11-16"
@@ -110,6 +115,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora-twitter-integration]: agora-twitter-integration "Agora Twitter Integration"
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
 [roam2agora]: roam2agora "Roam2agora"
+[agora-vscode]: agora-vscode "Agora Vscode"
 [dark-mode]: dark-mode "Dark Mode"
 [flancian]: flancian "Flancian"
 [s5bug]: s5bug "S5bug"
