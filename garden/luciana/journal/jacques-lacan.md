@@ -34,6 +34,7 @@
   - The unconscious cannot be made present, if it could be made present then it would be conscious (critic of Freud)
   - Constitutes horror or trauma of disconnection from mother (1st object of desire) but also the residues remaining from unsuccessful operations of sublimations of drives. 
   - In contrast with jouissance, the real is something rather negative, remains in the dark, exerts influence through traces but ultimately inaccessible.
+  
 ## The unconscious is structured like a language 
   
   - The Real or unconscious is not representable (unrepresentable?) because the human psyche works like a language.
