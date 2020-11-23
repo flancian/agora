@@ -54,8 +54,8 @@
   - Facundo: mirada extralocal, lo real es falso, pone en el desierto lo que quiere ver. Lo hace uniendo diferentes géneros.
   - hace pasar juicios de valor por juicios de hecho. 
   - Define la tradición de los vencedores.
-  - La clave está en lo que no dice: la oposición entre civilización y barbarie no es tan clara. (muere en manos de su protegido)
-  - Urquiza descifra y cumple el oráculo del Facundo
+  - La clave está en lo que no dice: la oposición entre civilización y barbarie no es tan clara. 
+  - Urquiza descifra y cumple el oráculo del Facundo (muere en manos de su protegido), a raíz de su asesinato Alsina queda desterrado en Europa escribiendo con la luciedez que le da la distancia.
 
 "La línea Mayo-Caseros tiene más
 que ver con un hipotético recorrido de subte que con la historia argentina"
