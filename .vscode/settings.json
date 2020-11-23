@@ -34,5 +34,8 @@
     "spellright.documentTypes": [
       "latex",
       "plaintext"
-    ]
+    ],
+    "vim.handleKeys": {
+      "[": false,
+    }
 }
