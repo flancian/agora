@@ -12,7 +12,6 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 ## Latest
 - On [[2020-11-22]] implemented count of subnodes in user pages.
   - [x] Added *some amount* of go links support: anagora.org/go/go now works :), points to the URL with [[go]] in anagora.org/node/go.
-  - [ ] Add better backlinks, showing some context.
 - On [[2020-11-17]] implemented [[latest]].
 - On [[2020-11-16]] I implemented [[agora fuzzy matching]] and full text search, adopted a div based layout, improved the CSS, improved user pages.
 - On [[2020-11-15]] I implemented dark mode (press on 'theme' on the top right corner to switch dark <-> light).
@@ -24,8 +23,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 ### Signups
  - [x] [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
  - [x] [[luciana]]: https://github.com/malfattti/garden
+ - [x] [[arghzero]]
  - [ ] [[enkiv2]]: http://lord-enki.net/medium-backup/
- - [ ] likely [[arghzero]]
  - [ ] likely [[solomon naim]]
  - [ ] what about all of the ones licensed appropriately listed in [[kasper zutterman]]'s [[second brain]] list? https://github.com/KasperZutterman/Second-Brain
 
@@ -37,6 +36,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora vscode]]
 
 ## Next
+- [ ] Add better backlinks, showing some context.
 - [ ] Make the site header be marked as an actual header (div with a class, etc.); Google seems to think it's part of the site text (it's showing up in results).
 - [x] Implement [[agora fuzzy matching]].
   - Done
