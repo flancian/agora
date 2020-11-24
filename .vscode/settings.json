@@ -19,12 +19,12 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "spellright.language": [
-    "de",
-    "en"
+    "en",
+    "es"
   ],
   "spellright.documentTypes": [
-    "markdown",
     "latex",
-    "plaintext"
+    "plaintext",
+    "markdown"
   ]
 }
