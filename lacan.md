@@ -10,5 +10,5 @@
     - La persona está constituida por lo real, lo simbólico y lo imaginario.
 - Pero hay mecanismos que permiten vislumbrar lo real. La [[metonimia]] y la [[metáfora]] son dos de estos.
   - [[Jacobson]]: "The poetic function projects the principle of equivalence from the axis of selection into the axis of combination. Equivalence is promoted to the constitutive device of the sequence."
-- Relación sintagmáticas y paradigmáticas.
-- Las relaciones sintagmáticas (sincrónicas) es como las palabras se combinan para crear significandos más grandes (oración, párrafo, etc.). Las paradigmáticas (diacrónicas) se tratan de cómo una palabra puede reemplazar a otra en un slot dentro de la oración.
+  - Las relaciones sintagmáticas (sincrónicas) es como las palabras se combinan para crear significandos más grandes (oración, párrafo, etc.). Las paradigmáticas (diacrónicas) se tratan de cómo una palabra puede reemplazar a otra en un slot dentro de la oración.
+
