@@ -2,8 +2,7 @@
 - [[Social algorithm]] (the [[Agora]] is an open repository for social algorithms) [[tweet]]:
   - Define central coordination entity, a.k.a. Agora.
   - For each useful internet platform:
-     - It should be op:w
-     - en.
+     - It should be open.
      - If it's not, write down a plan to replicate it.
      - Replicate it.
      - Open it up.
