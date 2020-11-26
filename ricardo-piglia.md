@@ -223,7 +223,7 @@ La radio es no lineal, y en ese sentido anticipa a internet -- en particular en 
 
 Macedonio hizo campaña para ser presidente con el grupo [[Martín Fierro]] con el argumento de que no mucha gente se plantea ser presidente, por lo que es relativamente probable conseguirlo. Macedonio investiga las formas de funcionamiento de la ficción en la realidad, en vez de lo opuesto.
 
-La tensión entre la ficción y la realidad está en [[Onetti]], en [[Leopoldo Marechal]], en [[Rayuela]]. También la conspiración.
+La tensión entre la ficción y la realidad está en [[Juan Carlos Onetti]] ([[La Vida Breve]]), en [[Leopoldo Marechal]] ([[Adán Buenosayres]]), en [[Julio Cortázar]] ([[Rayuela]]). También la conspiración.
 
 > La conspiración es un punto de choque entre la ficción y la realidad.
 
