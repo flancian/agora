@@ -39,3 +39,5 @@ Entonces: construyó la ficción especulativa, y un procedimiento. Ejemplo: Davi
 Philip Dick: "El hombre en el castillo". Había leído Tlön. Dentro de la novela, existe la novela donde los nazis perdieron la guerra; la novela dentro de la novela es nuestra realidad.
 
 Borges llevó eso a la perfección. La perfección es Tlön.
+
+## https://www.youtube.com/watch?v=m3htEzn1BIc
