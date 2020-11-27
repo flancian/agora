@@ -28,7 +28,7 @@ Llamado a los escritores: a veces los cuentos de diez páginas son mejores que n
 
 Borges sabía lo cierto: el problema no es cómo está la realidad en la ficción, sino cómo está la ficción en la realidad. Cómo actúa la ficción en la realidad; dónde la buscamos.
 
-Gramsci lo llamaba hegemonía. Valery dice: no se puede gobernar con la pura ficción. Hacen falta fuerzas ficticias. Por lo tanto hay que construir utopías.
+Gramsci lo llamaba hegemonía. Valery dice: "no se puede gobernar con la pura coerción. Hacen falta fuerzas ficticias." Por lo tanto hay que construir utopías.
 
 Borges trabajó muy bien con lo que él llama ficción: la ficción no es ni verdadera ni falsa. No se puede verificar. La literatura es una experiencia con esa ambigüedad.
 
