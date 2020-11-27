@@ -16,6 +16,8 @@ Tema: cómo Piglia representa la tecnología en sus novelas.
  
 # Clases en Youtube
 
+- [[Borges por Piglia]].
+ 
 ## Escenas de la novela argentina: 2012-09-01
 
 - https://www.youtube.com/watch?v=mK0ENCrDB0Q
