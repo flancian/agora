@@ -2,8 +2,7 @@
 
 - [[GTD]] for short. A [[productivity]] method by [[David Allen]].
 - It's also a book, which I haven't read; [[Luciana]] has.
-- [[go]] 
-- https://hamberg.no/gtd for an intro.
+- [[go]] https://hamberg.no/gtd
 - The gist of it:
   - Break down tasks. Be specific.
   - When go through your backlog, like any inbox (including a "main" one, your base field of operations for executing the GTD algorithms), you try to either take any needed action immediately (but only if it's short; perhaps set a threshold in seconds, rather than minutes) or classify for later doing.
@@ -17,7 +16,7 @@
   - [[next action]].
   - [[dome day]].
   - [[agora plan]].
-- [[do]] acts as an index/root node; whenever I don't know what to do, I just visit [[do]] :)
+  - [[do]] acts as an index/root node of the GTD system; whenever I don't know what to do, I just visit [[do]] :)
 
 
 
