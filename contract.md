@@ -2,9 +2,9 @@
 
 - I endorse the base [[contract]] of this Agora.
 - I am one of the [[Flancians]] and this is my [[manifesto]].
-  - In [[Flancia]] there is no [[poverty]]: https://flancia.org/poverty
-  - In [[Flancia]] there is no [[privilege]]: https://flancia.org/privilege
-  - In [[Flancia]] there is an [[Agora]]: https://flancia.org/agora
+  - In [[Flancia]] there is no [[poverty]].
+  - In [[Flancia]] there is no [[privilege]].
+  - In [[Flancia]] there is an [[Agora]].
   - In [[Flancia]] we will one day [[meet]].
 - I intend to bring facets of [[Flancia]] into the real world, only as far as they also benefit others, without unilaterally imposing my will.
 - Because I am unskillful, I need your help. I am open to any [[feedback]] anytime.
