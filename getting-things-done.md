@@ -10,7 +10,7 @@
   - My take: as I can, I try to expand items, breaking them down into simpler actions and tagging them (classifying them) with a greater degree of specificity. This makes the tasks more tractable over time.
   - You classify according to [[time]] and [[context]] for the task of doing. Some example tags:
     - [[next action]], [[next week]], [[some day]], [[office]], [[home]], [[project]].
-  - [[next action]] is where the magic happens. At some point something needs to be your [[next action]] to get done :)
+  - [[next action]] is where a lot of the magic happens. At some point something needs to be your [[next action]] to get done :)
 - I'm trying using [[Getting Things Done]] in the [[Agora]]:
   - Actions are wikilinks (I don't distinguish between links and tags; they're all just nodes).
   - [[read]], [[research]], [[write]].
