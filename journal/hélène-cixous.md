@@ -18,7 +18,7 @@
    
 - Can we even speak of problems of gender without going back to the essentialist thinking that created these categories?
   
-## Cixous' apportation
+## Cixous' contribution
 - What needs to be deconstructed is the male/female dichotomy
 - She argues that we cannot assume a clear cut dichotomy between female/male.
 - But we must put into question the structure behinds dichotomy first. As well as the fact that the binary is never pure in itself but result of difference, not original, nor present.
