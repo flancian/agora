@@ -5,7 +5,7 @@
   - In [[Flancia]] there is no [[poverty]]: https://flancia.org/poverty
   - In [[Flancia]] there is no [[privilege]]: https://flancia.org/privilege
   - In [[Flancia]] there is an [[Agora]]: https://flancia.org/agora
-  - In [[Flancia]] we will one day [[Meet]].
+  - In [[Flancia]] we will one day [[meet]].
 - I intend to bring facets of [[Flancia]] into the real world, only as far as they also benefit others, without unilaterally imposing my will.
 - Because I am unskillful, I need your help. I am open to any [[feedback]] anytime.
 
@@ -14,6 +14,8 @@
 [flancians]: flancians "Flancians"
 [manifesto]: manifesto "Manifesto"
 [flancia]: flancia "Flancia"
+[poverty]: poverty "Poverty"
+[privilege]: privilege "Privilege"
 [agora]: agora "Agora"
 [meet]: meet "Meet"
 [feedback]: feedback "Feedback"
