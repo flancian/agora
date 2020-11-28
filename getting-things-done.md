@@ -6,7 +6,8 @@
 - https://hamberg.no/gtd for an intro.
 - The gist of it:
   - Break down tasks. Be specific.
-  - When go through your backlog, like email, you try to either take any needed action immediately (but only if it's short; perhaps set a threshold in seconds, rather than minutes) or classify for later doing.
+  - When go through your backlog, like any inbox (including a "main" one, your base field of operations for executing the GTD algorithms), you try to either take any needed action immediately (but only if it's short; perhaps set a threshold in seconds, rather than minutes) or classify for later doing.
+  - My take: as I can, I try to expand items, breaking them down into simpler actions and tagging them (classifying them) with a greater degree of specificity. This makes the tasks more tractable over time.
   - You classify according to [[time]] and [[context]] for the task of doing. Some example tags:
     - [[next action]], [[next week]], [[some day]], [[office]], [[home]], [[project]].
   - [[next action]] is where the magic happens. At some point something needs to be your [[next action]] to get done :)
