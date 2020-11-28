@@ -103,10 +103,11 @@
         - Shemuei Saadi Halevy: against anti-Judezmists like fresco and Danon. 
         - Desire to improve language, but not change it for another. Also encouraged people to learn national language.
         - rise of talented writers who advocated for the language of older generations, before the westernization. Judezmo folk writing.
-      - Other linguistic questions
-        - the question of the name used to refer to the language
-        - the alphabet employed to write it
-        - the linguistic sources used to construct the grammar and lexicon of texts
-        - today, most young people prefer to speak the national languages of their country of residence or other additional languages of Western culture
-        - older people continue to treasure the language of their ancestors
-          - variation, different backgrounds of speakers  
+### Other linguistic questions
+
+- the question of the name used to refer to the language
+- the alphabet employed to write it
+ - the linguistic sources used to construct the grammar and lexicon of texts
+ - today, most young people prefer to speak the national languages of their country of residence or other additional languages of Western culture
+  - older people continue to treasure the language of their ancestors
+  - variation, different backgrounds of speakers  
