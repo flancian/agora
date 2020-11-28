@@ -6,7 +6,7 @@ Also See the [[Main AI Page]]
 
 To see the directions for creating the Chatbot from the lab, read the [Creating a Chatbot](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CB0106EN-SkillsNetwork/labs/Module%203-coursera/labs_Module_3_Lab3.md.html?origin=www.coursera.org) page from Coursera.
 
-## Checklist
+## Chatbot Checklist
 
 - [ ] Add an assistant instance
 - [ ] Add a dialogue skill
