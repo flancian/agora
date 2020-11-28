@@ -9,4 +9,4 @@ git subtree pull --prefix garden/jonathan https://github.com/JonathanLorand/Agor
 git subtree pull --prefix garden/luciana https://github.com/malfattti/garden.git master --squash -m "sync garden/luciana"
 git subtree pull --prefix garden/ArghZero https://github.com/arghzero/agora-garden.git master --squash -m "sync garden/ArghZero"
 git subtree pull --prefix garden/olofl https://github.com/oloflindholm/garden master --squash -m "sync garden/olofl"
-git subtree pull --prefix garden/KGBicheno https://github.com/KGBicheno/KGB_Agora master --squash -m "sync garden/KGBicheno"
+git subtree pull --prefix garden/KGBicheno https://github.com/KGBicheno/KGB_Agora main --squash -m "sync garden/KGBicheno"
