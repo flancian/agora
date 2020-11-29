@@ -4,8 +4,9 @@
 - See also: [[go link]].
 - See also: [[agora-go-links-integration]].
 - [[go]] flancia.org/mine/go-links
-  - The above block results in the Agora creating a [[go link]] for the node id in which it is in ('go') redirecting to the URL that appears after the action.
+  - The above block results in the Agora creating a [[go link]] for the node id in which it is in ('go'), redirecting to the URL that appears after the action.
   - Concretely, if you visit anagora.org/go/go you will be redirected to flancia.org/mine/go-links.
+  - This, I believe, can be a sufficient substrate for implementing [[social bookmarking]] and [[social search]].
 - [[twitter]] https://twitter.com/flancian/status/1330572022146019328.
 
 
