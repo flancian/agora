@@ -3,13 +3,13 @@
 - A [[person]].
   - My [[self]] :).
 - [[website]] https://flancia.org
-- [[email]] 0 (that's a zero) on email in my personal domain as listed above.
+- [[email]] 0 (that's a zero) on email in my personal domain as listed above
 - [[twitter]] https://twitter.com/flancian
 - [[mastodon]] https://flancia.org/go/mastodon
 - [[garden]] https://github.com/flancian/garden
 - [[matrix]] @flancian@matrix.org
 - [[telegram]] @Flancian
-- [[urbit]] danfen-socsum on Urbit (currently unavailable due to technical issues).
+- [[urbit]] danfen-socsum (currently unavailable)
 - [[agora]] anagora.org
 - I'm a member of [[social.coop]].
 - My pseudonym stems from the fact that I consider myself one of many [[Flancians]].
