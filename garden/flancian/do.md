@@ -5,7 +5,7 @@
   - [[todo]].
   - [[next action]]
   - Search for '\[ \]' [[link]] [[agora-plan]]
-  - Common actions (backlinks):
+  - Common actions (check backlinks):
     - [[read]]
     - [[write]]
     - [[answer]]
