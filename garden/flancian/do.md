@@ -1,6 +1,6 @@
 # Do
 
-- Every day: [[daily]]
+- Every day: [[daily]].
 - Check:
   - [[todo]].
   - [[next action]]
