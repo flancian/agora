@@ -107,7 +107,50 @@ el Hotel Majestic <img src="https://2.bp.blogspot.com/-ISMqS26fTMo/Vb0OER3ojFI/A
         -  a veces por la ventana podían ver y oir todo
       - Monti decía: Peor que los animales y le mostraba el llano y decía que ese era el mapa del infierno, un mapa de tumbas.
 - “La Perla Chica”
-"En la entrada a la localidad de Malagueño, en la franja de terrenos que comparten la Sociedad Rural y el Ejército, entre la ruta vieja y la autopista que conduce a Carlos Paz, a 12 Km de la ciudad de Córdoba justo en frente de “La Perla”, está ubicada “La Perla chica” o “ la escuelita”, que funcionótambién como CCD entre 1976 y 1979. Sus dimensiones eran mucho más reducidas que las de “La Perla” pero numerosos detenidos fueron alojados transitoriamente en este CCD."
+"En la entrada a la localidad de Malagueño, en la franja de terrenos que comparten la Sociedad Rural y el Ejército, entre la ruta vieja y la autopista que conduce a Carlos Paz, a 12 Km de la ciudad de Córdoba justo en frente de “La Perla”, está ubicada “La Perla chica” o “ la escuelita”, que funcionó también como CCD entre 1976 y 1979. Sus dimensiones eran mucho más reducidas que las de “La Perla” pero numerosos detenidos fueron alojados transitoriamente en este CCD."
 [[https://apm.gov.ar/em/estructura-represiva-estatal-en-c%C3%B3rdoba]]
       - 
--  
+## II. El Museo
+- queda cerca del parque y atrás del Congreso
+- la máquina está en un salón circular, al fondo, sobre una tarima negra. 
+- En las paredes hay diagramas, fotos, reproducciones de los textos.
+primero intentan una máquina de traducir. Le introducen texto de Poe "William Wilson". 
+- El relato se modifica y se expande hasta ser irreconocible. Se llama Stephen Stevensen. 
+- Esta es la historia inicial. más allá de sus imperfecciones señalaba lo que vendría. ([[Macedonio Fernández]] dice que la primera obra contiene todas las que vendrán)
+- queríamos una máquina de traducir y tenemos una máquina transformadora de historias
+- toma el tema del doble y lo traduce
+- Piglia mismo como máquina de traducir y de deformar las historias
+- Macedonio tiene en ese momento cincuenta años
+- entrevistas dando explicaciones:
+    no quiere vender la patente, solo perfeccionar el aparato y entretener a los paisanos de los pueblos
+- le parece un invento más divertido que la radio
+- no quiere el apoyo del gobierno
+- piensa presentarlo en una unviersidad, forma parte de la categoría de los invento aquenó: generan incredulidad
+- la máquina había captado la forma de la narración de poe y le había cambiado la anécdota, había que programarla con una serie de núcleos narrativos y dejarla trabajar
+- aprende a medida que narra: recuerda lo que ya hizo y tiene cada vez más experiencia
+- útil porque los viejos en el campo cuentan historias de aparecidos que se mueren:
+    - el último que conoció vivía en Coronel Vidal y cuenta la historia del gaucho invisiblela inventa de la nada y la va perfeccionando
+    - la vive don Sosa quien se había quedado paralítico de tanto meterse en el agua a buscar terrenos guachos cuando trabajaba en estancias de los Echegoyen por la zona de Quequén. Fue así
+  ### El gaucho invisible
+ - El tape Burgos (personaje de don Segundo Sombra, se enfrenta a él). Tropero conchabado (conductor de carretas empleado) en Chacabuco
+  
+  - Muestra su destreza levantando a su caballo a un ternero que se había quedado clavado a un costado con miedo. 
+  -   sin embargo los otros lo excluyen
+  -   van a Azul donde pasan la noche
+  -   meten los animales en el corral de la iglesia, hay unas ruinas y le parece ver una cruz, nadie le presta atención pero el se santigua
+  -   en el almacén hay baile y sus compañeros conquistan a algunas dde las mujeres, el prefiere no hacer nada pero le gusta una mujer rubia 
+  -   se imagina que se acuestan juntos y que la mujer le dice que la historia de Cristo gusta porque a los hombres les gusta ver sufrir
+  -   la mujer tiene acento extranjero
+  -   entonces la escucha decir que si la historia de la pasión no fuera tan sangrienta nadie se hubiera interesado en Jesús
+  -   se mueve para sacarla a bailar pero no se animalla mañana siguiente van a sacar los animales del corral. hay tormenta.
+  -   Burgos ve que un ternero está ahogándose en la laguna de un bajo. tiene pata rota porque no puede trepar.
+  -   lo enlaza desde arriba y sostiene del cogote en el aire. el animal se retuerce y patea. cae al agua, lo vuelve a enlazar, lo deja caer de nuevo, etc.los demás festejan y ríen 
+  -  cuando termina el juego lo sacan y degüellan. le dicen a Burgos: oy comemos asado de pez. Todos ríen y este siente la hermandad de los hombres
+  --------
+  - Macedonio siempre está recopilando historias ajenas, desde su época de Fsical en Misiones.
+  - En esa época había perdido a su mujer, Elena Obieta y todo lo que hacía, incluso la máquina, pretendía tenerla presente
+  - ella era La Eterna, el río del relato, la voz que mantiene vivo el recuerdo
+  - construye un mundo para vivir con ella
+  - sistema sencillo, cuando transforma la historia de William Wilson en la de Stephen Stevensen 
+  - 
+
