@@ -1,6 +1,7 @@
 # Daily
 - [[links here]] https://flancia.org/go/daily
 - Meditate for at least one minute now.
+- Think about how to make my future [[self]] and others glad.
 - Find and allocate time to continue my meditation practice. 
   - Write down the time now. Default: one hour after starting on this daily routine.
 - Go over tasks: [[do]].
