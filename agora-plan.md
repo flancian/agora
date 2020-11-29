@@ -36,6 +36,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora vscode]]
 
 ## Next
+- [ ] Provide a link (GET) for the search for '\[ \]', useful for [[do]].
 - [ ] Add better backlinks, showing some context.
 - [ ] Make the site header be marked as an actual header (div with a class, etc.); Google seems to think it's part of the site text (it's showing up in results).
 - [x] Implement [[agora fuzzy matching]].
@@ -111,8 +112,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [2020-11-14]: journal/2020-11-14 "2020-11-14"
 [pen-coded]: pen-coded "Pen Coded"
 [luciana]: luciana "Luciana"
-[enkiv2]: enkiv2 "Enkiv2"
 [arghzero]: arghzero "Arghzero"
+[enkiv2]: enkiv2 "Enkiv2"
 [solomon-naim]: solomon-naim "Solomon Naim"
 [second-brain]: second-brain "Second Brain"
 [agora-go-links-integration]: agora-go-links-integration "Agora Go Links Integration"
@@ -120,6 +121,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
 [roam2agora]: roam2agora "Roam2agora"
 [agora-vscode]: agora-vscode "Agora Vscode"
+[do]: do "Do"
 [dark-mode]: dark-mode "Dark Mode"
 [flancian]: flancian "Flancian"
 [s5bug]: s5bug "S5bug"
