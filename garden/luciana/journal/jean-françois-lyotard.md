@@ -81,7 +81,15 @@ A report on the state of knowledge in post- modernity.
   - ensure that everyone is able to play the language game that they like
   - try to make interesting moves on the language board
     - invent new and more exciting moves
-    - 
+  - Since the language games are incommensurable, , legitimation is impossible:
+    - descriptive and prescriptive language games."Naturalistic phallacy":
+      - you cannot derive a prescriptive statement ("what ought to be") from a descriptive statement *what is the status quo?")
+      - because the prescriptive statement is being used to change the reality that the descriptive statement,  these things cannot be fit into a master narrative because they are different
+      - legitimation is by default based on the idea that you can derive an ought from a present is, but this has become impossible
+      - legitimation becomes impossible
+      - this is the core of Lyotard's analysis
+      - is the impossibility of legitimation a symptom of a radical relativity?
+      - 
 - 
     - the narrative function is being dispersed in clouds of narrative language elements, we like at the intersection of many of these
       - the subject is constituted by the elements that cross it.
@@ -98,7 +106,7 @@ A report on the state of knowledge in post- modernity.
    - the only thing tan counts is the paralogy of inventing:
    - taking what is known and finding new combinations for it
    - the rules are set, we cannot invent a new game but we can move the figures on the board in surprising or interesting manners
-   - 
+   -   
   - The future: pragmatics of language particles
      
 
