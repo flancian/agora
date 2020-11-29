@@ -41,3 +41,21 @@ Philip Dick: "El hombre en el castillo". Había leído Tlön. Dentro de la novel
 Borges llevó eso a la perfección. La perfección es Tlön.
 
 ## https://www.youtube.com/watch?v=m3htEzn1BIc
+
+No tiene sentido usar la influencia de Borges para fundamentar que es un buen escritor. Pero es influyente igual: [[Palm Fire]] no podría haber sido escrito sin Borges. [[La vida breve]] tampoco, claro.
+
+Borges hizo de todo: se ganó la vida como casi todos los escritores argentinos. Escribió para la revista del subte. Escribió para Caras. Dirigió Crítica, que es como Crónica. En todos lados hablaba como él.
+
+Borges hablaba como si su interlocutor estuviera muy interesado en la literatura, siempre. No era paternalista: no enunciaba como en un diario. Esto lo había inventado [[Macedonio Fernández]]: "como Ud. ha dicho..." seguido de una idea extraordinaria.
+
+Borges se queda ciego en 1953 y su capacidad de estilo queda destruida; no puede leer sus propios manuscritos. A Sartre le pasó lo mismo. Borges era estoico: nunca se quejó. Pero su estilo sufrió.
+
+Borges no recibió el premio Nobel porque su obra no es para el premio Nobel: son cuentos cortos, no grandes novelas.
+
+Borges y Kafka son los escritores del siglo XX: está lo borgiano y lo kafkiano, y uno sabe lo que eso significa.
+
+Ideología -> Discurso -> Relato. Pero volvemos a la noción de ideología. Qué hay que tener para poder escribir? Los escritores responden a esa pregunta en cada acto de escritura.
+
+[[Alphaville]]: [[Jean-Luc Godard]] y Borges.
+
+## https://www.youtube.com/watch?v=D9T0Qa85sEc
