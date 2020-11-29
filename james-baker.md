@@ -19,12 +19,13 @@
 ## Collaboration opportunities
 
 - Group building + stoas
-- Index of related projects and interested people
+- Shared index of potentially related projects and interested people
   - [[michael ocean]] [[ask]]
   - [[richdecibels]]
     - [[loomio]]
     - [[enspiral]]
   - [[democracy-earth]]
+  - [[social coop]] (I'm a member)
   - [[reasonable movement]]s
 ## [[2020-11-27]]
 
@@ -103,6 +104,7 @@
 [twitter]: twitter "Twitter"
 [go]: go "Go"
 [michael-ocean]: michael-ocean "Michael Ocean"
+[ask]: ask "Ask"
 [richdecibels]: richdecibels "Richdecibels"
 [loomio]: loomio "Loomio"
 [democracy-earth]: democracy-earth "Democracy Earth"
