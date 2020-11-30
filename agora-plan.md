@@ -35,6 +35,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora vscode]]
 
 ## Next
+- [ ] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
 - [ ] Provide a link (GET) for the search for '\[ \]', useful for [[do]].
 - [ ] Add better backlinks, showing some context.
 - [ ] Make the site header be marked as an actual header (div with a class, etc.); Google seems to think it's part of the site text (it's showing up in results).
@@ -122,6 +123,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
 [roam2agora]: roam2agora "Roam2agora"
 [agora-vscode]: agora-vscode "Agora Vscode"
+[deceased]: deceased "Deceased"
 [do]: do "Do"
 [dark-mode]: dark-mode "Dark Mode"
 [flancian]: flancian "Flancian"
