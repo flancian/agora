@@ -46,7 +46,8 @@ el Hotel Majestic <img src="https://2.bp.blogspot.com/-ISMqS26fTMo/Vb0OER3ojFI/A
       - es importante en estudiar la novela argentina ver como la novela se comunica con las tecnologías, no solo las conexiones con el mundo social sino con aquello que nos comunica con el mundo social
       - La novela trabaja con historias ya narradas, toma los relatos que circulan y las convierte en trama y las recompone
       - mecanismo parecido: relatos que circulan en un día en la ciudad de Buenos Aires nos permitirían saber mucho más sobre la ciudad de Buenos Aires que los diarios: no solo ciertos temas sino ciertos modos de narrar dentro de un lugar determinado
-      - el grabador: es posible contar con una serie de voces y relationship-crisis o transformación de la tradición clásica de la novela realista
+      - el grabador: es posible contar con una serie de voces y relatos e historias de vida.
+      - tb produce transformación de la tradición clásica de la novela realista
       - antes: investigación primero, después novela. el novelista realista tenía tb algo de periodista. ese campo de investigación hoy lo ocupa el periodismo de investigación
       - la novela entonces queda más libre, puede concentrare en recuperar historias personales, no resultado de voluntad testimonial
       - la oralidad popular: cómo se puede capturar a aquel que no usa el lenguaje como lo usaría el narrador
@@ -147,10 +148,97 @@ primero intentan una máquina de traducir. Le introducen texto de Poe "William W
   -   lo enlaza desde arriba y sostiene del cogote en el aire. el animal se retuerce y patea. cae al agua, lo vuelve a enlazar, lo deja caer de nuevo, etc.los demás festejan y ríen 
   -  cuando termina el juego lo sacan y degüellan. le dicen a Burgos: oy comemos asado de pez. Todos ríen y este siente la hermandad de los hombres
   --------
-  - Macedonio siempre está recopilando historias ajenas, desde su época de Fsical en Misiones.
+  - [[Macedonio]] siempre está recopilando historias ajenas, desde su época de Fsical en Misiones.
   - En esa época había perdido a su mujer, Elena Obieta y todo lo que hacía, incluso la máquina, pretendía tenerla presente
   - ella era La Eterna, el río del relato, la voz que mantiene vivo el recuerdo
   - construye un mundo para vivir con ella
-  - sistema sencillo, cuando transforma la historia de William Wilson en la de Stephen Stevensen 
-  - 
+  - sistema sencillo, cuando transforma la historia de William Wilson en la de Stephen Stevensen ya tiene los elementos para construir una ficción virtualentonces empieza a trabajar con series y variables
+  - trenes y lecturas de novelas. la novela se expandió en el s. XIX junto a ese medio de transporte y por eso muchos relatos suceden en viaje en trenden primer lugar en Cambaceres
+  - En el Museo Junior ve el vagón donde se mata erdosain 
+  - en otra sala una foto del coche donde viaja la mujer que huye a la madrugada (siguiente historia, una de las primeras)
+### Una mujer
+  - decide abandonar a su hijo, lo ata con una faja del techo y le escribe a la mujer que limpia diciéndole que se ha ido a hacer un trámite. 
+  - cuando su marido va al trabajo ella toma un taxi
+  - toma tren de larga distancia desde Retiro - San Luis
+  - se registra en hotel con nombre de su madre Lía Matra
+  - baja al casino (parece el infierno) , ganaba, le dan dinero, lo esconde en las plantas
+  - desarma su valija y se suicida
+
+------------------
+- en el Museo está la reproducción de la pieza donde se suicida la mujer
+- un detalle que no está en el relato aparece en el museo que es una foto del hijo en la mesa de luz
+- en serie de cuartos de hotel en salas sucesivas
+- en una sala lateral Junior ve la pieza del Majestic donde encontró a la mujer (Lucía Joyce)
+- parecía un sueño, pero los sueÑos son relatos falsos y estas son historias verdaderas
+- todo era como debía ser
+    - uniformes militares
+    - la daga de Moreira
+
+- con esos materiales se elaboraban las hitorias. 
+
+- en la pared del fondo estaba el espejo y en el espejo la primera historia de amor.
+
+### Primer amor
+- historia en primera persona
+- a los doce se enamora por primera visualizemuchacha de pelo colorado, Clara Schultz
+  - seria y apasionada
+  - nunca sonreía: conoce el futuro?
+- algunos recuerdos aún le duelen
+- otros miraban, ella se sonrojaba. 
+- sufrir la complicidad de los imbéciles
+- pelea con otros chicos que le tiraban abrojos en el pelo a su amada
+- vuelve a casa golpeado
+- se escriben cartas pero apenas saben escribir
+- ella rompe las reglas y entra en el patio de varones prohibido para las mujeres y le avisa que se la llevan
+- el padre era inspector municipal o gerente de un banco y lo trasladan a Sierra de la ventana
+  - sierra que tb era una cárcel
+- la madre le decía que si estaba enamorado de alguien tenía que poner un espejo en la almohada, si la veía reflejada en sueños se casaría con ella
+- a la noche descuelga espejo de padre y la imagina aparecerse en el borde del espejo
+- a la noche sueña que sueña con ella en el espejo, tal como era de chica
+- va hacia él como hija (Hija de Junior?)
+
+----------------------------------
+- Espejo tallado con cortaplumas
+- Junior se mira y ve la galería, guardia que lo sigue
+- pregunta por una caja de vidrio, guardia dice que es un pájaro que no está aún identificado por la ciencia, lo descubre un científico francés en s. XIX. Roger Fontaine (no existe)
+- pájaro de metal que se picotea las alwaysuna calavera de la misma zona: de vidrio
+- al lado hay objetos de hueso: dados, tabas o cuentas de rosario
+- jarrón japonés (visto en plaza Francia donde mejoran el original en la copia, que parece más antigua y pura)
+
+- galería con archivos policiales
+pieza de casa familiar, persianas clausuradas y velador prendido, en el centro una muñeca
+
+### La nena
+Esta historia: institucionalización, miedo
+- Matrimonio con dos primeros hijos de vida normal excepto pot la hermana 
+- Laura había nacido sana pero signos extraños
+  - padece alucinaciones
+  - paciente imagina que lo que sucede a su alrededor es una proyección de su personalidad
+  - se considera más inteligente que el resto
+  - el mundo es una extensión de si multidimensional
+ 
+ - empieza a tener dificultad con el lenguaje a partir de incidente con ventilador
+   - no puede usar bien pronombres personales, luego potras palabras
+   - cloqueo
+ - la familia manda a los hermanos de internos a colegios por temor a contagio
+ - la llevan a un Instituto en La Plata, doctor Arana, cura eléctrica
+  Los padres creen que:
+    - vacío emocional extremo, por eso el lenguaje se vuelve abstracto y despersonalizado
+   - lenguaje funcional a su experiencia en el mundo
+ - El doctor no concuerda pero el padre parte de esa idea para entrar en el mundo verbal de hija
+ - máquina lógica conectada a interface equivocada
+ - funciona según modelo de ventilador:
+   - esquema sintáctico: eje fijo de rotación
+   - al hablar mueve la cabeza y hace sentir el viento de sus pensamientos inarticulados
+   - enseñarle el lenguaje implica explicarle el modo de almacenar palabras, que se le perdían 
+   - su memoria es como brisa en sala vacía
+  - abandonan doctor y la llevan a profesor de canto   
+    -   incorporar secuencia temporal y la música es modelo abstracto del orden del mundo.
+  - empieza a ser capaz de seguir línea melódica
+   - el padre intenta incorporarle memoria temporarily   
+     - la nena no tiene sintaxis
+     - presente petrificado
+     - buscan alterarlo por la música que no puede darle miedo, no es una experiencia
+   - la madre muere y la nena asocia su desaparición con canción de Schubert
+
 
