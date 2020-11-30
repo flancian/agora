@@ -1,6 +1,6 @@
 # Data Science
 
-Go to the [[Main AI Page]], [[Econometrics Main Page]], or the [[Master Contents Page]].
+Go to [[The Golem Project Overview]], [[Main AI Page]], [[Econometrics Main Page]], or the [[Master Contents Page]].
 
 ![A picture of a data centre thanks to Taylor Vick for sharing their work on Unsplash](https://i.imgur.com/g8VML9j.png)
 

@@ -2,7 +2,7 @@
 
 Go back to [[Main Chatbot Page]], the [[Main AI Page]], or the [[Master of Philosophy - Main Page]]
 
-Also see the [[Feminist Chatbot Main Page]] or the [[Master Contents Page]]
+Also see the [[Feminist Chatbot Main Page]], the [[The Golem Project Overview]], or the [[Master Contents Page]]
 
 ## The Certificate
 

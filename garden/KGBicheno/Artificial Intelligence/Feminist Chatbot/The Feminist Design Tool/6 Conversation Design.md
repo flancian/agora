@@ -20,4 +20,4 @@ For the full list see [[The Feminist Design Tool]]
 
 This is part of the [[Feminist Chatbot Main Page]]
 
-You can also see the [[Master Contents Page]]
+You can also see [[The Golem Project Overview]] or the [[Master Contents Page]]

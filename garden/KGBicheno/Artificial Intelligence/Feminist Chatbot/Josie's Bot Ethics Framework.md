@@ -31,4 +31,4 @@ Watch the [video here](https://www.futurelearn.com/courses/designing-a-feminist-
 
 This page links from [[Feminist goals when creating bots]], part of the [[Feminist Chatbot Main Page]]. 
 
-For broader context, see the [[Master Contents Page]]
+For broader context, see the [[The Golem Project Overview]] or the [[Master Contents Page]]

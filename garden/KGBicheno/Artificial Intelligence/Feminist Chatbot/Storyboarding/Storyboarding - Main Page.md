@@ -13,3 +13,9 @@ Storyboarding a chatbot's conversation keeps your chatbot on point and relatable
 5. [[Storyboard - Considerations]]
 
 ![[Floria-Storyboard.png]]
+
+## Resources
+
+- [[Floria-Storyboard.png]]
+- [[Floria-Storyboard.svg]]
+- [[Coat_of_Arms_of_Australia.svg]]

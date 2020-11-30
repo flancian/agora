@@ -1,6 +1,6 @@
 # Module 3 - Advanced Watson Services
 
-Go to the [[Main AI Page]]. Also see the [[Master of Philosophy - Main Page]].
+Go to the [[Main AI Page]] or [[The Golem Project Overview]]. Also see the [[Master of Philosophy - Main Page]].
 
 - [[Watson at LivePerson Contact Centres]]
 - [[Watson Compare and Comply]]
@@ -20,6 +20,7 @@ Go to the [[Main AI Page]]. Also see the [[Master of Philosophy - Main Page]].
 - [[Module 4 - Watson Use Cases and Resources List]]
 - [[Master of Philosophy - Main Page]]
 - [[Feminist Chatbot Main Page]]
+- [[The Golem Project Overview]]
 - [[Introducing AI]]
 - [[Introduction to Chatbots]]
 - [[Ideas for Newsrooms (LIST)]]
