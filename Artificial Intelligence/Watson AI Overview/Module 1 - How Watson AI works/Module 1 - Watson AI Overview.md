@@ -1,6 +1,6 @@
 # Module 1 - Watson AI Overview
 
-Go to the [[Main AI Page]]
+Go to the [[Main AI Page]] or [[The Golem Project Overview]]
 
 - [[The business importance of recording interactions]]
 - [[Transfer Learning - IBM]]
@@ -50,6 +50,7 @@ Go to the [[Main AI Page]]
 - [[Module 4 - Watson Use Cases and Resources List]]
 - [[Master of Philosophy - Main Page]]
 - [[Feminist Chatbot Main Page]]
+- [[The Golem Project Overview]]
 - [[Introducing AI]]
 - [[Introduction to Chatbots]]
 - [[Ideas for Newsrooms (LIST)]]

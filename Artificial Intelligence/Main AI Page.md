@@ -256,6 +256,20 @@ Go back to [[Master Contents Page]]
 	- [[Python Week 5 Main Page]]
 	- [[Week5 US Economic Dashboard in Python Lab]]
 
+## Deploying IBM AI Services
+
+- [[AI Service Deployment Main Page]]
+	- [[Creating a Discovery Collection]]
+	- [[Data vs Insight]]
+	- [[Advanced Watson Discovery]]
+	- [[Creating a Watson Chatbot with Discovery]]
+	- [[Integrating Discovery and Assistant]]
+	- [[Adding Watson Speech Services]]
+	- [[Voice Options for your Chatbot]]
+	- [[Deployment Options for Watson Speech Assistant]]
+	- [[Deploying your Watson Assistant to Facebook Messenger]]
+	- [[Deploying your Watson Assistant to Slack]]
+
 ## Resources
 
 - [[Exxact_Quote_100274-1.pdf]]
@@ -275,7 +289,15 @@ Go back to [[Master Contents Page]]
 - [[Master_Slots.pdf]]
 - [[Enable_Digressions.pdf]]
 - [[Get_to_know_the_Analytics_tab.pdf]]
+- [[Pasted image 20201103162748.png]]
+- [[IBM_Python_for_Data_Science_Professional.pdf]]
 
-See also the [[Master of Philosophy - Main Page|Master of Philosophy]].
+See also the [[The Golem Project Overview]] for the ultimate implementation of this and the [[Master of Philosophy - Main Page|Master of Philosophy]].
+
+For a professionally designed workstation built for machine learning, check out the [[Professional Machine Learning Workstation - Exxact Quote]]
+
+For a discontinued project that may still be of educational value, see the [[Main Library - Chatterbot]] and [[Why I didn't use Chatterbot]].
+
+Currently my most popular bot is Floria from The AFIRM project, which you can read about at the [[AFIRM Overall Project Page]]
 
 Most, it not all code is written in Python, and will link through the [[Python - Main Page]]
