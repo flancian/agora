@@ -1,5 +1,7 @@
 # Borges, por Piglia
 
+Por [[Ricardo Piglia]].
+
 ## https://www.youtube.com/watch?v=im_kMvZQlv8
 
 En la televisión pública lo lógico sería hablar de Jauretche, pero vamos a hablar de Borges.
@@ -59,3 +61,13 @@ Ideología -> Discurso -> Relato. Pero volvemos a la noción de ideología. Qué
 [[Alphaville]]: [[Jean-Luc Godard]] y Borges.
 
 ## https://www.youtube.com/watch?v=D9T0Qa85sEc
+
+La figura del artista que construye una imagen como elemento de su obra.
+
+[[Paola Cortés Rocca]]: la imagen de alguien que es puro cerebro, pura escritura. Esa es la imagen que [[Borges]] construyó.
+
+[[María Pía López]]: es la paradoja con la que juega Borges; un intelectual que es un ícono de masas.
+
+El fotógrafo que le sacó una foto de fondo blanco a Borges en los 70s (buscar nombre?) dijo que quería sacarle fotos a tres personas: Borges, Beckett y Bacon.
+
+Borges está entre [[Lugones]] (lo épico) y [[Macedonio Fernández]] (la conspiración, la complicidad, la ilegalidad).
