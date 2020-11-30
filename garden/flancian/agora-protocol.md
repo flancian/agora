@@ -1,5 +1,5 @@
 # Agora Protocol
-- [[go]] https://flancia.org/agora-protocol
+- [[go]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
 - The [[Agora]] you're likely reading this on is just one possible implementation of this protocol. It has two parts:
   - A [[distributed knowledge graph]].
   - An [[Agora Server]].
