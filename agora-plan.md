@@ -23,6 +23,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
  - [x] [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
  - [x] [[luciana]]: https://github.com/malfattti/garden
  - [x] [[arghzero]]
+ - [ ] [[dr_kvj]]: https://github.com/drkvj/agora
  - [ ] [[enkiv2]]: http://lord-enki.net/medium-backup/
  - [ ] likely [[solomon naim]]
  - [ ] what about all of the ones licensed appropriately listed in [[kasper zutterman]]'s [[second brain]] list? https://github.com/KasperZutterman/Second-Brain
