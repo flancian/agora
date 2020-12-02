@@ -2,7 +2,9 @@
 
 Por [[Ricardo Piglia]].
 
-## https://www.youtube.com/watch?v=im_kMvZQlv8
+## Clase 1
+
+### https://www.youtube.com/watch?v=im_kMvZQlv8
 
 En la televisión pública lo lógico sería hablar de Jauretche, pero vamos a hablar de Borges.
 
@@ -42,7 +44,7 @@ Philip Dick: "El hombre en el castillo". Había leído Tlön. Dentro de la novel
 
 Borges llevó eso a la perfección. La perfección es Tlön.
 
-## https://www.youtube.com/watch?v=m3htEzn1BIc
+### https://www.youtube.com/watch?v=m3htEzn1BIc
 
 No tiene sentido usar la influencia de Borges para fundamentar que es un buen escritor. Pero es influyente igual: [[Palm Fire]] no podría haber sido escrito sin Borges. [[La vida breve]] tampoco, claro.
 
@@ -60,7 +62,7 @@ Ideología -> Discurso -> Relato. Pero volvemos a la noción de ideología. Qué
 
 [[Alphaville]]: [[Jean-Luc Godard]] y Borges.
 
-## https://www.youtube.com/watch?v=D9T0Qa85sEc
+### https://www.youtube.com/watch?v=D9T0Qa85sEc
 
 La figura del artista que construye una imagen como elemento de su obra.
 
@@ -71,3 +73,80 @@ La figura del artista que construye una imagen como elemento de su obra.
 El fotógrafo que le sacó una foto de fondo blanco a Borges en los 70s (buscar nombre?) dijo que quería sacarle fotos a tres personas: Borges, Beckett y Bacon.
 
 Borges está entre [[Lugones]] (lo épico) y [[Macedonio Fernández]] (la conspiración, la complicidad, la ilegalidad).
+
+## Clase 2
+
+### https://www.youtube.com/watch?v=kZX_gQLMxEM&t=5s
+
+Cómo un escritor construye la historia de cómo empieza a escribir.
+
+[[La novela familiar]] de [[Sigmund Freud]]: un gran texto de Freud, muy literario. Borges construye una especie de novela familiar. Por un lado "fueron soldados y estancieros". Por el otro la biblioteca paterna; los eruditos, lectores de la biblia.
+
+[[Jorge Luis Borges]] no era humilde: se ve como síntesis entre Sarmiento y Hernández. Entre el arrabal y la biblioteca.
+
+[[Manuel Puig]] veía películas en el cine del pueblo con su madre; no sé si todos sus días, pero ese es su mito. Quería retomar ese sentimiento en su obra.
+
+[[Roberto Arlt]]: El juguete rabioso empieza con el robo a una biblioteca de una escuela.
+
+La [[memoria]] y la [[biblitoeca]] son dos grandes máquinas de construir ficciones para Borges.
+
+Borges cuenta dos veces, de forma distinta, cómo empezó a escribir ficción. 1933-1953 son los grandes años de Borges. Antes de eso, 1923-1933, son sus inicios.
+
+1933 publica "Hombres Pelearon" (Hombre de la esquina rosada) con el pseudónimo de Bustos. "Acercamiento a Al-Mutasim". [[Bioy Casares]] mandó a pedir la novela policial a Inglaterra.
+
+(En la facultad de filosofía y letras indexaron a Pierre Menard como un autor existente."
+
+Borges: "Es un error suponer que todas las palabras del diccionario pueden usarse."
+
+[[Jacques Derrida]] habla de esto: por qué el habla es más confiable que el signo. Borges dice que la palabra le llega por la sangre; por su historia familiar. Hay una fascinación en la literatura con el habla popular; lo que hizo Celine en Francia.
+
+Por qué tenemos que seguir traduciendo los clásicos? Porque las traducciones fijan la lengua literaria del momento.
+
+"El personaje se construye en base a la forma en que habla". La clase media, como dicen los lingüistas, tiende a la hiper-corrección.
+
+Borges sabe perfectamente lo que está haciendo con "hombre de la esquina rosada": está continuando la gauchezca. El compadrito es el hijo del gaucho. Están en el borde de la ciudad; como en la época del Matadero.  El sur (Barracas) y Palermo eran el conurbano. 
+
+Piglia: "Borges es un gran cuentista: no dice las cosas, las insinúa."
+
+### https://www.youtube.com/watch?v=OSv8XimyiQw
+
+El mundo marginal: los guapos de Borges no tenían droga, pero tomaban mucha ginebra. Eran hombres de Mitre o de Alsina. Los cuentos de Borges de compadritos son todos en 1890; antes de los inmigrantes, que después iban a tomar el rol de "peligrosos".
+
+vir / virtud. El coraje hace el nombre. En Sur, el bibliotecario elige morir a puñales cuando lo nombran. En un poema sobre Isidoro Acevedo (su abuelo), éste muere halucinando que muere en una batalla.
+
+Piglia recomienda el poema "Insomnio". Remite a Funes; el sueño remite al olvido.
+
+Piglia: Daneri "es un escritor realista. No le pone orden al mundo."
+
+[[Lacan]] dice que lo ético es aceptar y seguir el propio deseo.
+
+### https://www.youtube.com/watch?v=iFF2KBhyuUY
+
+Charla con [[Germán Maggiori]] y [[Marcos Herrera]].
+
+### https://www.youtube.com/watch?v=M5MMoNeUwy0
+
+Preguntas.
+
+Piglia: [[Mikhail Bakhtin]] dice que la literatura muestra la ideología en [[status ascendi]]. Tiende a mostrar lo que viene. Lo trabaja con Dostoievsky.
+
+Piglia: Borges traduce y reescribe. En Las Palmeras Salvajes usa frases de Las Ruinas Circulares. Cuanto traduce La Carta Robada corta la mitad del cuento.
+
+## Clase 3
+
+### https://www.youtube.com/watch?v=SA2o7QEx7Lk
+
+Hay dos tipos de lectores: como Borges y como Kafka. Kafka decía que le costaba escribir; su sueño era vivir en un sótano con un pasillo largodonde le dejaban comida. Pensaba que de esa forma podría leer y, quizás, escribir. Kafka tenía problemas para escribir; lo mismo Borges, que no fue prolífico.
+
+Kafka es el lector de un solo libro: un lector intensivo. Viene de una tradición hermenéutica judía. Es un extraordinario lector de Dickens.
+
+Borges es un lector de biblioteca. El libro siempre remite a la sensación de que hay otro libro que no se leyó. La web es como la biblioteca de Borges: ni siquiera tiene borde.
+
+Benjamin hablaba del "arte de citar sin comillas". Borges tiene mucho de eso; muchas de sus frases más célebres son de otros, pero las hizo suyas.
+
+Piglia fue a ver a Borges para que lo ayudara a escribir una antología de Conrad, empezaron hablando de El Duelo y se fue la tarde en una secuencia de duelos que Borges le contó. Era como un generador de secuencias y relaciones.
+
+Deutsche Requiem. Borges tenía un talento: veía las identidades, las cosas en común de todas las cosas. Pero eso lo lleva a no ver las diferencias. Lo que funciona en Los Teólogos se rompe en Deutsche Requiem; el filósofo nazi y el judío no son lo mismo.
+
+### https://www.youtube.com/watch?v=_BxOE3bO6SM
+
