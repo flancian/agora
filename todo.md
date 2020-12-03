@@ -1,5 +1,11 @@
+---
+modified: 2020-12-03T13:29:00+01:00
+---
+
 # Todo
+
 - See also: [[do]], which as of [[2020-11-29]] I prefer to [[todo]].
+- [[write]] to [[hans widmer]]
 - [x] Meta: fix go links that pointed to Roam. 
 - [x] Figure out [[Foam]] rendering to [[github pages]]
   - Made obsolete by the Agora.
