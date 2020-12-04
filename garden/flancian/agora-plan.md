@@ -40,6 +40,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora vscode]]
 
 ## Next
+- Improve the [[index]].
 - [ ] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
 - [ ] https://twitter.com/s5bug/status/1334686375275163652?s=09
 - [ ] Provide a link (GET) for the search for '\[ \]', useful for [[do]].
