@@ -1,2 +1,0 @@
-# Piero Della Francesca
-

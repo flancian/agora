@@ -1,0 +1,14 @@
+#!/bin/bash -e
+# (this should be run from the root of the repo: util/add)
+# Before adding, you need to run add once (same command line but with add).
+set -e
+cd $HOME/agora
+rm -rf garden
+mkdir -p garden
+git subtree add --prefix garden/flancian https://github.com/flancian/garden.git master --squash -m "add garden/flancian"
+git subtree add --prefix garden/s5bug https://gitdab.com/s/garden.git master --squash -m "add garden/s5bug"
+git subtree add --prefix garden/jonathan https://github.com/JonathanLorand/AgoraGarden master --squash -m "add garden/jonathan"                                                                                                               
+git subtree add --prefix garden/luciana https://github.com/malfattti/garden.git master --squash -m "add garden/luciana"
+git subtree add --prefix garden/ArghZero https://github.com/arghzero/agora-garden.git master --squash -m "add garden/ArghZero"
+git subtree add --prefix garden/olofl https://github.com/oloflindholm/garden master --squash -m "add garden/olofl"
+git subtree add --prefix garden/KGBicheno https://github.com/KGBicheno/KGB_Agora main --squash -m "add garden/KGBicheno"

@@ -1,2 +1,0 @@
-# The Effective Altruism Handbook
-
