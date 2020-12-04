@@ -3,13 +3,13 @@
 - [[go]] https://flancia.org
 - My amateur [[utopia]]. You could very well think of it as a place in my mind. 
 - See also: [[Flancia narrative]].
-  - Flancia is a digital [[bolo]].
   - Flancia could be a [[polis]].
+  - Flancia could be a digital [[bolo]].
   - In [[Flancia]] there is no [[poverty]].
   - In [[Flancia]] there is no [[privilege]].
-  - In [[Flancia]] there we will one day [[meet]]
+  - In [[Flancia]] we will one day [[meet]]
   - Have I ever told you in Flancia there is an [[Agora]]?
-- Flancia is a world in which everybody that is able to help others, does so, some of their time.
+- Flancia is a world in which everybody tries to act rationally, honestly, charitably, compassively.
   - You can help others by volunteering [[time]] and [[resources]] as you can. By being [[solidary]].
   - You can help others by trying to [[change the world]].
 
@@ -18,6 +18,7 @@
 [utopia]: utopia "Utopia"
 [flancia-narrative]: flancia-(narrative) "Flancia Narrative"
 [polis]: polis "Polis"
+[bolo]: bolo "Bolo"
 [flancia]: flancia "Flancia"
 [poverty]: poverty "Poverty"
 [privilege]: privilege "Privilege"
