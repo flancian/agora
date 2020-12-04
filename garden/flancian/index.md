@@ -1,5 +1,3 @@
-# Index
-
 - This is a user contributed [[subnode]].
 - For now each user can just contribute a subnode named 'index' and it will show in the Agora's index page. Later on ranking might need to be implemented -- or at least paging :)
 - I am a [[Flancian]], who are you?
