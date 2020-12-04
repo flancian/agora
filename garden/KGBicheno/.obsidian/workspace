@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "41eb588af2936769",
+    "type": "split",
+    "children": [
+      {
+        "id": "56ceff44e7b6141a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a9d5eb5fbb300b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce6553b35cd8339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "661102b453d25843",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59b7f8e6a1487c93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "carrington"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f145518295cd90a",
+    "type": "split",
+    "children": [
+      {
+        "id": "adeaab8bd04c9574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cd0fde6c3ffe653",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb9d0046a8b3a689",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Programming/Python/Week2/Python Lists and Tuples.md",
+    "Programming/Python/Week2/Python Dictionaries.md",
+    "Programming/Python/Week4/Week4 Pandas Data Lab.md",
+    "Programming/Python/Week3/Week3 Classes and Objects Lab.md",
+    "Artificial Intelligence/Watson AI Overview/Module 3 - Advanced Watson AI Services/Watson Studio.md",
+    "Artificial Intelligence/Watson AI Overview/Module 4 - Use cases and case studies/Watson IBM Use Cases Certification.md",
+    "Programming/Python/Week3/Python Classes.md",
+    "Artificial Intelligence/Watson AI Overview/Module 3 - Advanced Watson AI Services/Open Source Replacements - TODO.md",
+    "Artificial Intelligence/Watson AI Overview/Module 3 - Advanced Watson AI Services/Module 3 - Advanced Watson Services.md",
+    "Artificial Intelligence/Feminist Chatbot/Feminist Internet.md"
+  ]
+}
