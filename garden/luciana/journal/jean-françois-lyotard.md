@@ -89,6 +89,12 @@ A report on the state of knowledge in post- modernity.
       - legitimation becomes impossible
       - this is the core of Lyotard's analysis
       - is the impossibility of legitimation a symptom of a radical relativity?
+        - ramifications for Lyotard's own project?
+        - prescriptive discourse is at the core of his own position bc he implies that justice would enable that language moves can me made, that no one is excluded.
+        - justice itself is a master narrative bc it says "this must be done"
+        - isn't Lyotard a victim of natural phallacy?
+        - justice cannot be turned into a game itself, it ought to have dominance over all the others 
+        - justice thus constitutes something like a trascendental signifier, master narrative that Lyotard says has lost legitimacy
       - 
 - 
     - the narrative function is being dispersed in clouds of narrative language elements, we like at the intersection of many of these
@@ -108,9 +114,89 @@ A report on the state of knowledge in post- modernity.
    - the rules are set, we cannot invent a new game but we can move the figures on the board in surprising or interesting manners
    -   
   - The future: pragmatics of language particles
-     
+ 
 
-## Poststructuralism II: Lyotard, postmodernity and deconstruction
+## What is postmodernism?
+- problem of deligitimization
+- other qualities?
+  - modernity tries to establish a new discourse but it is impossible. another master narrative, and for post-modernism it has already by default lost legitimization
+  - first instances of postmodernism: architecture: use of bricolage, quotation of previous styles
+    - Robert Venturi explains the difference between modernist and postmodernist architecture:
+      - MODERNISM: the signifier embodies what it is designed to do: form follows function
+      - postmodernism: DECORATED SHED: it does not express function through its form, it just has a decoration unrelated to its function. a signifier (form) and signified (function) are disjuncted, this becomes visible.
+      -  postmodern intentionally plays with the signifier and older styles are also playfully integrated plays with lots of different signifiers, quotations of the past without re-signification
+   - However Lyotard states that it is not possible to break from the past, we have to work through it and not repress it
+   - breaking with the past is dangerous bc we are not learning from it
+   - the universal claim that we should emancipate from ghosts of the past has led to division between the challenge of complexity (master narratives questionable) and others the challenge of survival > failure of the modern project. 
+   - modernism is a new form of negating transcendental homeless that Lukacs had diagnosed
+   - post-modernism is more reflective variety of modernism and focuses on the assumptions of modernism
+## Modern Art
+
+- the modernist avant-garde is itself a state of reflection on assumptions of modernism
+- modern and post-modern art: sublime is very important.
+- sublime (Kant): imagination reaches limits ( thoughts too overpowering for us) but reason steps in and helps imagination and assumes its dominance: I can think about this even though you cannot imagine it.
+- for Lyotard: imagination an reasons are two language games, which clash. The unrepresentability of incommensurability is for Lyotard the sublime
+- none can claim dominance
+- postmodern art must represent the unrepresentable, the incommensurability
+  
+  ## Stephen Crane's "The Open Boat"
+  - This is not a postmodern, but a natural story but is not necessary to analyze a postmodern text to apply Lyotard's concepts.
+  - Lyotard says that there are "threshold texts" which break from what was before and that they show the postmodern break without being themselves postmodern.
+  - what does it mean to deconstruct a text? to read a text against the grain and show how it goes against the thing it tries to represent.
+  - this story is naturalist but at the same time shows that naturalism itself is highly problematic or even impossible (naturalism is a master narrative).
+  - Naturalism:
+    - assumption that humans are at teh mercy of uncontrollable external forces (nature or society)=bleak stories
+    - leeways? agency?
+    - these powers are part of the sublime: so overpowering that they are hard to represent
+    - heroes and antiheroes: playthings of external circumstances
+    - empathy= the purpose of writing cannot be that we are at the mercy of these forces (too bleak), but to explore our empathy for these characters
+    - the sublime is unrepresentable. Naturalism aims at authentic representation of facts to break with romanticism but just as Romanticism still maintains the desire to arise empathy
+    - Crane puts into question the possibility to get to the real thing. so naturalist writers are aware of this difficulty.
+  
+  - The story
+    - inauguration of Naturalism.
+    - men at the dinghy are at the mercy of nature.
+    - Romanticism: nature and immersion in nature is something positive. This is not present here.
+    -  but the style of the story does not do justice to what the men are experiencing 
+    -  Crane experienced the ship-wreck himself, so he would be a good candidate to convey the experience "authentically"
+    -  the subtitle gives us pause: "a tale intended to be after the fact"
+       -  after the fact=according to the fact
+       -  but also: temporal delay
+       -  why not only "according to", or "as it happened
+    - he does not choose a 1st person narrator (and make it more authentic and dramatic)
+    - the tone is subdued, no melodrama that such story would offer (compare to Titanic).
+    - why would he not use more melodramatic resources?
+    - Phrases which point out a view from an outsider, but wouldn't he be the one to know?
+      - he is still not able to convey the real thing "they must have glinted".
+      - "viewed from a balcony" at a safe distance: he is recalling and we are reading from a safe place. the men are not living the experience like that. we by default are in the position to be watching things from a safe distance.
+  - the representation of the sublime supposes a distance. Only from a safe distance can we enjoy the shudder, because we are not directly exposed to the threat.
+  - this would be the case, as Crane is not and we are not at the mercy of the sea
+  - this goes against the aim of naturalism which is to get to the real thing
+  - stages of distance:
+    - the average reader has probably not had this experience
+    - how is it possible to convey the experience of the sublime who has not really experienced it? Crane refletcs upon this
+    - the picturesque: covers both the sublime and the beautiful. The reader experience sthis and Crane evokes it when writing about this experience
+    - but Crane is not an average reader. The representational crisis arises because he knows what he is talking about but is also aware that his experience must be unrepresentable
+    - Crane has experienced it first hand but is now watching from afar and trying to represent it (however, the sublime is unrepresentable). 
+    - uses "probable". He was not able to contemplate glory of nature while being exposed to power.
+  - Empathy:
+    - the reader learns one name: Billy the oiler. The strongest and the one who dies 
+    - why not provide all names?
+    - Crane assumes an omniscient narrator when saying that there was not a life saving station closeby. He breaks with the restricted third person's pov in order to do this 
+    - mise en abyme:
+      - poem quote: death of a soldier in Algiers
+      - addresses the problem of the reader of a text
+        - the character becomes a reader as he has a life-threatening experience
+        - the death of the soldier now becomes relevant to him, before he was not able to understand
+      - possibilities of art
+        - the story is about the impossibility to comprehend and represent the experience he is trying to represent
+        - self-effacing story about the impossibility to write a naturalistic story
+        - in the end: they could be interpreters. we, as readers, could never be 
+        - empathy is impossible. this is why Crane abstains from melodramatic options. he is convinced that melodrama, no matter how much of it, won't make us empathize
+        - self-reflexivity of what it is that naturalism can/cannot do (even as it is emerging): this self-reflexivity makes it close to a postmodern text
+        - Lyotard states that pre-postmodern texts can also be post-modern: this reflection on the possibility of representing the irrepresentable prove it.
+  
+
 
 
 
