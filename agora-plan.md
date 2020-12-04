@@ -1,3 +1,7 @@
+---
+modified: 2020-12-04T09:49:11+01:00
+---
+
 # Agora Plan
 
 I'll use this as a sort of inline project page for the [[agora]] implementation you're likely reading this in now: [[anagora]].org.
@@ -37,6 +41,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 
 ## Next
 - [ ] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
+- [ ] https://twitter.com/s5bug/status/1334686375275163652?s=09
 - [ ] Provide a link (GET) for the search for '\[ \]', useful for [[do]].
 - [ ] Add better backlinks, showing some context.
 - [ ] Make the site header be marked as an actual header (div with a class, etc.); Google seems to think it's part of the site text (it's showing up in results).
