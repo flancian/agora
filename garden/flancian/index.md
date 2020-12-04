@@ -1,3 +1,0 @@
-- This is a user contributed [[subnode]].
-- For now each user can just contribute a file named ```index.md``` and it will show in the Agora's index page. Later on ranking/filtering algorithmms might need to be implemented. These will be ***open*** and ***community maintained***.
-- I am a [[Flancian]], who are you?

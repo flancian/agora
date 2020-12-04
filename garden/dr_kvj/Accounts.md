@@ -1,3 +1,0 @@
-- They are financial records of a business 
-- All the business transactions are recorded in accounts and are then aggregated into financial statements 
-- Accounts are examined by auditors to see if they represent the financial condition and results of the business , fairly 

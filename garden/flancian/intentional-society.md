@@ -1,2 +1,0 @@
-# Intentional Society
-

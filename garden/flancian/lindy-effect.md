@@ -1,2 +1,0 @@
-# Lindy Effect
-

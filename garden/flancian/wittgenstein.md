@@ -1,2 +1,0 @@
-# Wittgenstein
-

@@ -1,9 +1,0 @@
-# IMF
-
-Go back to the [[Economic_Glossary]]
-
-
-Short for International Monetary Fund, referee and, when the need arises, rescuer of the world's FINANCIAL SYSTEM. The IMF was set up in 1944 at BRETTON WOODS, along with the WORLD BANK, to supervise the newly established fixed EXCHANGE RATE system. After this fell apart in 1971-73, the IMF became more involved with its member countries' economic policies, doling out advice on FISCAL POLICY and MONETARY POLICY as well as microeconomic changes such as PRIVATISATION, of which it became a forceful advocate. In the 1980s, it played a leading part in sorting out the problems of DEVELOPING COUNTRIES' mounting DEBT. More recently, it has several times co-ordinated and helped to finance assistance to countries with a currency crisis.
-
-The Fund has been criticised for the CONDITIONALITY of its support, which is usually given only if the recipient country promises to implement IMF-approved economic reforms. Unfortunately, the IMF has often approved 'one size fits all' policies that, not much later, turned out to be inappropriate. It has also been accused of creating MORAL HAZARD, in effect encouraging governments (and FIRMS, BANKS and other investors) to behave recklessly by giving them reason to expect that if things go badly the IMF will organise a bail-out. Indeed, some financiers have described an INVESTMENT in a financially shaky country as a 'moral-hazard play' because they were so confident that the IMF would ensure the safety of their MONEY, one way or another. Following the economic crisis in Asia during the late 1990s, and again after the crisis in Argentina early in this decade, some policymakers argued (to no avail) for the IMF to be abolished, as the absence of its safety net would encourage more prudent behaviour all round. More sympathetic folk argued that the IMF should evolve into a global LENDER OF LAST RESORT.
-
