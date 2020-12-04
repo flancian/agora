@@ -4,11 +4,11 @@ Welcome to this [[Agora]].
 
  This site is very much under construction (v0.5.3), but feel free to look around!
 
-  - <a href="/nodes">nodes</a> lists all non-journal nodes in this Agora; a node is the set of all subnodes with a given title, or otherwise about the same entity. Subnodes can come from a variety of sources; currently these are mostly notes as volunteered by users.
-  - <a href="/journals">journals</a> displays all journal entries (these are just nodes matching YYYY-MM-DD).
-  - <a href="/users">users</a> displays all users in this Agora. Click through to see their subnodes.
-  - <a href="/latest">latest</a> shows which subnodes were added or modified recently.
-  - <a href="/search">search</a> offers full text search over all subnodes (supports regexes).
+- [nodes](/nodes) lists all non-journal nodes in this Agora; a node is the set of all subnodes with a given title, or otherwise about the same entity. Subnodes can come from a variety of sources; currently these are mostly notes as volunteered by users.
+- [journals](/journals) displays all journal entries (these are just nodes matching YYYY-MM-DD).
+- [users](/users) displays all users in this Agora. Click through to see their subnodes.
+- [latest](/latest) shows which subnodes were added or modified recently.
+- [search](/search) offers full text search over all subnodes (supports regexes).
 
 - The [[wikilink]] is the heart of the Agora Protocol. In an Agora:
   - /node/foo will render every subnode that resolves to wikilink [[foo]].
