@@ -1,2 +1,0 @@
-# Ted Nelson
-

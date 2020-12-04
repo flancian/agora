@@ -1,2 +1,0 @@
-# Berkeley Anarchist Group
-

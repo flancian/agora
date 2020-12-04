@@ -1,2 +1,0 @@
-# PredictionBook
-- https://predictionbook.com/
