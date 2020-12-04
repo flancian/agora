@@ -1,2 +1,0 @@
-# Socrates Figures
-

@@ -1,2 +1,0 @@
-# Anarchy in Action
-

@@ -1,7 +1,0 @@
-# Adverse selection
-
-Go back to the [[Economic_Glossary]]
-
-
-When you do business with people you would be better off avoiding. This is one of two main sorts of market failure often associated with insurance. The other is moral hazard. Adverse selection can be a problem when there is asymmetric information between the seller of insurance and the buyer; in particular, insurance will often not be profitable when buyers have better information about their risk of claiming than does the seller. Ideally, insurance premiums should be set according to the risk of a randomly selected person in the insured slice of the population (55-year-old male smokers, say). In practice, this means the average risk of that group. When there is adverse selection, people who know they have a higher risk of claiming than the average of the group will buy the insurance, whereas those who have a below-average risk may decide it is too expensive to be worth buying. In this case, premiums set according to the average risk will not be sufficient to cover the claims that eventually arise, because among the people who have bought the policy more will have above-average risk than below-average risk. Putting up the premium will not solve this problem, for as the premium rises the insurance policy will become unattractive to more of the people who know they have a lower risk of claiming. One way to reduce adverse selection is to make the purchase of insurance compulsory, so that those for whom insurance priced for average risk is unattractive are not able to opt out.
-

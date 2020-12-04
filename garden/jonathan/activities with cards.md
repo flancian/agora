@@ -1,7 +1,0 @@
-- **List of examples**
-    - [[tarot]]
-    - [intùiti](https://intuiti.it/index.php)  - a deck of cards for helping with the creative process, inspired by tarot and gestalt psychology...
-    	- there is a pdf with background material [[creativity]] [[archetypes]] (couldn't manage yet to get the upload function to given me a nice embed) 
-        - some [articles](https://medium.com/int%C3%B9iti-stories)  (i didn't read) on medium, written by the creator
-- **Ideas**
-    - one could make a deck with critical thinking tools ? 
