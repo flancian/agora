@@ -1,4 +1,4 @@
-# Borges, por Piglia
+# [[Borges]], por Piglia
 
 Por [[Ricardo Piglia]].
 
