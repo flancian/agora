@@ -1,7 +1,6 @@
 Ahoy, matey!
 
-Welcome to an [[Agora]].
-
+Welcome to this [[Agora]].
 
  This site is very much under construction, but feel free to look around! 
  
