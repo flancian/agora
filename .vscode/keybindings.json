@@ -1,0 +1,5 @@
+{
+  "key": "ctrl+alt+s",
+  "command": "extension.multiCommand.execute",
+  "args": { "command": "multiCommand.syncAllFiles" },
+}

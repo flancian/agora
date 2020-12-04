@@ -1,0 +1,41 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  "workbench.colorTheme": "Monokai",
+  "[markdown]": {
+    "editor.quickSuggestions": true
+  },
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules": true
+  },
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "multiCommand.commands": [
+    {
+        "command": "multiCommand.syncAllFiles",
+        "sequence": [
+            "workbench.action.files.saveAll",
+            {
+                "command": "workbench.action.terminal.sendSequence",
+                "args": {
+                    "text": "git add . && git commit -a -m 'automatic update on save.' && git push\u000D"
+                }
+            }
+        ]
+    }
+    ],
+    "spellright.language": [],
+    "spellright.documentTypes": [
+      "latex",
+      "plaintext"
+    ],
+    "vim.handleKeys": {
+      "[": false,
+    }
+}
