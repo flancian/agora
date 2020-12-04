@@ -3,8 +3,8 @@
 - [[go]] https://flancia.org
 - My amateur [[utopia]]. You could very well think of it as a place in my mind. 
 - See also: [[Flancia narrative]].
-  - Flancia is a [[polis]].
   - Flancia is a digital [[bolo]].
+  - Flancia could be a [[polis]].
   - In [[Flancia]] there is no [[poverty]].
   - In [[Flancia]] there is no [[privilege]].
   - In [[Flancia]] there we will one day [[meet]]
