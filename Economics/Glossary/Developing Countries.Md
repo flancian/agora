@@ -1,0 +1,15 @@
+# Developing countries
+
+Go back to the [[Economic_Glossary]]
+
+
+A euphemism for the world's poor countries, also known, often optimistically, as emerging economies. Some four-fifths of the world's 6 billion people already live in developing countries, many of them in abject POVERTY. Developing countries account for less than one-fifth of total world GDP.
+
+Economists disagree about how likely--and how fast--developing countries are to become developed. NEO-CLASSICAL ECONOMICS predicts that poor countries will grow faster than richer ones. The reason is DIMINISHING RETURNS on CAPITAL. Since poor countries start with less capital, they should reap higher RETURNS than a richer country with more capital from each slice of new INVESTMENT. But this CATCH-UP EFFECT (or convergence) is not supported by the data. For one thing, there is, in fact, no such thing as a typical developing country. The official developing world includes the (sometimes) fast-growing Asian tigers and the poorest nations in Africa. Studies of the relationship between GROWTH and GDP per head in rich and poor countries found no evidence that poorer countries grew faster. Indeed, if anything, poorer countries have grown more slowly.
+
+DEVELOPMENT ECONOMICS has argued that this is because poor countries have unique problems that require different policy solutions from those offered by conventional developed-world economics. But new ENDOGENOUS growth theory instead argues that there is conditional convergence. Hold constant such factors as a country's fertility rate, its HUMAN CAPITAL and its GOVERNMENT policies (proxied by the share of current government spending in GDP), and poorer countries generally grow faster than richer ones. Since, in reality, other factors are not constant (not all countries have the same level of human capital or the same government policies), absolute convergence does not happen.
+
+Government policies seem to be crucial. Countries with broadly free-market policies - in particular, FREE TRADE and the maintenance of secure PROPERTY RIGHTS--have raised their growth rates. (Although some economists argue that the Asian tigers are an exception to this free-market rule.) Open economies have grown much faster on average than closed economies. Higher PUBLIC SPENDING relative to GDP is usually associated with slower growth. Furthermore, high INFLATION is bad for growth and so is political instability. The poorest countries can indeed catch up. Their chances of doing so are maximised by policies that give a greater role to COMPETITION and incentives, at home and abroad.
+
+Despite starting with a big disadvantage, there is evidence that some developing countries do not help themselves because they squander the resources they have. Institutions that produce effective governance of an economy are crucial. Those countries that use their resources well can grow quickly. Indeed, the world's fastest-growing economies are a small subgroup of exceptional performers among the poor countries.
+

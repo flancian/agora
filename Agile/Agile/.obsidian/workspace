@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "f324a2b07ba46048",
+    "type": "split",
+    "children": [
+      {
+        "id": "a351a10f2d38a89e",
+        "type": "split",
+        "children": [
+          {
+            "id": "724b7cbe3316fff9",
+            "type": "split",
+            "children": [
+              {
+                "id": "e0efa788c09fd381",
+                "type": "leaf",
+                "active": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Linux Certification.md",
+                    "mode": "preview"
+                  }
+                }
+              },
+              {
+                "id": "aef60c05081c3f0c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Porter Plan/LinkedIn Agile Training Cert Level 1.md",
+                    "mode": "preview"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "07a1c81f533c39c0",
+            "type": "split",
+            "children": [
+              {
+                "id": "1519182a91250798",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Linux Certification.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "44817f3528ab062b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e546c3a3078d342",
+    "type": "split",
+    "children": [
+      {
+        "id": "055c3228b7b80245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a7e57d7af8de3b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f86333fed57b6ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "63fc8984f8c96427",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2ca1d6192bf531f",
+    "type": "split",
+    "children": [
+      {
+        "id": "902c17b3e8d3e2be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92eee6e8813adca9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a0daed002bdab0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Linux Certification.md",
+    "The Porter Plan/The Agile Manifesto.md",
+    "The Porter Plan/The Scrum Guide.md",
+    "The Porter Plan/The four values of Agile.md",
+    "The Porter Plan/Agile - Business Analyst Role.md"
+  ]
+}
