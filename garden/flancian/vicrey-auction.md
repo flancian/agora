@@ -1,2 +1,0 @@
-# Vicrey Auction
-

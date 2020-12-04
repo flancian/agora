@@ -1,2 +1,0 @@
-# Self Organizing Intelligent Matter
-
