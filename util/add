@@ -2,4 +2,7 @@
 USERNAME="$1"
 REPO="$2"
 # if [[ -n "$USERNAME" -or -n "$REPO" ]]; then echo "Usage: $0 username repo_url."; exit 42; fi
+echo "Command to add:"
 echo git subtree add --prefix garden/$USERNAME $REPO master --squash -m \"add garden/$USERNAME\"
+echo "Command to sync:"
+echo git subtree pull --prefix garden/$USERNAME $REPO master --squash -m \"sync garden/$USERNAME\"
