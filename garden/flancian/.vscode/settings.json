@@ -29,5 +29,13 @@
             }
         ]
     }
-    ]
+    ],
+    "spellright.language": [],
+    "spellright.documentTypes": [
+      "latex",
+      "plaintext"
+    ],
+    "vim.handleKeys": {
+      "[": false,
+    }
 }

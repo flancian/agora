@@ -81,6 +81,7 @@ Go to [[Main Ai Page]] #AIBusinessCase
 - [[Module 4 - Watson Use Cases and Resources List]]
 - [[Master of Philosophy - Main Page]]
 - [[Feminist Chatbot Main Page]]
+- [[The Golem Project Overview]]
 - [[Introducing AI]]
 - [[Introduction to Chatbots]]
 - [[Ideas for Newsrooms (LIST)]]
