@@ -1,0 +1,2 @@
+# Microsolidarity
+- https://microsolidarity.cc
