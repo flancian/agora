@@ -150,3 +150,22 @@ Deutsche Requiem. Borges tenía un talento: veía las identidades, las cosas en 
 
 ### https://www.youtube.com/watch?v=_BxOE3bO6SM
 
+Si todo ya está escrito, lo único que se puede hacer es copiar; editar; resumir.
+
+[[Tema del traidor y del héroe]]: extraordinario relato de ocho páginas.
+
+Qué tienen en común la cita y el plagio? Es una lectura de segundo grado; escribir lo que se lee. La traducción es escribir de nuevo un libro sin que sea, al final, propio. Pierre Menard.
+
+La cultura contemporánea es una cultura de la copia ([[Walter Benjamin]]). La historia de la cultura se puede ver en un contexto no original; sin el aura.
+
+Borges dijo que su primer libro fue el Quijote en inglés; y que después al leer el original le pareció una mala traducción.
+
+Borges es un gran lector de vanguardia, no un escritor de vanguardia. Hoy nosotros leemos como Borges.
+
+El debate del canon: si alguien pudiera decidir qué es realmente el canon, esos libros serían leídos "con previo fervor y misteriosa lealtad". El lector lee con una figura del escritor en mente; un a priori salvo en el caso de un inédito.
+
+Kafka creó una condición para leer de otra manera; Bartleby es Kafkiano aunque sea previo. Los grandes escritores hacen esto.
+
+Borges ve a la filosofía como una parte de la literatura fantástica. No está en lo cierto, pero es una lectura productiva: da en Tlön. La postdata de Tlön es del futuro; 1947 para un texto de 1940.
+
+El [[hrönir]]: un objeto perdido y encontrado, a veces por más de una persona o por la misma persona más de una vez.
