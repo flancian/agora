@@ -1,5 +1,5 @@
 # Agora just pulls garden content from independent repos, perhaps it shouldn't be reproduced in the Agora repro proper.
-garden
+garden/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
