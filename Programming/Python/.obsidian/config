@@ -1,0 +1,88 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "workspaceLayout": {
+    "id": "23434edd1ae924ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "21e4330d049a93c6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python - Proper Python project preparation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "9cdbba74f1982568",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb4e897af2e45df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb6781a72406bb92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "52daee5324f7e305",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "fb5b4e2f478963da",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ac14f2b1db71e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88cb5ed4f6c1f3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Python - Proper Python project preparation.md"
+  ]
+}

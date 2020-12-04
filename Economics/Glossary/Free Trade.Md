@@ -1,0 +1,11 @@
+# Free trade
+
+Go back to the [[Economic_Glossary]]
+
+
+The ability of people to undertake economic transactions with people in other countries free from any restraints imposed by governments or other regulators. Measured by the volume of imports and exports, world trade has become increasingly free in the years since the second world war. A fall in barriers to trade, as a result of the general agreement on tariffs and trade and its successor, the world trade organisation, has helped stimulate this growth. The volume of world merchandise trade at the start of the 21st century was about 17 times what it was in 1950, and the world's total output was not even six times as big. The ratio of world exports to gdp had more than doubled since 1950. Of this, trade in manufactured goods was worth three times the value of trade in services, although the share of services trade was growing fast.
+
+For economists, the benefits of free trade are explained by the theory of comparative advantage, with each country doing those things in which it is comparatively more efficient. As long as each country specialises in products in which it has a comparative advantage, trade will be mutually beneficial. Some critics of free trade argue that trade with developing countries, where wages are usually lower and working hours longer than in developed countries, is unfair and will wipe out jobs in high-wage countries. They want autarky or fair trade.
+
+Real-world trade patterns sometimes seem to challenge the theory of comparative advantage (see new trade theory). Most trade occurs between countries that do not have huge cost differences. The biggest trading partner of the United States, for instance, is Canada. Well over half the exports from France, Germany and Italy go to other european union countries. Moreover, these countries sell similar things to each other: cars made in France are exported to Germany, and German cars go to France. The main reason seems to be cross-border differences in consumer tastes. But the agricultural exports of Australia, say, or Saudi Arabia's reliance on oil, do clearly stem from their particular stock of natural resources. Also poorer countries often have more unskilled labour, so they export simple manufactures such as clothing.
+
