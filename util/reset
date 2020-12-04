@@ -5,10 +5,11 @@ set -e
 cd $HOME/agora
 rm -rf garden
 mkdir -p garden
-git subtree add --prefix garden/flancian https://github.com/flancian/garden.git master --squash -m "add garden/flancian"
-git subtree add --prefix garden/s5bug https://gitdab.com/s/garden.git master --squash -m "add garden/s5bug"
-git subtree add --prefix garden/jonathan https://github.com/JonathanLorand/AgoraGarden master --squash -m "add garden/jonathan"                                                                                                               
-git subtree add --prefix garden/luciana https://github.com/malfattti/garden.git master --squash -m "add garden/luciana"
-git subtree add --prefix garden/ArghZero https://github.com/arghzero/agora-garden.git master --squash -m "add garden/ArghZero"
-git subtree add --prefix garden/olofl https://github.com/oloflindholm/garden master --squash -m "add garden/olofl"
-git subtree add --prefix garden/KGBicheno https://github.com/KGBicheno/KGB_Agora main --squash -m "add garden/KGBicheno"
+cd garden
+git clone https://github.com/flancian/garden.git flancian 
+git clone https://gitdab.com/s/garden.git s5bug 
+git clone https://github.com/JonathanLorand/AgoraGarden jonathan 
+git clone https://github.com/malfattti/garden.git luciana 
+git clone https://github.com/arghzero/agora-garden.git ArghZero 
+git clone https://github.com/oloflindholm/garden olofl 
+git clone https://github.com/KGBicheno/KGB_Agora KGBicheno 
