@@ -1,5 +1,5 @@
 #!/bin/bash -e
-# (this should be run from the root of the repo: util/add)
+# (this should be run from the root of the repo: util/reset)
 # Before adding, you need to run add once (same command line but with add).
 set -e
 cd $HOME/agora
