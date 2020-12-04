@@ -17,6 +17,7 @@
 - The environment that resulted was very *creative*. Lots of vocabulary was coined right there.
 - When Wikipedia came along, it did the right things:
   - They made it in every language
+  - They were bold (paraphrase)
 - Spinning off wikis out of wikis
   - Wiki on wiki (meta)
   - Religion wiki
