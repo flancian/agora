@@ -1,2 +1,0 @@
-# Thestoa Ca
-

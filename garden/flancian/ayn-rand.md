@@ -1,2 +1,0 @@
-# Ayn Rand
-

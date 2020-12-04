@@ -1,4 +1,0 @@
-# Thinkingtools
-
-- thinkingtools.space
-

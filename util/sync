@@ -2,11 +2,9 @@
 # (this should be run from the root of the repo: util/sync)
 # Before pulling, you need to run add once (same command line but with add).
 set -e
-cd $HOME/agora
-git subtree pull --prefix garden/flancian https://github.com/flancian/garden.git master --squash -m "sync garden/flancian"
-git subtree pull --prefix garden/s5bug https://gitdab.com/s/garden.git master --squash -m "sync garden/s5bug"
-git subtree pull --prefix garden/jonathan https://github.com/JonathanLorand/AgoraGarden master --squash -m "sync garden/jonathan"                                                                                                               
-git subtree pull --prefix garden/luciana https://github.com/malfattti/garden.git master --squash -m "sync garden/luciana"
-git subtree pull --prefix garden/ArghZero https://github.com/arghzero/agora-garden.git master --squash -m "sync garden/ArghZero"
-git subtree pull --prefix garden/olofl https://github.com/oloflindholm/garden master --squash -m "sync garden/olofl"
-git subtree pull --prefix garden/KGBicheno https://github.com/KGBicheno/KGB_Agora main --squash -m "sync garden/KGBicheno"
+cd $HOME/agora/garden
+for i in *; do
+    cd $i
+    git pull
+    cd ..
+done

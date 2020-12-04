@@ -1,2 +1,0 @@
-# Smart Agora
-- "Smart Agora envisions the establishment of a cyber-​physical digital agora in Smart Cities, a public arena of discourse, where citizens actively engage in collective decision-​making and public matters. Smart Agora is an advanced platform that uses digital technology such as augmented reality, gamification and the Internet of Things. It empowers citizens to improve their quality of life by witnessing urban points of interest as well as participating in online deliberation and decision-​making that can shape citizens’ public sphere to the better."
