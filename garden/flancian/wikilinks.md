@@ -1,0 +1,4 @@
+# Wikilinks
+
+See also [[wikilink]]
+
