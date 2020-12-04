@@ -1,5 +1,5 @@
 # Feminist Internet
-This is a part of the Inclusivity section from the [[Feminist Chatbot Main Page]]
+This is a part of Golem's Inclusivity section from the [[Feminist Chatbot Main Page]]
 
 > There is no Feminism
 > Only possible Feminisms
@@ -11,4 +11,4 @@ This is a part of the Inclusivity section from the [[Feminist Chatbot Main Page]
 
 This page links from [[Feminist goals when creating bots]], part of the [[Feminist Chatbot Main Page]]. 
 
-For broader context, see the the [[Master Contents Page]]
+For broader context, see the [[The Golem Project Overview]] or the [[Master Contents Page]]

@@ -46,8 +46,12 @@ el Hotel Majestic <img src="https://2.bp.blogspot.com/-ISMqS26fTMo/Vb0OER3ojFI/A
       - es importante en estudiar la novela argentina ver como la novela se comunica con las tecnologías, no solo las conexiones con el mundo social sino con aquello que nos comunica con el mundo social
       - La novela trabaja con historias ya narradas, toma los relatos que circulan y las convierte en trama y las recompone
       - mecanismo parecido: relatos que circulan en un día en la ciudad de Buenos Aires nos permitirían saber mucho más sobre la ciudad de Buenos Aires que los diarios: no solo ciertos temas sino ciertos modos de narrar dentro de un lugar determinado
+<<<<<<< HEAD
       - el grabador: es posible contar con una serie de voces y relatos e historias de vida.
       - tb produce transformación de la tradición clásica de la novela realista
+=======
+      - el grabador: es posible contar con una serie de voces y relationship-crisis o transformación de la tradición clásica de la novela realista
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
       - antes: investigación primero, después novela. el novelista realista tenía tb algo de periodista. ese campo de investigación hoy lo ocupa el periodismo de investigación
       - la novela entonces queda más libre, puede concentrare en recuperar historias personales, no resultado de voluntad testimonial
       - la oralidad popular: cómo se puede capturar a aquel que no usa el lenguaje como lo usaría el narrador
@@ -148,6 +152,7 @@ primero intentan una máquina de traducir. Le introducen texto de Poe "William W
   -   lo enlaza desde arriba y sostiene del cogote en el aire. el animal se retuerce y patea. cae al agua, lo vuelve a enlazar, lo deja caer de nuevo, etc.los demás festejan y ríen 
   -  cuando termina el juego lo sacan y degüellan. le dicen a Burgos: oy comemos asado de pez. Todos ríen y este siente la hermandad de los hombres
   --------
+<<<<<<< HEAD
   - [[Macedonio]] siempre está recopilando historias ajenas, desde su época de Fsical en Misiones.
   - En esa época había perdido a su mujer, Elena Obieta y todo lo que hacía, incluso la máquina, pretendía tenerla presente
   - ella era La Eterna, el río del relato, la voz que mantiene vivo el recuerdo
@@ -241,4 +246,12 @@ Esta historia: institucionalización, miedo
      - buscan alterarlo por la música que no puede darle miedo, no es una experiencia
    - la madre muere y la nena asocia su desaparición con canción de Schubert
 
+=======
+  - Macedonio siempre está recopilando historias ajenas, desde su época de Fsical en Misiones.
+  - En esa época había perdido a su mujer, Elena Obieta y todo lo que hacía, incluso la máquina, pretendía tenerla presente
+  - ella era La Eterna, el río del relato, la voz que mantiene vivo el recuerdo
+  - construye un mundo para vivir con ella
+  - sistema sencillo, cuando transforma la historia de William Wilson en la de Stephen Stevensen 
+  - 
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
 

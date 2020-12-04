@@ -1,6 +1,6 @@
 # Creating a Discovery Collection
 
-See the [[Week 1 Main Page]] and the [[Data vs Insight]] page.
+See the [[AI Service Deployment Main Page]] and the [[Data vs Insight]] page.
 
 ## Raw steps for demonstration
 
