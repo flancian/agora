@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [[Borges]], por Piglia
 
 Por [[Ricardo Piglia]].
@@ -5,6 +6,21 @@ Por [[Ricardo Piglia]].
 ## Clase 1
 
 ### https://www.youtube.com/watch?v=im_kMvZQlv8
+=======
+<<<<<<< HEAD
+# [[Borges]], por Piglia
+
+Por [[Ricardo Piglia]].
+
+## Clase 1
+
+### https://www.youtube.com/watch?v=im_kMvZQlv8
+=======
+# Borges, por Piglia
+
+## https://www.youtube.com/watch?v=im_kMvZQlv8
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
 
 En la televisión pública lo lógico sería hablar de Jauretche, pero vamos a hablar de Borges.
 
@@ -44,7 +60,15 @@ Philip Dick: "El hombre en el castillo". Había leído Tlön. Dentro de la novel
 
 Borges llevó eso a la perfección. La perfección es Tlön.
 
+<<<<<<< HEAD
 ### https://www.youtube.com/watch?v=m3htEzn1BIc
+=======
+<<<<<<< HEAD
+### https://www.youtube.com/watch?v=m3htEzn1BIc
+=======
+## https://www.youtube.com/watch?v=m3htEzn1BIc
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
 
 No tiene sentido usar la influencia de Borges para fundamentar que es un buen escritor. Pero es influyente igual: [[Palm Fire]] no podría haber sido escrito sin Borges. [[La vida breve]] tampoco, claro.
 
@@ -62,6 +86,10 @@ Ideología -> Discurso -> Relato. Pero volvemos a la noción de ideología. Qué
 
 [[Alphaville]]: [[Jean-Luc Godard]] y Borges.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
 ### https://www.youtube.com/watch?v=D9T0Qa85sEc
 
 La figura del artista que construye una imagen como elemento de su obra.
@@ -169,3 +197,9 @@ Kafka creó una condición para leer de otra manera; Bartleby es Kafkiano aunque
 Borges ve a la filosofía como una parte de la literatura fantástica. No está en lo cierto, pero es una lectura productiva: da en Tlön. La postdata de Tlön es del futuro; 1947 para un texto de 1940.
 
 El [[hrönir]]: un objeto perdido y encontrado, a veces por más de una persona o por la misma persona más de una vez.
+<<<<<<< HEAD
+=======
+=======
+## https://www.youtube.com/watch?v=D9T0Qa85sEc
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071

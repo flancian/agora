@@ -89,12 +89,21 @@ A report on the state of knowledge in post- modernity.
       - legitimation becomes impossible
       - this is the core of Lyotard's analysis
       - is the impossibility of legitimation a symptom of a radical relativity?
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
         - ramifications for Lyotard's own project?
         - prescriptive discourse is at the core of his own position bc he implies that justice would enable that language moves can me made, that no one is excluded.
         - justice itself is a master narrative bc it says "this must be done"
         - isn't Lyotard a victim of natural phallacy?
         - justice cannot be turned into a game itself, it ought to have dominance over all the others 
         - justice thus constitutes something like a trascendental signifier, master narrative that Lyotard says has lost legitimacy
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
       - 
 - 
     - the narrative function is being dispersed in clouds of narrative language elements, we like at the intersection of many of these
@@ -114,6 +123,10 @@ A report on the state of knowledge in post- modernity.
    - the rules are set, we cannot invent a new game but we can move the figures on the board in surprising or interesting manners
    -   
   - The future: pragmatics of language particles
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
  
 
 ## What is postmodernism?
@@ -196,7 +209,16 @@ A report on the state of knowledge in post- modernity.
         - self-reflexivity of what it is that naturalism can/cannot do (even as it is emerging): this self-reflexivity makes it close to a postmodern text
         - Lyotard states that pre-postmodern texts can also be post-modern: this reflection on the possibility of representing the irrepresentable prove it.
   
+<<<<<<< HEAD
 
+=======
+
+=======
+     
+
+## Poststructuralism II: Lyotard, postmodernity and deconstruction
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
 
 
 

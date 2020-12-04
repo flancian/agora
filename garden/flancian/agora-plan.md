@@ -27,7 +27,14 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
  - [x] [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
  - [x] [[luciana]]: https://github.com/malfattti/garden
  - [x] [[arghzero]]
+<<<<<<< HEAD
  - [ ] [[dr_kvj]]: https://github.com/drkvj/agora
+=======
+<<<<<<< HEAD
+ - [ ] [[dr_kvj]]: https://github.com/drkvj/agora
+=======
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
  - [ ] [[enkiv2]]: http://lord-enki.net/medium-backup/
  - [ ] likely [[solomon naim]]
  - [ ] what about all of the ones licensed appropriately listed in [[kasper zutterman]]'s [[second brain]] list? https://github.com/KasperZutterman/Second-Brain
@@ -40,9 +47,18 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora vscode]]
 
 ## Next
+<<<<<<< HEAD
 - Improve the [[index]].
 - [ ] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
 - [ ] https://twitter.com/s5bug/status/1334686375275163652?s=09
+=======
+<<<<<<< HEAD
+- Improve the [[index]].
+- [ ] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
+- [ ] https://twitter.com/s5bug/status/1334686375275163652?s=09
+=======
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
 - [ ] Provide a link (GET) for the search for '\[ \]', useful for [[do]].
 - [ ] Add better backlinks, showing some context.
 - [ ] Make the site header be marked as an actual header (div with a class, etc.); Google seems to think it's part of the site text (it's showing up in results).
@@ -130,7 +146,14 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
 [roam2agora]: roam2agora "Roam2agora"
 [agora-vscode]: agora-vscode "Agora Vscode"
+<<<<<<< HEAD
 [deceased]: deceased "Deceased"
+=======
+<<<<<<< HEAD
+[deceased]: deceased "Deceased"
+=======
+>>>>>>> 06037cefaa7cc1b2f685b004ad8c3a53d484010e
+>>>>>>> dace83d2525adf736e1baf6c82c9e817ed65d071
 [do]: do "Do"
 [dark-mode]: dark-mode "Dark Mode"
 [flancian]: flancian "Flancian"
