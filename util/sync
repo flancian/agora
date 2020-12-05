@@ -2,6 +2,7 @@
 # (this should be run from the root of the repo: util/sync)
 # Before pulling, you need to run add once (same command line but with add).
 set -e
+git pull
 cd $HOME/agora/garden
 for i in *; do
     cd $i
