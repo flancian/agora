@@ -7,3 +7,7 @@ An Agora is defined by its code of conduct; it is a contract that binds us withi
 - When you meet someone that you disagree with, please prioritize mutual understanding over winning an argument.
 - If you made a mistake, apologize.
 - If someone made a mistake and apologized thoroughly, please try to forgive them.
+
+The members of an Agora can propose changes to its contract by reaching out to its [maintainer](https://flancia.org/me) or directly sending a [pull request](https://github.com/flancian/agora).
+
+Thank you and have a nice day!
