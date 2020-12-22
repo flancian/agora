@@ -12,7 +12,7 @@ Welcome to this [[Agora]].
 
 The [[wikilink]] is the heart of the [[agora protocol]]. In an Agora, [[foo]] will resolve to every subnode that identifies with entity 'foo'; by default, every file titled ```foo.md``` in its collection of [[digital gardens]]. You can think of an Agora node as a distributed, collaboratively built, sequential wiki page. Nodes assemble into a [[distributed knowledge graph]].
 
-This Agora is running [[agora server]] v.0.5.4. If you're interested in knowing what's coming next in this Agora, please refer to [[agora plan]]. 
+This Agora is running [[agora server]]. If you're interested in knowing what's coming next, please refer to [[agora plan]]. 
 
 If you'd like to join this Agora, please refer to [[agora help]]. 
 
