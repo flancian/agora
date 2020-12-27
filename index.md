@@ -2,17 +2,19 @@
 
 Ahoy there!
 
-This [[Agora]], which is just one of many, is very much under active development; but feel free to look around!
+The Agora is a [[distributed knowledge graph]] maintained by an [[experimental]] [[goal]]-oriented [[social network]]. 
+
+This Agora is running [[agora server]] [[0.5.6]]. If you're interested in knowing what's coming next, please refer to [[agora plan]].  As of now:
  
-- [/nodes](/nodes) lists all non-journal nodes in this Agora; a node is the set of all subnodes with a given title, or otherwise mapping to a single [[entity]]. Subnodes can come from a variety of sources; currently these are mostly notes as volunteered by users via their independent digital gardens.
-- [/journals](/journals) displays all journal entries (these are subnodes whose filenames look like dates, such as YYYY-MM-DD).
+- [/nodes](/nodes) lists all nodes in this Agora.
+  - A [[node]] is the set of all subnodes with a given title, or otherwise mapping to a single [[entity]] or [[wikilink]]. Subnodes can come from a variety of sources; currently these are mostly notes as volunteered by users via their independent [[digital gardens]].
+  - Nodes are expected to assemble (best-effort) into a [[distributed knowledge graph]].
+- [/journals](/journals) displays all nodes of type [[journal]] (these are subnodes whose filenames look like dates, such as YYYY-MM-DD).
 - [/users](/users) displays all users in this Agora. Click through to see their subnodes (gardens).
-- [/latest](/latest) shows which subnodes were added or modified recently.
 - [/search](/search) lets you search in all nodes (supports regexes).
+- [/latest](/latest) shows which subnodes were added or modified recently.
 
-The [[wikilink]] is the heart of the [[Agora protocol]]. In the context of an Agora, [[foo]] will resolve to every subnode that identifies with entity 'foo'; by default, every file titled ```foo.md``` in its collection of [[digital gardens]]. You can think of an Agora node as a distributed, collaboratively built, sequential wiki page. Nodes assemble into a [[distributed knowledge graph]].
-
-This Agora is running [[agora server]]. If you're interested in knowing what's coming next, please refer to [[agora plan]]. 
+The [[wikilink]] is the heart of the [[Agora]]. In the context of an Agora, [[foo]] will resolve to ***every resource*** that identifies with entity 'foo'; by default, every file titled ```foo.md``` in its curated collection of [[digital gardens]]. You can think of an Agora node as a collaboratively built sequential-editing wiki. 
 
 If you'd like to join this Agora, please refer to [[agora help]]. 
 
