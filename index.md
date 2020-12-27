@@ -14,7 +14,7 @@ This Agora is running [[agora server]] [[0.5.6]]. If you're interested in knowin
 - [/search](/search) lets you search in all nodes (supports regexes).
 - [/latest](/latest) shows which subnodes were added or modified recently.
 
-The [[wikilink]] is the heart of the [[Agora]]. In the context of an Agora, [[foo]] will resolve to ***every resource*** that identifies with entity 'foo'; by default, every file titled ```foo.md``` in its curated collection of [[digital gardens]]. You can think of an Agora node as a collaboratively built sequential-editing wiki. 
+The [[wikilink]] is the heart of the [[Agora]]. In the context of an Agora, [[foo]] will resolve to ***every resource*** that identifies with entity 'foo'; in particular, currently every file titled ```foo.md``` (or similar) in its curated collection of [[digital gardens]]. An Agora node is in some ways a collage: a node is built out of the contributions of many users. You can also think of it as a [[sequential wiki]].
 
 If you'd like to join this Agora, please refer to [[agora help]]. 
 
