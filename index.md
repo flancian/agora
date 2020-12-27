@@ -2,7 +2,7 @@
 
 Ahoy there, matey!
 
-The [[Agora]] is a [[distributed knowledge graph]] maintained by a [[experimental]] [[social network]]. 
+The [[Agora]] is a [[distributed knowledge graph]] and [[experimental]] [[social network]]. 
 
 This Agora is running [[agora server]] [[0.5.6]]. If you're interested in knowing what's coming next, please refer to [[agora plan]].  As of now you can peruse the following endpoints:
  
