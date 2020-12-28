@@ -1,6 +1,6 @@
 # Welcome to the Agora
 
-Ahoy!
+Ahoy there!
 
 The [[Agora]] is a [[distributed knowledge graph]] and [[experimental]] [[social network]]. 
 
