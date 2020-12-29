@@ -17,7 +17,9 @@ There are many ways to grow a digital garden of your own; if you have one alread
 
 The Agora currently targets [Foam](https://flancia.org/go/foam) as its main editor. Core to the distributed nature of the Agora is that every user is able to host their notes, their digital garden in a repository of their own, which they can maintain full control of. The current recommended hosting system is [git](https://flancia.org/go/git), which can be freely hosted in [Github](https://github.com) or [Gitlab](https://gitlab.com) among many others. Once their personal repository is up and running, users can send a "pull request" to the Agora so that it references their garden.
 
-Once we get down to details, the Agora currently includes gardens using 'git subtree' (this likely won't scale, but it might be good enough for the first few hundred users). More on that, and how you can send a pull request, later.
+![Foam](foam.png)
+
+Once we get down to details, the Agora currently just checks out git repositories in a loop (this likely won't scale, but it might be good enough for the first few hundred users).
 
 The next section detail how to get Foam or other Roam-likes running for the purpose of setting up a digital garden / note taking system compatible with the Agora; and information on how to go from other tools to achieving a similar outcome.
 
