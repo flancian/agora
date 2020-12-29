@@ -9,7 +9,7 @@ The Agora is by design a distributed system. The easiest way to contribute to it
 1. Start taking public notes or public posts, that is, growing a "[digital garden](https://flancia.org/go/digital-garden)", and then
 1. To ask for them to be included in the Agora's core repository.
 
-You can also contribute directly to the "core" part of the Agora, that is, the "hub" [repository](https://flancia.org/go/agora-git) and the underlying [collaboration protocol](https://flancia.org/go/agora-protocol).
+You can also contribute directly to the "core" part of the Agora, that is, the "hub" [repository](https://flancia.org/go/agora-git) and the underlying [collaboration protocol](https://anagora.org/node/agora-protocol).
 
 ## Step one: grow a garden
 
