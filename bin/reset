@@ -2,9 +2,6 @@
 # (this should be run from the root of the repo: util/reset)
 # Before adding, you need to run add once (same command line but with add).
 set -e
-cd $HOME/agora
-rm -rf garden
-mkdir -p garden
-../util/clone
-
-
+rm -rf $HOME/agora/garden
+mkdir $HOME/agora/garden
+./clone

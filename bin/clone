@@ -2,13 +2,14 @@
 # run from agora/garden or wherever gardens are stored.
 # TODO: move this whole thing to python? or at least use arrays, this is truly a forsaken place.
 
-git clone https://github.com/flancian/garden.git flancian 
-git clone https://gitdab.com/s/garden.git s5bug 
-git clone https://github.com/JonathanLorand/AgoraGarden jonathan 
-git clone https://github.com/malfattti/garden.git luciana 
-git clone https://github.com/arghzero/agora-garden.git ArghZero 
-git clone https://github.com/oloflindholm/garden olofl 
-git clone https://github.com/KGBicheno/KGB_Agora KGBicheno 
-git clone https://github.com/drkvj/agora dr_kvj
-git clone https://github.com/bbchase/agora bbchase
-git clone https://github.com/houshuang/stian-notes.git houshuang
+PREFIX=$HOME/agora/garden
+git clone https://github.com/flancian/garden.git $PREFIX/flancian 
+git clone https://gitdab.com/s/garden.git $PREFIX/s5bug 
+git clone https://github.com/JonathanLorand/AgoraGarden $PREFIX/jonathan 
+git clone https://github.com/malfattti/garden.git $PREFIX/luciana 
+git clone https://github.com/arghzero/agora-garden.git $PREFIX/ArghZero 
+git clone https://github.com/oloflindholm/garden $PREFIX/olofl 
+git clone https://github.com/KGBicheno/KGB_Agora $PREFIX/KGBicheno 
+git clone https://github.com/drkvj/agora $PREFIX/dr_kvj
+git clone https://github.com/bbchase/agora $PREFIX/bbchase
+git clone https://github.com/houshuang/stian-notes.git $PREFIX/houshuang
