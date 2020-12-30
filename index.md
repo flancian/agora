@@ -6,7 +6,7 @@ The [[Agora]] is a [[distributed knowledge graph]] and [[experimental]] [[social
 
 This Agora is running [[agora server]] [[0.5.6]]. If you're interested in knowing what's coming next, please refer to [[agora plan]].  As of now you can peruse the following endpoints:
  
-- [/nodes](/nodes) lists all nodes in this Agora.
+- [/nodes](/nodes) lists all [[nodes]] in this Agora.
   - A [[node]] is the set of all subnodes with a given title, or otherwise mapping to a single [[entity]] or [[wikilink]]. Subnodes can come from a variety of sources; currently these are mostly notes as volunteered by users via their independent [[digital gardens]].
   - Nodes are expected to assemble (best-effort) into a [[distributed knowledge graph]].
 - [/journals](/journals) displays all nodes of type [[journal]] (these are subnodes whose filenames look like dates, such as YYYY-MM-DD).
