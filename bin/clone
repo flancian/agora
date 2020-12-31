@@ -13,3 +13,5 @@ git clone https://github.com/KGBicheno/KGB_Agora $PREFIX/KGBicheno
 git clone https://github.com/drkvj/agora $PREFIX/dr_kvj
 git clone https://github.com/bbchase/agora $PREFIX/bbchase
 git clone https://github.com/houshuang/stian-notes.git $PREFIX/houshuang
+git clone https://github.com/tilda/agora $PREFIX/tilda
+git clone https://github.com/binnyva/DZG $PREFIX/binnyva
