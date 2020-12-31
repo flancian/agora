@@ -6,6 +6,8 @@ git pull
 cd $HOME/agora/garden
 for i in *; do
     cd $i
-    git pull
+    echo "*** pulling $i"
+    git pull || echo "error pulling"
+    echo "*** finished pulling $i"
     cd ..
 done
