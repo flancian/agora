@@ -9,5 +9,6 @@ for i in *; do
     echo "*** pulling $i"
     git pull || echo "error pulling"
     echo "*** finished pulling $i"
+    echo
     cd ..
 done
