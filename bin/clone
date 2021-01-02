@@ -16,3 +16,4 @@ git clone https://github.com/houshuang/stian-notes.git $PREFIX/houshuang
 git clone https://github.com/tilda/agora $PREFIX/tilda
 git clone https://github.com/binnyva/DZG $PREFIX/binnyva
 git clone https://gitlab.com/veracantcode/notes-pub.git $PREFIX/vera
+git clone https://github.com/zavislak/law.md.git $PREFIX/law
