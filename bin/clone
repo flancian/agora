@@ -19,3 +19,4 @@ git clone https://gitlab.com/veracantcode/notes-pub.git $PREFIX/vera
 git clone https://github.com/zavislak/law.md.git $PREFIX/law
 git clone https://github.com/Rusp1972/class $PREFIX/rusp
 git clone https://github.com/bathrobe/sephagora.git $PREFIX/seph
+git clone https://github.com/jakeisnt/wiki.git $PREFIX/jakeisnt
