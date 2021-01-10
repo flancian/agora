@@ -9,7 +9,7 @@ An [Agora](https://anagora.org/wiki/Agora) is a distributed, goal-oriented socia
 
 You can view the Agora at https://anagora.org. For the specifics of how to write to it, please refer to the [how to](docs/howto.md). On a high level it entails taking notes using a personal knowledge management tool and then making them available somewhere on the internet for the Agora to pull them and integrate them.
 
-![Agora](agora.png)
+![Agora](agora2.png)
 
 Join the Agora now: <https://flancia.org/go/agora-join>.
 
