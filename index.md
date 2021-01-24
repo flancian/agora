@@ -1,4 +1,4 @@
-# anagora.org
+# Welcome to anagora.org!
 
 Ahoy there!
 
