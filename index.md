@@ -1,10 +1,10 @@
-# Welcome to anagora.org!
+# Welcome to the [[Agora]]!
 
 Ahoy there!
 
 **The [[Agora]] is a [[distributed knowledge graph]] and [[experimental social network]].**
 
-This Agora, which could be just one of many, is running [[agora server]] [[0.5.12]].
+This [[agora]], which is just one of many, is running [[agora server]] [[0.5.12]].
  
 - [/nodes](/nodes) lists all [[nodes]] in this Agora.
   - A [[node]] is the set of all subnodes with a given title, or otherwise mapping to a single [[entity]] or [[wikilink]]. Subnodes can come from a variety of sources; currently these are mostly notes as volunteered by users via their independent [[digital gardens]].
