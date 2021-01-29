@@ -20,3 +20,5 @@ git clone https://github.com/zavislak/law.md.git $PREFIX/law
 git clone https://github.com/Rusp1972/class $PREFIX/rusp
 git clone https://github.com/bathrobe/sephagora.git $PREFIX/seph
 git clone https://github.com/jakeisnt/wiki.git $PREFIX/jakeisnt
+git clone https://github.com/bmann/bmcgarden.git $PREFIX/bmann
+git clone https://github.com/mwt/agora.git $PREFIX/mwt
