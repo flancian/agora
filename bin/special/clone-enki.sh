@@ -6,14 +6,11 @@
 # apt-get install python3-html2markdown wget
 
 # import
-TMPDIR=$(mktemp)
+TMPDIR=$(mktemp -d)
 OUTPUTDIR=$HOME/agora/garden/enki
 
 mkdir -p $OUTPUTDIR
 if [[ ! -d $OUTPUTDIR ]]; then echo "couldn't create target directory $OUTPUTDIR" && exit 42; fi
-
-mkdir -p $TMPDIR 
-if [[ ! -d $TMPDIR ]]; then echo "couldn't create $TMPDIR" && exit 42; fi
 
 cd $TMPDIR
 wget --mirror http://www.lord-enki.net/medium-backup/
