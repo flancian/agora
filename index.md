@@ -15,7 +15,7 @@ This [[agora]], which is just one of many, is running [[agora server]] [[0.5.12]
 - [/latest](/latest) shows which subnodes were added or modified recently.
 
 
-The [[wikilink]] is the heart of the [[Agora]]. In the context of an Agora, [[foo]] will resolve to ***every resource*** that identifies with entity 'foo'; in particular, currently every file named ```foo-bar.md```, ```foo-bar.jpg``` or ```foo-bar.png``` in its curated collection of [[digital gardens]]. An Agora node is in some ways a collage: a node is built out of the contributions of many users. You can think of it as a [[sequential wiki]].
+The [[wikilink]] is the heart of the [[Agora]]. In the context of an Agora, [[foo bar]] will resolve to ***every resource*** that identifies with entity 'foo'; in particular, currently every file named ```foo-bar.md```, ```foo-bar.jpg``` or ```foo-bar.png``` in its curated collection of [[digital gardens]]. An Agora node is in some ways a collage that tries to integrate all user contributions. You can think of it also as a form of [[sequential wiki]].
 
 **If you'd like to join this Agora, please refer to [[agora help]] and [[agora clients]] or reach out to [[flancian]], the maintainer.**
 
