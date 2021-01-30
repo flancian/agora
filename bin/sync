@@ -7,8 +7,13 @@ cd $HOME/agora/garden
 for i in *; do
     cd $i
     echo "*** pulling $i"
-    git pull || echo "error pulling"
-    echo "*** finished pulling $i"
-    echo
+    if [[ -d .git ]]; then
+        git pull || echo "error pulling"
+        echo "*** finished pulling $i"
+        echo
+    else 
+        echo "*** nothing to pull in $i, no git repository found"
+        echo
+    fi
     cd ..
 done

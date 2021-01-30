@@ -6,7 +6,7 @@
 # apt-get install python3-html2markdown wget
 
 # import
-TMPDIR=/tmp/enki
+TMPDIR=$(mktemp)
 OUTPUTDIR=$HOME/agora/garden/enki
 
 mkdir -p $OUTPUTDIR
