@@ -18,8 +18,8 @@ mkdir -p $OUTPUTDIR
 if [[ ! -d $OUTPUTDIR ]]; then echo "couldn't create target directory $OUTPUTDIR" && exit 42; fi
 
 cd $TMPDIR
-wget --mirror http://www.lord-enki.net/medium-backup/
-cd www.lord-enki.net/medium-backup/
+wget --mirror "$URL"
+cd "$URL"
 
 # hack hack
 for i in *html; do 
