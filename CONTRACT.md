@@ -1,4 +1,4 @@
-An Agora is defined by its code of conduct; it is a contract that binds us within its confines. It is of utmost importance for it to be well specified and known by all.
+An Agora is defined by its code of conduct; it is a contract that binds us within its confines. It is therefore of utmost importance for it to be well specified (explicit) and understandable by all.
 
 - Be honest.
 - When interacting with others through references or comments, please observe the [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity).
