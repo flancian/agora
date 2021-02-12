@@ -1,6 +1,6 @@
 An Agora is defined by its code of conduct; it is a contract that binds us within its confines. It is therefore of utmost importance for it to be well specified (explicit) and understandable by all.
 
-The following is a chronically incomplete list. Please feel free to contribute corrections (we accept [[git]] [[prs]]!) -- or guidance in the form of feedback.
+A [[contract]] is just a list of [[assertions]]: a thorough declaration of [[intents]]. This is one such list; it is chronically incomplete by its very nature. Please feel free to contribute corrections (we accept [[git]] [[prs]]!) -- or guidance in the form of feedback.
 
 - Be honest.
 - When interacting with others, either directly or indirectly, please keep in mind and follow the [[principle of charity]].
