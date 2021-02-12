@@ -2,7 +2,7 @@ An Agora is defined by its code of conduct; it is a contract that binds us withi
 
 (A [[contract]] is just a list of [[assertions]]: a thorough declaration of [[intents]]. This is one such list; it is chronically incomplete by its very nature. Please feel free to contribute corrections (we accept [[git]] [[prs]]!) -- or guidance in the form of feedback.)
 
-- Be [[honest]]; be [[true] to yourself.
+- Be [[honest]]; be [[true]] to yourself.
 - Try to be [[constructive]], [[kind]], [[rational]], and [[compassionate]].
   - When interacting with others, either directly or indirectly, please keep in mind and follow the [[principle of charity]].
   - When you disagree with someone, please prioritize mutual understanding over winning an argument.
