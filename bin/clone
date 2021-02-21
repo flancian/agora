@@ -24,3 +24,4 @@ git clone https://github.com/bmann/bmcgarden.git $PREFIX/bmann
 git clone https://github.com/mwt/agora.git $PREFIX/mwt
 git clone https://github.com/Ejipuh/Plantey-Garden $PREFIX/plantey
 git clone https://github.com/ankostis/Garden $PREFIX/ankostis
+git clone https://github.com/danielarmengolaltayo/agora $PREFIX/danielarmengolaltayo
