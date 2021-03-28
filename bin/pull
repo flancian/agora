@@ -1,3 +1,2 @@
 #!/bin/bash
-INTERVAL=${1:-1}
-while true; do ./sync; sleep $INTERVAL; done
+~/agora-bridge/gardens.py --config ~/agora/gardens.yaml --output-dir ~/agora/garden 
