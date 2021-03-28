@@ -1,0 +1,95 @@
+---
+# - [[flancian]]
+#   - this file is meant to be consumed by [[agora bridge]]: https://github.com/flancian/agora-bridge.
+#   - for a specification of this format, please consult https://anagora.org/agora-bridge.
+#   - for instructions to set up a fully working [[agora]] using this and other repos, please consult to https://anagora.org/agora-setup.
+
+- target: flancian
+  url: https://github.com/flancian/garden.git
+  protocol: git
+  format: foam
+
+- target: bmann
+  protocol: git
+  url: https://github.com/bmann/bmcgarden.git
+  format: foam
+
+- target: s5bug 
+  url: https://gitdab.com/s/garden.git 
+  format: foam
+
+- target: jonathan 
+  url: https://github.com/JonathanLorand/AgoraGarden 
+  format: foam
+
+- target: luciana 
+  url: https://github.com/malfattti/garden.git 
+  format: foam
+
+- target: ArghZero 
+  url: https://github.com/arghzero/agora-garden.git 
+  format: roam2agora
+
+- target: olofl 
+  url: https://github.com/oloflindholm/garden 
+  format: foam
+
+- target: KGBicheno 
+  url: https://github.com/KGBicheno/KGB_Agora 
+  format: foam
+
+- target: dr_kvj
+  url: https://github.com/drkvj/agora 
+  format: foam
+
+- target: bbchase
+  url: https://github.com/bbchase/agora 
+  format: foam
+
+- target: houshuang
+  url: https://github.com/houshuang/stian-notes.git 
+  format: foam
+
+- target: tilda
+  url: https://github.com/tilda/agora 
+  format: foam
+
+- target: binnyva
+  url: https://github.com/binnyva/DZG 
+  format: foam
+
+- target: vera
+  url: https://gitlab.com/veracantcode/notes-pub.git 
+  format: foam
+
+- target: law
+  url: https://github.com/zavislak/law.md.git 
+  format: foam
+
+- target: rusp
+  url: https://github.com/Rusp1972/class 
+  format: foam
+
+- target: seph
+  url: https://github.com/bathrobe/sephagora.git 
+  format: foam
+
+- target: jakeisnt
+  url: https://github.com/jakeisnt/wiki.git 
+  format: foam
+
+- target: mwt
+  url: https://github.com/mwt/agora.git 
+  format: foam
+
+- target: plantey
+  url: https://github.com/Ejipuh/Plantey-Garden 
+  format: foam
+
+- target: ankostis
+  url: https://github.com/ankostis/Garden 
+  format: foam
+
+- target: danielarmengolaltayo
+  url: https://github.com/danielarmengolaltayo/agora 
+  format: foam
