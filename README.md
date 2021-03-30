@@ -27,7 +27,7 @@ python3 -m venv venv
 pip3 install -r requirements.txt
 ```
 - In `agora`: run `bin/pull` to start using `agora-bridge` to periodically pull the list of digital gardens defined in `gardens.yaml`.
-- In `agora-server`: run `./run-dev.sh` or `./run-prod.sh` (requires further web server configuration) to start the web interface.
+- In `agora-server`: run `./run-dev.sh` to start the dev web interface; or refer to <https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04> for instructions on how to set up the Agora as a system service on top of uwsgi (see `prod.ini`) and nginx.
 
 Of course you are also free to run your own Agora! To do this, just run the bridge against a local `gardens.yaml` file -- or fork the root repository and adjust as wished. As usual please reach out if you need a hand with anything :)
 
