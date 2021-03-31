@@ -93,3 +93,7 @@
 - target: danielarmengolaltayo
   url: https://github.com/danielarmengolaltayo/agora 
   format: foam
+
+- target: neil
+  url: https://gitlab.com/ngm/commonplace-agora.git
+  format: foam
