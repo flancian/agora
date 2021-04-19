@@ -12,7 +12,7 @@
 - target: bmann
   protocol: git
   url: https://github.com/bmann/bmcgarden.git
-  format: foam
+  format: jekyll
 
 - target: s5bug 
   url: https://gitdab.com/s/garden.git 
@@ -97,3 +97,7 @@
 - target: neil
   url: https://gitlab.com/ngm/commonplace-agora.git
   format: foam
+  
+- target: moaparty
+  url: https://gitlab.com/fedstoa/moaparty/moaparty.com.git
+  format: jekyll
