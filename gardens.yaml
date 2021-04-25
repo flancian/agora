@@ -20,7 +20,7 @@
 
 - target: jonathan 
   url: https://github.com/JonathanLorand/AgoraGarden 
-  format: foam
+  format: obsidian
 
 - target: luciana 
   url: https://github.com/malfattti/garden.git 
@@ -48,7 +48,7 @@
 
 - target: houshuang
   url: https://github.com/houshuang/stian-notes.git 
-  format: foam
+  format: roam 
 
 - target: tilda
   url: https://github.com/tilda/agora 
@@ -60,7 +60,7 @@
 
 - target: vera
   url: https://gitlab.com/veracantcode/notes-pub.git 
-  format: foam
+  format: obsidian
 
 - target: law
   url: https://github.com/zavislak/law.md.git 
@@ -97,3 +97,7 @@
 - target: neil
   url: https://gitlab.com/ngm/commonplace-agora.git
   format: foam
+
+- target: patterning
+  url: https://github.com/JonathanLorand/patterning.git
+  format: stoa 
