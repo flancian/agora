@@ -67,8 +67,8 @@
   format: foam
 
 - target: rusp
-  url: https://github.com/Rusp1972/class 
-  format: foam
+  url: https://github.com/Rusp1972/vault
+  format: obsidian
 
 - target: seph
   url: https://github.com/bathrobe/sephagora.git 
