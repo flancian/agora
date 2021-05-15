@@ -102,6 +102,12 @@
   url: https://github.com/JonathanLorand/patterning.git
   format: stoa 
   
-- target: moaparty
+- target: moa-party
   url: https://gitlab.com/fedstoa/moaparty/moaparty.com.git
   format: jekyll
+
+- target: karlicoss
+  url: https://github.com/karlicoss/exobrain-md.git
+  format: org2md
+
+
