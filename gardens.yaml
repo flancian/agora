@@ -110,4 +110,6 @@
   url: https://github.com/karlicoss/exobrain-md.git
   format: org2md
 
-
+- target: volt4ire 
+  url: https://github.com/volt4ire/agora 
+  format: obsidian
