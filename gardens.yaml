@@ -1,4 +1,4 @@
----
+
 # - [[flancian]]
 #   - this file is meant to be consumed by [[agora bridge]]: https://github.com/flancian/agora-bridge.
 #   - for a specification of this format, please consult https://anagora.org/agora-bridge.
@@ -113,3 +113,12 @@
 - target: volt4ire 
   url: https://github.com/volt4ire/agora 
   format: obsidian
+
+- target: ryan
+  url: https://github.com/rfaulhaber/roam
+  format: org
+
+- target: trailmarker
+  url: https://github.com/gyuri-lajos/gyuri/
+  format: foam
+
