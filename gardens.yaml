@@ -61,6 +61,10 @@
 - target: vera
   url: https://gitlab.com/veracantcode/notes-pub.git 
   format: obsidian
+  
+- target: vera-loseq
+  url: https://github.com/fuck-capitalism/logseq.git
+  format: logseq
 
 - target: law
   url: https://github.com/zavislak/law.md.git 
