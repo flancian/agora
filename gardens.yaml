@@ -62,7 +62,7 @@
   url: https://gitlab.com/veracantcode/notes-pub.git 
   format: obsidian
   
-- target: vera-loseq
+- target: vera-logseq
   url: https://github.com/fuck-capitalism/logseq.git
   format: logseq
 
