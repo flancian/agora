@@ -2,8 +2,10 @@
 # - [[flancian]]
 #   - this file is meant to be consumed by [[agora bridge]]: https://github.com/flancian/agora-bridge.
 #   - for a specification of this format, please consult https://anagora.org/agora-bridge.
-#   - for instructions to set up a fully working [[agora]] using this and other repos, please consult to https://anagora.org/agora-setup.
+#   - for instructions to set up a fully working [[agora]] using this and other repos, please consult https://anagora.org/agora-install or the root repository: https://github.com/flancian/agora.
 
+# target should probably include garden/ to make this into a more general purpose filesystem 'mounter' for free.
+# TODO: fix it.
 - target: flancian
   url: https://github.com/flancian/garden.git
   protocol: git
