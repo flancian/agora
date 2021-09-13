@@ -128,3 +128,6 @@
   url: https://github.com/gyuri-lajos/gyuri
   format: foam
 
+- target: unrival
+  url: https://github.com/unrival-protocol/protocol
+  format: foam
