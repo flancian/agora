@@ -128,3 +128,10 @@
   url: https://github.com/gyuri-lajos/gyuri
   format: foam
 
+- target: unrival
+  url: https://github.com/unrival-protocol/protocol
+  format: foam
+
+- target: forshaper
+  url: https://github.com/ray-dorai/ray-dorai.github.io
+  format: foam
