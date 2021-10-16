@@ -1,16 +1,16 @@
-An Agora is defined by its code of conduct; it is a contract that binds us within its confines. It is therefore of utmost importance for it to be well specified (explicit) and understandable by all.
+An Agora is defined by its code of conduct or [[contract]]. It is of utmost importance for it to be well specified and understandable by all. Because of this we prefer explicit over implicit.
 
-A [[contract]] is just a list of [[assertions]]: a declaration of [[intents]]. Please feel free to contribute corrections by submitting patches to this file in the [[agora repository]] -- or by offering guidance or feedback.
-
-- Be [[honest]]; be [[true]] to yourself.
+- A [[contract]] is a public list of [[assertions]]. 
+  - Feel free to contribute corrections to this list by submitting patches to this file in the [[Agora repository]] or by providing guidance or feedback.
+- Above all, be [[honest]]; be [[true]] to yourself.
 - Try to be [[constructive]], [[kind]], [[rational]], and [[compassionate]].
   - When interacting with others, either directly or indirectly, please keep in mind and follow the [[principle of charity]].
-  - When you disagree with someone, please prioritize mutual understanding over winning an argument.
+  - When you disagree with someone, please prioritize achieving greater mutual understanding over winning an argument.
 - If you made a mistake, apologize.
-  - If someone made a mistake but then apologized thoroughly and made [[amendments]] or [[reparations]], try to love them for that. Be mindful of the importance of [[forgiveness]].
-- The members of an [[agora]] can propose changes to its [[contract]] by reaching out to its [[maintainers]] or directly sending a [[pr]]. 
-- An [[agora]] can be forked at will and with no ill intent.
-- Every member of an [[agora]] is of course free to follow their personal extension of any well defined set of values. If you have a personal [[public contract]], please submit it to the [[agora]] at your earliest convenience.
+  - If someone made a mistake but then apologized thoroughly and made [[amends]] or [[reparations]], try to forgive them.
+- Members of this [[Agora]] are free to volunteer their personal extensions to this list, according to their own set of values, by writing in this node. 
+  - The [[Agora]] can be forked at will and with no presumption of ill intent by a subset of the community whenever contracts become incompatible.
+- This Agora is a repository of [[intents]].
 
-(See [[agora client]] or reach out to [[flancian]], [[vera]], [[bmann]], or any other of the member of the [[fedstoa]] if you'd like to get involved.)
+If you do not yet belong to this Agora and would like to become involved, please refer to [[agora editor]] or reach out to [[flancian]], [[vera]], [[neil]], or any other of the member of the [[flancia collective]].
 
