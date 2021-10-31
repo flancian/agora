@@ -139,3 +139,7 @@
 - target: j0lms
   url: https://github.com/j0lms/notes-md
   format: foam
+  
+- target: vera-wiki-anagora-org
+  url: vera.wiki.anagora.org
+  format: fedwiki
