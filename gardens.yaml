@@ -143,3 +143,8 @@
 - target: vera-wiki-anagora-org
   url: vera.wiki.anagora.org
   format: fedwiki
+
+- target: evan
+  url: github.com/boehs/oasis.git
+  protocol: git
+  format: obsidian
