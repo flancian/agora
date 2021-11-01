@@ -145,6 +145,6 @@
   format: fedwiki
 
 - target: evan
-  url: github.com/boehs/oasis.git
+  url: https://github.com/boehs/oasis.git
   protocol: git
   format: obsidian
