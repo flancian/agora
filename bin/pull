@@ -1,3 +1,3 @@
 #!/bin/bash
 . ~/agora-bridge/venv/bin/activate
-~/agora-bridge/gardens.py --config ~/agora/gardens.yaml --output-dir ~/agora/garden 
+~/agora-bridge/pull.py --config ~/agora/gardens.yaml --output-dir ~/agora/garden 
