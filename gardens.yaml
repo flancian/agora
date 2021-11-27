@@ -148,5 +148,5 @@
   url: https://github.com/boehs/oasis.git
   protocol: git
   format: obsidian
-  edit: https://github.com/boehs/oasis
+  edit: https://github.com/boehs/oasis/edit/master/{path}
   donate: https://flattr.com/@evan
