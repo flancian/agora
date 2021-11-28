@@ -1,6 +1,9 @@
 # Agora just pulls garden content from independent repos, perhaps it shouldn't be reproduced in the Agora repro proper.
 garden/
 
+# Social media streams go here.
+stream/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
