@@ -150,3 +150,7 @@
   format: obsidian
   edit: https://github.com/boehs/oasis/edit/master/{path}
   support: https://flattr.com/@evan
+
+- target: xiq
+  url: https://github.com/TheExGenesis/agora
+  format: obsidian
