@@ -4,6 +4,9 @@ garden/
 # Social media streams go here.
 stream/
 
+# Stoas go here.
+stoa/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
