@@ -138,8 +138,8 @@
   url: https://github.com/j0lms/notes-md
   format: foam
   
-- target: garden/vera-wiki-anagora-org
-  url: vera.wiki.anagora.org
+- target: garden/vera.wiki.anagora.org
+  url: http://vera.wiki.anagora.org
   format: fedwiki
 
 - target: garden/evan
@@ -155,4 +155,7 @@
 
 - target: stoa/doc.anagora.org
   url: https://github.com/flancia-coop/doc.anagora.org
+  protocol: git
+  edit: https://doc.anagora.org/{path}
+  support: https://anagora.org
   format: stoa
