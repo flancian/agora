@@ -156,6 +156,5 @@
 - target: stoa/doc.anagora.org
   url: https://github.com/flancia-coop/doc.anagora.org
   protocol: git
-  edit: https://doc.anagora.org/{path}
-  support: https://anagora.org
+  edit: https://doc.anagora.org/{slug}?edit
   format: stoa
