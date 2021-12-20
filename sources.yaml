@@ -153,6 +153,10 @@
   url: https://github.com/TheExGenesis/agora
   format: obsidian
 
+- target: garden/JackKausch
+  url: https://github.com/JackKausch/vaults
+  format: obsidian
+
 - target: stoa/doc.anagora.org
   url: https://github.com/flancia-coop/doc.anagora.org
   protocol: git
