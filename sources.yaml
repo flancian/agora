@@ -162,3 +162,11 @@
   protocol: git
   edit: https://doc.anagora.org/{slug}?edit
   format: stoa
+
+- target: garden/flancia.org
+  url: https://github.com/flancian/flancia
+  protocol: git
+  format: nikola
+  edit: https://github.com/flancian/flancia/edit/master/{path}
+  support: https://flancia.org
+
