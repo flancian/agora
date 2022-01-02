@@ -135,7 +135,7 @@
   format: foam
 
 - target: garden/j0lms
-  url: https://github.com/j0lms/notes-md
+  url: https://codeberg.org/j0lms/notes-md
   format: foam
   
 - target: garden/vera.wiki.anagora.org
