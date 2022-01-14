@@ -170,3 +170,6 @@
   edit: https://github.com/flancian/flancia/edit/master/{path}
   support: https://flancia.org
 
+- target: garden/Jayu
+  url: https://github.com/jayu-eleutheria/agora-digital-garden
+  format: obsidian
