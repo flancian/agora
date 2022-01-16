@@ -174,3 +174,6 @@
   url: https://teapot.systems/maya/mayagora.git
   format: tiddlywiki
 
+- target: garden/Jayu
+  url: https://github.com/jayu-eleutheria/agora-digital-garden
+  format: obsidian
