@@ -170,3 +170,7 @@
   edit: https://github.com/flancian/flancia/edit/master/{path}
   support: https://flancia.org
 
+- target: garden/maya
+  url: https://teapot.systems/maya/mayagora.git
+  format: tiddlywiki
+
