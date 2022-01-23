@@ -8,6 +8,7 @@
   url: https://github.com/flancian/garden.git
   protocol: git
   format: foam
+  edit: https://github.com/flancian/garden/edit/master/{path}
 
 - target: garden/bmann
   protocol: git
