@@ -101,7 +101,7 @@
 
 - target: garden/neil
   url: https://gitlab.com/ngm/commonplace-agora.git
-  format: foam
+  format: ox-agora
 
 - target: garden/patterning
   url: https://github.com/JonathanLorand/patterning.git
@@ -121,7 +121,7 @@
 
 - target: garden/ryan
   url: https://github.com/rfaulhaber/roam
-  format: org
+  format: ox-agora
 
 - target: garden/gyuri
   url: https://github.com/gyuri-lajos/gyuri
