@@ -6,6 +6,8 @@
 
 - target: garden/flancian
   url: https://github.com/flancian/garden.git
+  edit: https://github.com/flancian/garden/edit/master/{path}
+  web: https://github.com/flancian/garden/blob/master/{path}
   protocol: git
   format: foam
 
