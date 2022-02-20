@@ -103,6 +103,8 @@
 
 - target: garden/neil
   url: https://gitlab.com/ngm/commonplace-agora.git
+  edit: https://gitlab.com/ngm/commonplace-agora/-/edit/master/{path}
+  web: https://commonplace.doubleloop.net/{slug}
   format: ox-agora
 
 - target: garden/patterning
