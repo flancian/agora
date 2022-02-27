@@ -186,3 +186,8 @@
 - target: garden/darlim
   url: https://github.com/hdarlim/quartz
   format: quartz
+
+- target: garden/protopian
+  url: https://git.anagora.org/ProtopianFox/Agora-Garden.git 
+  format: obsidian
+
