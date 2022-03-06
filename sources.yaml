@@ -191,3 +191,6 @@
   url: https://git.anagora.org/ProtopianFox/Agora-Garden.git 
   format: obsidian
 
+- target: garden/melanocarpa
+  url: https://github.com/bouncepaw/melanocarpa.git
+  format: mycorrhiza
