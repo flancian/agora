@@ -148,10 +148,9 @@
   format: fedwiki
 
 - target: garden/evan
-  url: https://github.com/boehs/oasis.git
+  url: https://git.sr.ht/~boehs/oasis.git
   protocol: git
   format: obsidian
-  edit: https://github.com/boehs/oasis/edit/master/{path}
   support: https://flattr.com/@evan
 
 - target: garden/xiq
