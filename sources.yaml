@@ -193,3 +193,7 @@
 - target: garden/melanocarpa
   url: https://github.com/bouncepaw/melanocarpa.git
   format: mycorrhiza
+  
+- target: garden/blindpill
+  url: https://github.com/blindpill/notes.git
+  format: foam
