@@ -3,7 +3,7 @@ This is an [Agora](https://flancia.org/agora). You can find a reference implemen
 This Agora's architecture has several components distributed over three git repositories:
 
 - The *Agora root repository*, which you are browsing: <https://github.com/flancian/agora>. 
-  - This root repository contains a high level definition of the Agora as expressed by the list of digital gardens to be integrated (`gardens.yaml`) and the contract agreed upon by the community (`CONTRACT.md`).
+  - This root repository contains a high level definition of the Agora as expressed by the list of digital gardens to be integrated (`sources.yaml`) and the contract agreed upon by the community (`CONTRACT.md`).
 - The *Agora Server*: <https://github.com/flancian/agora-server>.
   - Which contains a reference Python / Flask web app that integrates and serves content. It is live at <https://anagora.org>.
 - The *Agora Bridge*: <https://github.com/flancian/agora-bridge>.
