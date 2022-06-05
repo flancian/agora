@@ -1,12 +1,14 @@
-# In development, this doesn't yet work.
+# In development, but this already works (results in a simple agora-server and agora-bridge setup running in the same container).
 #
-# To build:
-# $ docker build -t agora .
+# To build (you should be able to replace podman with docker):
+#
+# $ podman build -t agora .
 #
 # Then to drop into a shell, for example:
-# $ docker run -it --entrypoint /bin/bash agora
+# $ podman run -it --entrypoint /bin/bash agora
 #
-# (What's t
+# Or to make an Agora available in port 80 (if you are running as root or have allowed port 80 for users with sysctl):
+# podman run -p 80:5017 -dt --name agora agora
 
 FROM debian
 
