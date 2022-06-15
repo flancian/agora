@@ -198,6 +198,6 @@
   url: https://github.com/mnenoff/flancia01
   format: foam
   
-- tagert: garden/wilde-at-heart
+- target: garden/wilde-at-heart
   url: https://github.com/jlcolbert/jlcolbert.github.io.git
   format: hugo
