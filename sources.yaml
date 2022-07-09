@@ -62,8 +62,8 @@
   format: foam
 
 - target: garden/vera
-  url: https://gitlab.com/veracantcode/notes-pub.git 
-  format: obsidian
+  url: https://git.anagora.org/vera/notes.git 
+  format: foam
   
 - target: garden/vera-logseq
   url: https://github.com/fuck-capitalism/logseq.git
