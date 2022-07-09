@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 # Runs what I run in the anagora.org environment (Debian Linux).
 #
 # This script assumes a lot :)
@@ -14,8 +14,10 @@
 MODE=${1:-dev}
 
 git pull
-cd ../agora-server && ./update.sh 2>&1 > agora-server-update.log &
-cd ../agora-bridge && ./update.sh 2>&1 > agora-bridge-update.log &
+echo "Updating agora-server..."
+cd $HOME/agora-server && ./update.sh 2>&1 > agora-server-update.log &
+echo "Updating agora-bridge..."
+cd $HOME/agora-bridge && ./update.sh 2>&1 > agora-bridge-update.log &
 
 wait -n
 exit $?
