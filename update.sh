@@ -13,6 +13,9 @@
 
 MODE=${1:-dev}
 
+git pull
+# this is what the prod agora watches for
+touch /tmp/agora-restart
 cd ../agora-server && ./update-${MODE}.sh 2>&1 > agora-server-update.log &
 cd ../agora-bridge && ./update-${MODE}.sh 2>&1 > agora-bridge-update.log &
 
