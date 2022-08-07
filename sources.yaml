@@ -201,3 +201,15 @@
 - target: garden/wilde-at-heart
   url: https://github.com/jlcolbert/jlcolbert.github.io.git
   format: hugo
+
+- target: garden/rel8
+  url: https://github.com/OpenGlobalMind/rel8-wiki
+  web: https://wiki.rel8.dev/scalingsynthesis.com/{path}
+  edit: https://github.com/OpenGlobalMind/rel8-wiki/edit/master/{path}
+  format: obsidian
+
+- target: garden/scalingsynthesis
+  url: https://github.com/classicrob/quartz
+  web: https://scalingsynthesis.com/{path}
+  edit: https://github.com/classicrob/quartz/edit/master/{path}
+  format: quartz
