@@ -10,7 +10,6 @@
   web: https://github.com/flancian/garden/blob/master/{path}
   protocol: git
   format: foam
-  edit: https://github.com/flancian/garden/edit/master/{path}
 
 - target: garden/bmann
   protocol: git
@@ -189,6 +188,8 @@
 - target: garden/melanocarpa
   url: https://github.com/bouncepaw/melanocarpa.git
   format: mycorrhiza
+  edit: https://melanocarpa.lesarbr.es/edit/{slug}
+  web: https://melanocarpa.lesarbr.es/hypha/{slug}
   
 - target: garden/blindpill
   url: https://github.com/blindpill/notes.git
