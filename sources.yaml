@@ -214,3 +214,7 @@
   web: https://scalingsynthesis.com/{path}
   edit: https://github.com/classicrob/quartz/edit/master/{path}
   format: quartz
+
+- target: garden/khinsen
+  url: https://github.com/khinsen/agora
+  format: ox-agora
