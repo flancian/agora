@@ -216,5 +216,5 @@
   format: quartz
 
 - target: garden/khinsen
-  url: https://github.com/khinsen/agora
+  url: https://github.com/khinsen/agora-garden
   format: ox-agora
