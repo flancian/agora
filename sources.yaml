@@ -218,3 +218,7 @@
 - target: garden/khinsen
   url: https://github.com/khinsen/agora-garden
   format: ox-agora
+
+- target: garden/tekakutli
+  url: https://github.com/tekakutli/agora-garden
+  format: foam
