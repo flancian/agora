@@ -1,19 +1,13 @@
-# Welcome to the [[Agora]]!
+# Welcome to the [[Agora of Flancia]]!
 
-Ahoy there!
+**This [[Agora]] is a [[Knowledge Commons]].** 
 
-**This [[Agora]] is a [[wiki like]] [[experimental social network]] and [[distributed knowledge graph]].**
- 
-- [/nodes](/nodes) lists all [[pages]] in this Agora.
-  - A [[node]] is the set of all notes and resources with a given title or otherwise mapping to an [[entity description]]. Subnodes (blocks) in a node can come from a variety of sources; they are resources volunteered by Agora users through their independent [[repositories]]. As of August 2021, these are mostly notes from [[digital gardens]].
-  - [/latest](/latest) shows nodes by modification time.
-- [/users](/users) displays all users in this Agora. Click through to see their contributions.
-  - [/journals](/journals) displays all subnodes that *look like* they belong to a daily entry (these are subnodes whose filenames look like dates, such as `YYYY-MM-DD`).
+If you don't know what the above means (yet), don't fret: it just means it is a space that a community can build by pooling together resources, information, intentions. The Agora tries to integrate user contributions into a useful social (higher level) construct while preserving individual voices.
 
-The [[wikilink]] is the heart of this [[Agora]]: wikilinks serve as a tool to indicate a social [[context]] assembled out of individual and group contributions. In this Agora, [[foo bar]] will resolve to ***every resource*** that identifies with entity 'foo'; in particular, currently every file named ```foo-bar.md```, ```foo-bar.jpg```, ```foo-bar.png```, etc. An Agora tries to best-effort integrate user contributions while preserving meaning and volunteering interesting information. You can also think of it as a [[sequential wiki]].
+When you visit an Agora location, you visit a [[node]] in a shared graph -- which depending on usage can mean a **topic**, a **pattern**, or just an arbitrarily named **location**. There you will find all resources that the Agora thinks have a claim to *be* in that node, either directly by name or indirectly by association. By default all relevant resources will be shown one after the other, but more sophisticated interactions are possible. 
 
-**If you'd like to join this Agora, please refer to [[agora signup]]. If you'd like to run your own Agora, please refer to [[agora install]] and/or reach out to [[flancian]], the maintainer.**
+**If you would like to join this Agora, please refer to [[Agora signup]].**
 
-If you're interested in knowing what's coming next, please refer to [[agora plan]] or join [[flancia collective]].
+The [[Agora Platform]] you are (likely) reading this in is [[Free Software]]. If you would like to contribute or are interested in running your own Agora, please refer to [[Agora install]] and consider joining [[Flancia Collective]] or reaching out to a member. We are a loose collection of people who [[work in public]] developing this Agora.
 
-Have a nice day!
+Thank you for visiting the Agora. May you be happy!
