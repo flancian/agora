@@ -30,6 +30,7 @@ RUN git clone https://github.com/flancian/agora-server.git
 RUN git clone https://github.com/flancian/agora-bridge.git
 
 WORKDIR /home/agora/agora-server
+RUN npm install
 RUN poetry install
 EXPOSE 5017
 
