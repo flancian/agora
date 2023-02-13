@@ -30,7 +30,7 @@ MAINTAINER Flancian "0@flancia.org"
 USER root
 
 RUN apt-get update
-RUN apt-get install -y git python3 python3-pip python3-venv
+RUN apt-get install -y git python3 python3-pip npm
 RUN pip3 install poetry
 RUN groupadd -r agora -g 1001 && useradd -u 1001 -r -g agora -s /bin/bash -c "Agora" agora
 
@@ -41,6 +41,7 @@ RUN git clone https://github.com/flancian/agora-server.git
 RUN git clone https://github.com/flancian/agora-bridge.git
 
 WORKDIR /home/agora/agora-server
+RUN npm install
 RUN poetry install
 EXPOSE 5017
 
