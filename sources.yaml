@@ -10,7 +10,6 @@
   web: https://github.com/flancian/garden/blob/master/{path}
   protocol: git
   format: foam
-  edit: https://github.com/flancian/garden/edit/master/{path}
 
 - target: garden/bmann
   protocol: git
@@ -189,6 +188,8 @@
 - target: garden/melanocarpa
   url: https://github.com/bouncepaw/melanocarpa.git
   format: mycorrhiza
+  edit: https://melanocarpa.lesarbr.es/edit/{slug}
+  web: https://melanocarpa.lesarbr.es/hypha/{slug}
   
 - target: garden/blindpill
   url: https://github.com/blindpill/notes.git
@@ -213,3 +214,11 @@
   web: https://scalingsynthesis.com/{path}
   edit: https://github.com/classicrob/quartz/edit/master/{path}
   format: quartz
+
+- target: garden/khinsen
+  url: https://github.com/khinsen/agora-garden
+  format: ox-agora
+
+- target: garden/tekakutli
+  url: https://github.com/tekakutli/agora-garden
+  format: foam
