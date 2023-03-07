@@ -222,3 +222,8 @@
 - target: garden/tekakutli
   url: https://github.com/tekakutli/agora-garden
   format: foam
+  
+- target: garden/vera-mycorrhiza
+  url: https://git.anagora.org/vera/myconotes.git
+  format: mycorrhiza
+
