@@ -191,6 +191,11 @@
   edit: https://melanocarpa.lesarbr.es/edit/{slug}
   web: https://melanocarpa.lesarbr.es/hypha/{slug}
   
+- target: garden/betula-site
+  url: https://git.sr.ht/~bouncepaw/betula-site
+  format: mycorrhiza
+  web: https://betula.mycorrhiza.wiki/{slug}
+  
 - target: garden/blindpill
   url: https://github.com/blindpill/notes.git
   format: foam
