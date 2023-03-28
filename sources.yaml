@@ -188,8 +188,8 @@
 - target: garden/melanocarpa
   url: https://github.com/bouncepaw/melanocarpa.git
   format: mycorrhiza
-  edit: https://melanocarpa.lesarbr.es/edit/{slug}
-  web: https://melanocarpa.lesarbr.es/hypha/{slug}
+  edit: https://garden.bouncepaw.com/edit/{slug}
+  web: https://garden.bouncepaw.com/hypha/{slug}
   
 - target: garden/betula-site
   url: https://git.sr.ht/~bouncepaw/betula-site
