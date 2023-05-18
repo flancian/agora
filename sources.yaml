@@ -232,3 +232,6 @@
   url: https://git.anagora.org/vera/myconotes.git
   format: mycorrhiza
 
+- target: garden/jayu
+  url: https://github.com/jayu-eleutheria/agora-digital-garden.git
+  format: obsidian
