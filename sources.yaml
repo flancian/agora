@@ -235,3 +235,7 @@
 - target: garden/jayu
   url: https://github.com/jayu-eleutheria/agora-digital-garden.git
   format: obsidian
+
+- target: garden/communecter
+  url: https://gitlab.adullact.net/pixelhumain/codoc
+  format: communecter
