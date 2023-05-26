@@ -239,3 +239,7 @@
 - target: garden/communecter
   url: https://gitlab.adullact.net/pixelhumain/codoc
   format: communecter
+
+- target: garden/oceane
+  url: https://git.sr.ht/~oceane/pks
+  format: org
