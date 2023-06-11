@@ -196,6 +196,10 @@
   format: mycorrhiza
   web: https://betula.mycorrhiza.wiki/{slug}
   
+- target: garden/betula-bouncepaw
+  url: https://git.agor.ai/bouncepaw/betulagora-bouncepaw
+  format: mycorrhiza
+  
 - target: garden/blindpill
   url: https://github.com/blindpill/notes.git
   format: foam
