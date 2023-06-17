@@ -27,7 +27,7 @@
   format: mycorrhiza
 
 - target: garden/flancian-betula
-  url: https://git.agor.ai/bouncepaw/betulagora-bouncepaw
+  url: https://git.agor.ai/bouncepaw/betulagora-flancian
   format: mycorrhiza
 
 - target: garden/bmann
