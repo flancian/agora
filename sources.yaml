@@ -11,6 +11,25 @@
   protocol: git
   format: foam
 
+- target: garden/melanocarpa
+  url: https://github.com/bouncepaw/melanocarpa.git
+  format: mycorrhiza
+  edit: https://garden.bouncepaw.com/edit/{slug}
+  web: https://garden.bouncepaw.com/hypha/{slug}
+  
+- target: garden/betula-site
+  url: https://git.sr.ht/~bouncepaw/betula-site
+  format: mycorrhiza
+  web: https://betula.mycorrhiza.wiki/{slug}
+  
+- target: garden/bouncepaw-betula
+  url: https://git.agor.ai/bouncepaw/betulagora-bouncepaw
+  format: mycorrhiza
+
+- target: garden/flancian-betula
+  url: https://git.agor.ai/bouncepaw/betulagora-bouncepaw
+  format: mycorrhiza
+
 - target: garden/bmann
   protocol: git
   url: https://github.com/bmann/bmcgarden.git
@@ -184,21 +203,6 @@
 - target: garden/protopian
   url: https://git.anagora.org/ProtopianFox/Agora-Garden.git 
   format: obsidian
-
-- target: garden/melanocarpa
-  url: https://github.com/bouncepaw/melanocarpa.git
-  format: mycorrhiza
-  edit: https://garden.bouncepaw.com/edit/{slug}
-  web: https://garden.bouncepaw.com/hypha/{slug}
-  
-- target: garden/betula-site
-  url: https://git.sr.ht/~bouncepaw/betula-site
-  format: mycorrhiza
-  web: https://betula.mycorrhiza.wiki/{slug}
-  
-- target: garden/betula-bouncepaw
-  url: https://git.agor.ai/bouncepaw/betulagora-bouncepaw
-  format: mycorrhiza
   
 - target: garden/blindpill
   url: https://github.com/blindpill/notes.git
