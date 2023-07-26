@@ -251,3 +251,7 @@
 - target: garden/oceane
   url: https://git.sr.ht/~oceane/pks
   format: org
+
+- target: garden/vera-journal
+  url: https://github.com/codegod100/daily.git
+  format: foam
