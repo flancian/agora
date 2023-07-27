@@ -252,6 +252,11 @@
   url: https://git.sr.ht/~oceane/pks
   format: org
 
+- target: garden/ajhalili2006
+  url: https://mau.dev/andreijiroh.dev/digital-garden.git
+  format: obsidian
+
 - target: garden/vera-journal
   url: https://github.com/codegod100/daily.git
   format: foam
+  
