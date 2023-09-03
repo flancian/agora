@@ -1,0 +1,9 @@
+# - this file is meant to be consumed by [[agora server]]: https://github.com/flancian/agora-server.
+# - for instructions to set up a fully working [[agora]] using this and other repos, please consult https://anagora.org/agora-install or the root repository: https://github.com/flancian/agora.
+# - see also: sources.yaml for the actual repositories being consumed. That file's contents might be folded into this one at a later time.
+# -- [[flancian]] (2023-08)
+
+agora_name: "Agora of Flancia"
+url_base: "https://anagora.org"
+uri_base: "anagora.org"
+api_base: "https://api.anagora.org"
