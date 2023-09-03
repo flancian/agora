@@ -1,11 +1,16 @@
-# Agora just pulls garden content from independent repos, perhaps it shouldn't be reproduced in the Agora repro proper.
+# Agora just pulls garden content from independent repos, perhaps this shouldn't be reproduced in the Agora repro proper.
+# You could comment this out to get an all-inclusive Agora (a root repository that contains a snapshot of all its sources). 
+# You might get trouble with nested git repositories. Look into submodules if you want to do that.
 garden/
+gardens/
 
 # Social media streams go here.
 stream/
+streams/
 
 # Stoas go here.
 stoa/
+stoas/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
