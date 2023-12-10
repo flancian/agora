@@ -259,4 +259,8 @@
 - target: garden/vera-journal
   url: https://github.com/codegod100/daily.git
   format: foam
-  
+
+- target: garden/sparql
+  url: https://github.com/kvistgaard/sparql.git
+  format: logseq
+
