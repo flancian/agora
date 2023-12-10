@@ -249,7 +249,7 @@
   format: communecter
 
 - target: garden/oceane
-  url: https://git.sr.ht/~oceane/pks
+  url: https://git.sr.ht/~oceane/connaissances-personnelles-au-format-markdown
   format: org
 
 - target: garden/ajhalili2006

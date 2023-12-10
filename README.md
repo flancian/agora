@@ -1,5 +1,7 @@
 # Welcome to the Agora!
+
 This is an [Agora](https://flancia.org/agora). You can find a reference implementation live at <https://anagora.org/>.
+
 This Agora's architecture has several components distributed over three git repositories:
 
 - The *Agora root repository*, which you are browsing: <https://github.com/flancian/agora>. 
