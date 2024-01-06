@@ -6,8 +6,9 @@ Which people, you ask? Us [[Flancians]] -- and our friends!
 
 ## Navigating
 
-- See all [[Nodes]] -- which includes a large graph of the Agora which might crash your browser :).
-- Review the list of [[Users]] contributing to this Agora.
+- See the list of all [[Nodes]] and all [[Users]] in this Agora. 
+  - An <strong>Agora node</strong> tries to aggregate all resources that are relevant to a query or location.
+  - An <strong>Agora user</strong> is a person or repository who has contributed resources.
 - Visit [[Journals]] for a timeline of resources that seem journal-like.
 - Visit [[Index]] for the community index.
 - Visit [[Random]] for a random node.
