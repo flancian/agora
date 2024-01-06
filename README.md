@@ -7,10 +7,12 @@ Which people, you ask? Us [[Flancians]] -- and our friends!
 ## Navigating
 
 - Review the list of [[Users]] contributing to this Agora.
-- See the all [[Nodes]] -- which includes a large dynamic graph of the Agora which might crash your browser :).
+- See all [[Nodes]] -- which includes a large dynamic graph of the Agora which might crash your browser :).
 - Visit [[Journals]] for a timeline of resources that seem journal-like.
+- Visit [[Index]] for the community index.
 - Visit [[Random]] for a random node.
-- Or just type something on the search bar above :) You will be sent to the <strong>Node</strong> view for the matching location, which tries to surface relevant resources within the Agora and around the internet.
+
+- Or just <strong>type something on the search bar</strong> above :) You will be sent to the <strong>Node</strong> view for the matching location, which tries to surface relevant resources within the Agora and around the internet.
 
 ## To join
 
@@ -28,5 +30,4 @@ See [[Agora architecture]] for details on how the Agora works and instructions t
 ## Farewell for now!
 
 Please reach out if you need anything, enjoy the Agora, and have a great day! 🍮
-
 
