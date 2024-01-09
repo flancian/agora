@@ -37,7 +37,7 @@ USER root
 
 RUN apt-get update
 RUN apt-get install -y git python3 python3-pip npm
-RUN pip3 install poetry
+RUN pip3 install poetry --break-system-packages
 RUN groupadd -r agora -g 1001 && useradd -u 1001 -r -g agora -s /bin/bash -c "Agora" agora
 RUN mkdir -p /home/agora && chown -R agora:agora /home/agora
 
