@@ -1,4 +1,4 @@
-# Welcome to the Agora of Flancia!
+# Welcome to this [[Agora of Flancia]]!
 
 An [Agora](https://flancia.org/agora) is a <strong>Free Knowledge Commons</strong> built by the people, for the people.
 
