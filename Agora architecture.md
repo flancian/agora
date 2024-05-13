@@ -28,10 +28,8 @@ Of course you are also free to run your own Agora! To do this, just run the brid
 
 # To join
 
-Please see [[README]].
+- #pull please see [[README]] or refer to https://anagora.org.
 
 # For more information
 
-See the [[Agora Chapter]] in the [[PKG Book]].
-
-
+- #pull See the [[Agora Chapter]] in the [[PKG Book]].

@@ -1,32 +1,27 @@
-# Welcome to this [[Agora of Flancia]]!
+# Welcome to the [[Agora of Flancia]]!
 
-An [Agora](https://flancia.org/agora) is a <strong>Free Knowledge Commons</strong> built by the people, for the people.
+An [Agora](https://flancia.org/agora) is a [[Free Knowledge Commons]] built by the people, for the people.
 
-Which people, you ask? Us [[Flancians]] -- and our friends!
+Which people, you ask? In the case of this Agora: us [[Flancians]] -- for our friends!
 
-## Navigating
+# Navigating
 
-- See the list of all [[Nodes]] and all [[Users]] in this Agora. 
-  - An <strong>Agora node</strong> tries to aggregate all resources that are relevant to a query or location.
-  - An <strong>Agora user</strong> is a person or repository who has contributed resources.
-- Visit [[Journals]] for a timeline of resources that seem journal-like.
-- Visit [[Index]] for the community index.
-- Visit [[Random]] for a random node.
-- Or just <strong>type something on the search bar</strong> above :) You will be sent to the <strong>Node</strong> view for the matching location, which tries to surface relevant resources within the Agora and around the internet.
+An [[Agora]] is a "new" type of website -- you can think of it as a giant [[wiki]] assembled from resources contributed by its users, either as repositories ([[digital gardens]], [[wikis]], [[knowledge bases]], etc.) or as individual posts (from [[blogs]] or [[social networks]]).
 
-## To join
+Contributed resources are usually shown in some order with clear attribution whenever you visit an [[Agora Location]], or [[Node]] for short. 
 
-You will need to send a [[PR]] adding a pointer to your git repository containing a digital garden or blog to [[sources.yaml]] -- or, if you don't know what that means, please reach out to @[flancian](https://anagora.org/flancian) or another member of [Flancia Collective](https://anagora.org/flancia-collective) to discuss what is needed to let us find (and import continuously) your content from around internet. 
+It's probably a good idea to click around and see what you find. You can see the full list of [[nodes]] available in this Agora by clicking on this link or scrolling down.
 
-Please indicate your preferred username and your acceptance of the instance's [[CONTRACT]] as of the time of writing. ***If you contribute your repository to an Agora you are assumed to be in agreement with its current [[CONTRACT]] as posted by user @agora.*** 
+Have fun! :)
 
-You can also write to this Agora from the [[Fediverse]] (social media) by following and interacting with an [[Agora Bot]].
+# To join
 
-## Learn more
+See [[Join]] and/or [[Edit]].
+
+# Where to go from here
 
 See [[Agora architecture]] for details on how the Agora works and instructions to run your own.
 
-## Farewell for now!
+You can browse the list of all [[nodes]] and [[users]] in this Agora, together with entry point nodes [[Index]] and [[Agora]] below.
 
-Please reach out if you need anything, enjoy the Agora, and have a great day! 🍮
-
+Please [[reach out]] if you need anything, enjoy the Agora, and have a great day! 🍮

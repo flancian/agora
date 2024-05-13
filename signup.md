@@ -1,0 +1,2 @@
+- Strictly speaking in an [[Agora]] you shouldn't need to [[sign up]] upfront to get benefit out of it.
+- You should also be able to browse and contribute anonymously, and [[sign in]] with existing identities and repositories :)
