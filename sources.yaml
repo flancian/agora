@@ -235,6 +235,10 @@
 - target: garden/tekakutli
   url: https://github.com/tekakutli/agora-garden
   format: foam
+
+- target: garden/tekakutli
+  url: https://codeberg.org/tekakutli/neuralnomicon
+  format: org
   
 - target: garden/vera-mycorrhiza
   url: https://git.anagora.org/vera/myconotes.git
@@ -253,7 +257,20 @@
   format: org
 
 - target: garden/ajhalili2006
-  url: https://mau.dev/andreijiroh.dev/digital-garden.git
+  url: https://mau.dev/andreijiroh-dev/wiki
+  # powered by mkdocs-material, baby
+  web: https://wiki.andreijiroh.xyz/{path}
+  edit: https://mau.dev/andreijiroh-dev/wiki/edit/main/{path}
+  # technically foam, although I may sometimes fire up Obsidian, formatting chaos
+  # are expected
+  format: foam
+
+- target: garden/ajhalili2006-old
+  url: https://mau.dev/ajhalili2006-archive/digital-garden.git
+  # these migration links will use Cloudflare Workers behind the scenes for
+  # redirection handling, but I may consider using Deno Deploy instead
+  web: https://wiki.andreijiroh.xyz/migrate/agora?path={path}
+  edit: https://wiki.andreijiroh.xyz/migrate/agora?path={path}&edit=1
   format: obsidian
 
 - target: garden/vera-journal
