@@ -236,7 +236,7 @@
   url: https://github.com/tekakutli/agora-garden
   format: foam
 
-- target: garden/tekakutli
+- target: garden/tekakutli-org
   url: https://codeberg.org/tekakutli/neuralnomicon
   format: org
   
