@@ -235,6 +235,10 @@
 - target: garden/tekakutli
   url: https://github.com/tekakutli/agora-garden
   format: foam
+
+- target: garden/tekakutli
+  url: https://codeberg.org/tekakutli/neuralnomicon
+  format: org
   
 - target: garden/vera-mycorrhiza
   url: https://git.anagora.org/vera/myconotes.git
