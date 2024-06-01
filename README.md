@@ -2,7 +2,7 @@
 
 This [Agora](https://flancia.org/agora) is a free [[Knowledge Commons]] built by the people, for the people.
 
-Which people? Us [[Flancians]] -- and our friends!
+Which people, you may wonder? Us [[Flancians]] -- and our friends!
 
 # Navigating
 
@@ -12,14 +12,12 @@ A quick tour will drive the point home better than a thousand words.
   - An <strong>Agora node</strong> is an aggregated view of resources that are relevant for a query or location. 
   - An <strong>Agora user</strong> is anyone who has contributed resources, either as part of a repository or as individual (e.g. social media) posts.
 - You can visit the node called [[Index]] to see the community-maintained index of this Agora, which is richer than this one.
-- You can visit [[Journals]] for an aggregated view of journal entries of other resources that seem time-related.
+- You can visit [[Journals]] for an aggregated view of journal entries and other resources that seem time-related.
 - You can check out special node [[Random]] for a random node :)
 
 # Joining
 
-An Agora is a bit different from most other sites around the internet in that joining is a two step process that begins elsewhere :) 
-
-First you take notes or make posts in the platform(s) of your choice; and then you tell an Agora that you'd like to contribute those resources to the Commons.
+The <strong>Agora</strong> is a bit different from most other sites around the internet in that joining is a two step process that begins elsewhere :) First you take notes or make posts in the platform(s) of your choice; and then you tell an Agora that you'd like to contribute those resources to the <strong>Commons</strong>.
 
 ## Contributing your notes
 
