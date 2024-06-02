@@ -1,1 +1,2 @@
-- #pull [[contact]] [[help]] [[signup]]
+- #push [[contact]] [[help]]
+- #pull [[flancia collective]] [[agora discuss]]
