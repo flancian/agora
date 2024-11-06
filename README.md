@@ -1,22 +1,21 @@
 # Welcome to the [[Agora of Flancia]]!
 
-The *[Agora](https://flancia.org/agora)* is a free knowledge *[[Commons]]* built by the people, for the people.
+This *[Agora](https://flancia.org/agora)* is a [[Free]] [[Knowledge]] [[Commons]] built by people for the benefit of all beings.
 
 Which people, you ask? 
 
-In the case of this particular Agora: us [[Flancians]] -- for our [[friends]]!
+In the case of this particular Agora: us [[Flancians]] -- and our [[friends]]!
 
 # Navigating
 
 A quick tour of the Agora will hopefully communicate the intentions of the project better than many words of introduction.
 
-- You can see the list of all [[Nodes]] and the the [[Users]] who contributed them.
-  - A <strong>Node</strong> is an aggregated view of resources that are relevant for a query or location. 
-  - A <strong>User</strong> is anyone who has contributed resources to the Commons, either as part of an Agora repository or through social media.
-- See node [[Index]] for the community-maintained index of this Agora, which is richer than this one, and will be embedded/transcluded/pulled for you below.
-- See special node [[Journals]] for an aggregated view of journal entries and other resources that seem relevant in a time context.
-- See special node [[Random]] for a random node out of the many thousands gathered so far.
-  - Warning: could be addictive :).
+- See the list of all [[Nodes]].
+  - A <strong>Node</strong> is a set of resources (mostly text notes and images) that are relevant for a query or location. 
+- See the [[Users]] who contributed resources to this Agora so far.
+  - A <strong>User</strong> is anyone who has contributed resources to the Agora Commons, either as part of a repository or individually through social media.
+- See node [[Index]] for the community-maintained index of this Agora, which is richer than this one, and will be embedded or "pulled" for you below.
+- See special node [[Random]] for a random node out of the many thousands gathered so far. Warning: can be addictive :).
 
 # Joining
 
