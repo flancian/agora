@@ -6,7 +6,7 @@ This *[Agora](https://flancia.org/agora)* is a [[Free]] [[Knowledge]] [[Commons]
 
 A quick tour of the Agora might be the best way to communicate its underlying goals and intentions.
 
-- A <strong>Node</strong> is the set of community contributions whose titles match the Agora location (i.e. what you searched for). 
+- A <strong>Node</strong> is the set of community contributions whose titles match an Agora location (i.e. what you searched for).
     - You can start by seeing the list of all [[Nodes]] in this Agora.
     - Or visit node [[Index]], included below; it is the community-maintained index of this Agora, which is richer and more diverse than this one.
     - Or visit special location [[Random]] which will send you to a random node out of the many thousands gathered so far.
