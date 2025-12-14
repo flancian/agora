@@ -281,3 +281,8 @@
   url: https://github.com/kvistgaard/sparql.git
   format: logseq
 
+- target: garden/matthieuG
+  url: https://github.com/lagouttiere-crypto/matthieu-gaudeau.github.io.git
+  format: quartz
+
+

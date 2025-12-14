@@ -17,7 +17,7 @@
 
 # Welcome to the [[Agora of Flancia]]!
 
-This *[Agora](https://flancia.org/agora)* is a [[Free]] [[Knowledge]] [[Commons]] built for the benefit of beings.
+This *[Agora](https://flancia.org/agora)* is a [[Free]] [[Knowledge]] [[Commons]] for the benefit of beings.
 
 # Navigating
 
