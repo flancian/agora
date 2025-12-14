@@ -64,7 +64,7 @@ git clone git@github.com/flancian/agora.git
 Then, create a branch and add your own garden as a subtree in the Agora repository:
 ```
 cd agora
-git subtree add --prefix agora/$USERNAME $GARDEN -b $USERNAME master --squash
+git subtree add --prefix agora/$USERNAME $GARDEN -b $USERNAME main --squash
 ```
 
 Then, commit the addition (to your local repository) and send a PR to incorporate it into the main repository:

@@ -6,8 +6,8 @@
 
 - target: garden/flancian
   url: https://github.com/flancian/garden.git
-  edit: https://github.com/flancian/garden/edit/master/{path}
-  web: https://github.com/flancian/garden/blob/master/{path}
+  edit: https://github.com/flancian/garden/edit/main/{path}
+  web: https://github.com/flancian/garden/blob/main/{path}
   protocol: git
   format: foam
 
@@ -189,7 +189,7 @@
   url: https://github.com/flancian/flancia
   protocol: git
   format: nikola
-  edit: https://github.com/flancian/flancia/edit/master/{path}
+  edit: https://github.com/flancian/flancia/edit/main/{path}
   support: https://flancia.org
 
 - target: garden/maya

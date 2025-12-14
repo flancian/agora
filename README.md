@@ -1,30 +1,19 @@
 > [!IMPORTANT]
-> **Branch Renaming Notice (Effective 2025-09-15)**
+> **Branch Renaming Notice (Completed 2025-12-14)**
 >
-> Agora projects will migrate their default branch from `master` to `main` on or after **September, 2025**, to align with modern Git standards.
+> This repository has migrated its default branch from `master` to `main`.
 >
-> If you are in a master branch after the time of migration and you see no changes, please migrate to main as per the following instructions. While GitHub will automatically redirect web links, this change requires this one-time update for any local clones.
->
-> Please run the following commands to update your local repository:
+> If you have a local clone of this repository, please update it by running:
 >
 > ```bash
-> # Switch to your local master branch
 > git checkout master
->
-> # Rename it to main
 > git branch -m master main
->
-> # Fetch the latest changes from the remote
 > git fetch
->
-> # Point your new main branch to the remote main branch
 > git branch -u origin/main main
->
-> # (Optional) Clean up old remote tracking branch
 > git remote prune origin
 > ```
 >
-> Thank you for your understanding as we keep the Agora aligned with current best practices!
+> Thank you for keeping the Agora aligned with modern standards!
 
 # Welcome to the [[Agora of Flancia]]!
 
