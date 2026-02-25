@@ -1,23 +1,6 @@
-> [!IMPORTANT]
-> **Branch Renaming Notice (Completed 2025-12-14)**
->
-> This repository has migrated its default branch from `master` to `main`.
->
-> If you have a local clone of this repository, please update it by running:
->
-> ```bash
-> git checkout master
-> git branch -m master main
-> git fetch
-> git branch -u origin/main main
-> git remote prune origin
-> ```
->
-> Thank you for keeping the Agora aligned with modern standards!
-
 # Welcome to the [[Agora of Flancia]]!
 
-This *[Agora](https://flancia.org/agora)* is a [[Free]] [[Knowledge]] [[Commons]] for the benefit of beings.
+The *[Agora](https://flancia.org/agora)* is a [[Free]] [[Knowledge]] [[Commons]] for the benefit of beings.
 
 # Navigating
 
