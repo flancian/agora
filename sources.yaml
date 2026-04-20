@@ -133,7 +133,7 @@
   target: garden/JackKausch
   url: https://github.com/JackKausch/vaults
 - edit: https://doc.anagora.org/{slug}?edit
-  format: stoa
+  format: stoa-export
   protocol: git
   target: stoa/doc.anagora.org
   url: https://github.com/flancia-coop/doc.anagora.org
