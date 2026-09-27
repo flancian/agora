@@ -1,0 +1,106 @@
+# [[agora]] compose specification
+#
+# Part of the [[Agora of Flancia]] — an open knowledge commons.
+# https://anagora.org
+#
+# This file orchestrates the local or containerized Agora stack:
+# - [[agora-server]]: Renders the web UI, graph, wikilinks, and nodes (port 5017)
+# - [[agora-bridge]]: API for federated integration and node submission (port 5018)
+# - [[agora-puller]]: Periodic worker that keeps gardens synced via sources.yaml
+# - [[bots]] (optional profile): Mastodon and Bluesky federation bots
+#
+# Usage with [[podman-compose]] or [[docker compose]]:
+#
+#   # Run core stack (server, bridge, puller):
+#   $ podman-compose up -d
+#
+#   # Run with bots enabled:
+#   $ podman-compose --profile bots up -d
+#
+#   # Follow logs:
+#   $ podman-compose logs -f
+#
+# Enjoy! For the benefit of all beings.
+
+services:
+  server:
+    build:
+      context: ../agora-server
+      dockerfile: Dockerfile
+    image: localhost/agora-server:latest
+    container_name: agora-server
+    restart: unless-stopped
+    ports:
+      - "${AGORA_SERVER_PORT:-5017}:5017"
+    environment:
+      - AGORA_PATH=/home/agora/agora
+      - AGORA_CONFIG=ProductionConfig
+      - FLASK_ENV=production
+      - URL_BASE=http://localhost:5017
+      - AGORA_BRIDGE_URL=http://bridge:5018
+      - PORT=5017
+      - GUNICORN_WORKERS=4
+    volumes:
+      - .:/home/agora/agora:Z
+    depends_on:
+      - bridge
+
+  bridge:
+    build:
+      context: ../agora-bridge
+      dockerfile: Dockerfile
+    image: localhost/agora-bridge:latest
+    container_name: agora-bridge
+    restart: unless-stopped
+    ports:
+      - "${AGORA_BRIDGE_PORT:-5018}:5018"
+    environment:
+      - AGORA_PATH=/home/agora/agora
+      - FLASK_ENV=production
+    volumes:
+      - .:/home/agora/agora:Z
+
+  puller:
+    image: localhost/agora-bridge:latest
+    container_name: agora-puller
+    restart: unless-stopped
+    environment:
+      - AGORA_PATH=/home/agora/agora
+    volumes:
+      - .:/home/agora/agora:Z
+    working_dir: /home/agora/agora-bridge
+    command: >
+      bash -c "while true; do
+        echo '[puller] Running garden sync via pull.py...';
+        uv run ./pull.py --config /home/agora/agora/sources.yaml --output-dir /home/agora/agora --reset True || true;
+        echo '[puller] Sync finished. Sleeping for 1 hour...';
+        sleep 3600;
+      done"
+    depends_on:
+      - bridge
+
+  bot-mastodon:
+    image: localhost/agora-bridge:latest
+    container_name: agora-bot-mastodon
+    restart: unless-stopped
+    profiles:
+      - bots
+    environment:
+      - AGORA_PATH=/home/agora/agora
+    volumes:
+      - .:/home/agora/agora:Z
+    working_dir: /home/agora/agora-bridge
+    command: ["./run-mastodon-bot-prod.sh"]
+
+  bot-bluesky:
+    image: localhost/agora-bridge:latest
+    container_name: agora-bot-bluesky
+    restart: unless-stopped
+    profiles:
+      - bots
+    environment:
+      - AGORA_PATH=/home/agora/agora
+    volumes:
+      - .:/home/agora/agora:Z
+    working_dir: /home/agora/agora-bridge
+    command: ["./run-bluesky-bot-prod.sh"]
