@@ -123,3 +123,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Nix build symlinks
+result
+result-*
