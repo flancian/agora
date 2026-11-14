@@ -36,13 +36,13 @@ Then write posts containing at least one [[wikilink]]; they will be linked in th
 
 ## Running with Nix
 
-If you use [Nix with flakes enabled](https://wiki.nixos.org/wiki/Flakes), you can run a local Agora stack (`agora-server` + `agora-bridge`) in one command:
+If you use [Nix with flakes enabled](https://wiki.nixos.org/wiki/Flakes), this repository doubles as the Agora control center CLI (`agora-server` + `agora-bridge`):
 
 ```bash
-AGORA_PATH=/tmp/my-agora nix run github:flancian/agora
+nix run github:flancian/agora -- --path /tmp/my-agora --server-port 8080 --bridge-port 8081 --dev
 ```
 
-Run `nix run github:flancian/agora -- --help` for subcommands (`init`, `up`, `server`, `bridge`, `worker`, `pull`).
+Run `nix run github:flancian/agora -- --help` for all commands (`up`, `init`, `status`, `server`, `bridge`, `worker`, `pull`, `import-stoa`, `feed`) and overrides (`--path`, `--server-port`, `--bridge-port`, `--config`, `--workers`, `--url-base`, `--dev`, `--pull`, or matching env vars like `AGORA_PATH` and `AGORA_SERVER_PORT`).
 
 ## For more…
 
