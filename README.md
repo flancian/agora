@@ -34,6 +34,16 @@ You can also contribute to this Agora straight from social media! To do so, you 
 
 Then write posts containing at least one [[wikilink]]; they will be linked in the mentioned nodes. You can additionally opt into storing copies of your messages and #hashtag handling by going through the [[opt in]] process once.
 
+## Running with Nix
+
+If you use [Nix with flakes enabled](https://wiki.nixos.org/wiki/Flakes), you can run a local Agora stack (`agora-server` + `agora-bridge`) in one command:
+
+```bash
+AGORA_PATH=/tmp/my-agora nix run github:flancian/agora
+```
+
+Run `nix run github:flancian/agora -- --help` for subcommands (`init`, `up`, `server`, `bridge`, `worker`, `pull`).
+
 ## For more…
 
 - If you don't use any of the above systems but would still like to contribute your writing or other media, please [[reach out]] and we'll try to accommodate your preferred formats and sources!

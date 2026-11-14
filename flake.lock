@@ -10,11 +10,11 @@
         "uv2nix": "uv2nix"
       },
       "locked": {
-        "lastModified": 1794655878,
-        "narHash": "sha256-2e98NTTh7uai5EhGPsYR7LochgjuLku/L8bUU84R8hg=",
+        "lastModified": 1794656877,
+        "narHash": "sha256-uSHb98xXHcVwQpNJV09jzZ2tSNN0bgy6ex7a3xaUYmQ=",
         "owner": "flancian",
         "repo": "agora-bridge",
-        "rev": "1f4f66480aab30a380f8af987fe0f45505224c7d",
+        "rev": "f915dec97e621ccc21001c805340846f74adcc5d",
         "type": "github"
       },
       "original": {
@@ -33,11 +33,11 @@
         "uv2nix": "uv2nix_2"
       },
       "locked": {
-        "lastModified": 1794655855,
-        "narHash": "sha256-CryxeRR2yizeRhpOwNN681mROnpi++eOi4Wjg4OS9Cw=",
+        "lastModified": 1794656868,
+        "narHash": "sha256-O+IpzfiRHgNeUFlk/pbnVcJppPw8ZuJFcBVSkJBki40=",
         "owner": "flancian",
         "repo": "agora-server",
-        "rev": "68066e3e8381d1fcfdf11ebbf4041f31547123a0",
+        "rev": "61244d0d7b9ffcea1c75a292833ef2ce44085f0e",
         "type": "github"
       },
       "original": {
